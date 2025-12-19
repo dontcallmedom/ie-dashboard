@@ -1,1 +1,4078 @@
-../cg-monitor/hr-reviewers.json
+[
+  {
+    "id": 160680,
+    "reviewers": {
+      "pes10k": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/187",
+          "created_at": "2025-12-01T04:19:30Z",
+          "closed_at": "2025-12-08T19:42:59Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/186",
+          "created_at": "2025-12-01T02:41:56Z",
+          "closed_at": "2025-12-08T19:42:54Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/184",
+          "created_at": "2025-11-20T16:47:15Z",
+          "closed_at": "2025-12-08T19:42:47Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/183",
+          "created_at": "2025-11-20T16:45:26Z",
+          "closed_at": "2025-12-08T19:42:39Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/182",
+          "created_at": "2025-11-20T16:41:39Z",
+          "closed_at": "2025-12-08T19:42:24Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/181",
+          "created_at": "2025-11-04T13:12:00Z",
+          "closed_at": "2025-12-08T18:43:00Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/178",
+          "created_at": "2025-09-30T15:26:22Z",
+          "closed_at": null,
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/177",
+          "created_at": "2025-09-22T13:11:14Z",
+          "closed_at": "2025-09-29T17:50:47Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/175",
+          "created_at": "2025-09-10T16:18:01Z",
+          "closed_at": "2025-09-15T19:43:08Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/174",
+          "created_at": "2025-09-08T12:27:21Z",
+          "closed_at": "2025-09-15T17:42:10Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/172",
+          "created_at": "2025-09-01T16:32:39Z",
+          "closed_at": "2025-11-07T23:24:07Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/170",
+          "created_at": "2025-08-18T08:12:36Z",
+          "closed_at": "2025-09-18T17:07:35Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/168",
+          "created_at": "2025-08-14T15:34:47Z",
+          "closed_at": "2025-09-08T17:41:27Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/166",
+          "created_at": "2025-07-02T07:36:32Z",
+          "closed_at": "2025-07-14T17:54:30Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/164",
+          "created_at": "2025-05-30T03:30:31Z",
+          "closed_at": "2025-07-07T17:35:04Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/161",
+          "created_at": "2025-04-18T15:07:43Z",
+          "closed_at": "2025-05-27T18:04:35Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/160",
+          "created_at": "2025-04-14T16:02:40Z",
+          "closed_at": "2025-06-23T17:40:31Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/157",
+          "created_at": "2025-03-31T14:06:54Z",
+          "closed_at": "2025-06-23T17:40:32Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/155",
+          "created_at": "2025-03-05T19:08:25Z",
+          "closed_at": "2025-03-31T17:41:42Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/152",
+          "created_at": "2024-12-10T07:20:32Z",
+          "closed_at": "2025-02-19T19:19:21Z",
+          "assignees": [
+            "pes10k",
+            "lolaodelola"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/147",
+          "created_at": "2024-11-21T14:06:51Z",
+          "closed_at": "2024-12-05T18:22:28Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/140",
+          "created_at": "2024-07-24T12:56:18Z",
+          "closed_at": "2024-09-10T15:38:24Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/138",
+          "created_at": "2024-06-28T05:11:36Z",
+          "closed_at": "2024-07-18T17:31:44Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/130",
+          "created_at": "2024-01-31T21:15:20Z",
+          "closed_at": "2024-04-08T17:02:32Z",
+          "assignees": [
+            "pes10k",
+            "rudametw"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/128",
+          "created_at": "2024-01-29T12:35:21Z",
+          "closed_at": "2024-03-07T17:47:28Z",
+          "assignees": [
+            "pes10k",
+            "rudametw"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/117",
+          "created_at": "2023-04-25T13:19:27Z",
+          "closed_at": "2023-05-04T18:22:17Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/113",
+          "created_at": "2023-02-07T09:15:20Z",
+          "closed_at": "2023-03-21T01:52:32Z",
+          "assignees": [
+            "pes10k",
+            "AramZS"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/111",
+          "created_at": "2023-01-27T01:10:30Z",
+          "closed_at": "2023-02-22T18:02:49Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/109",
+          "created_at": "2022-11-29T15:44:41Z",
+          "closed_at": "2023-01-23T22:44:42Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/108",
+          "created_at": "2022-11-29T15:29:18Z",
+          "closed_at": "2023-01-23T22:44:56Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/107",
+          "created_at": "2022-11-25T12:43:11Z",
+          "closed_at": "2023-02-22T16:57:02Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/106",
+          "created_at": "2022-11-25T12:24:49Z",
+          "closed_at": "2022-12-02T22:27:51Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/104",
+          "created_at": "2022-10-19T19:13:19Z",
+          "closed_at": "2022-11-06T00:48:09Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/103",
+          "created_at": "2022-09-29T23:49:22Z",
+          "closed_at": "2022-11-06T01:44:54Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/99",
+          "created_at": "2022-08-02T07:06:43Z",
+          "closed_at": "2022-09-26T16:45:27Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/97",
+          "created_at": "2022-07-01T11:33:47Z",
+          "closed_at": "2022-08-10T00:03:45Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/94",
+          "created_at": "2022-06-08T15:48:45Z",
+          "closed_at": "2022-07-22T23:22:11Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/93",
+          "created_at": "2022-06-08T01:49:39Z",
+          "closed_at": "2022-08-09T23:46:50Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/85",
+          "created_at": "2022-05-02T18:37:01Z",
+          "closed_at": "2022-06-26T17:37:52Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/79",
+          "created_at": "2022-02-08T23:49:51Z",
+          "closed_at": "2022-02-28T18:16:18Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/65",
+          "created_at": "2021-12-07T14:17:16Z",
+          "closed_at": "2022-01-06T22:23:27Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/61",
+          "created_at": "2021-11-10T16:44:21Z",
+          "closed_at": "2021-11-20T22:52:50Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/56",
+          "created_at": "2021-09-07T18:35:02Z",
+          "closed_at": "2021-10-21T20:44:49Z",
+          "assignees": [
+            "pes10k",
+            "jumde",
+            "samuelweiler"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/47",
+          "created_at": "2021-07-13T09:26:32Z",
+          "closed_at": "2021-08-05T21:42:09Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/45",
+          "created_at": "2021-06-22T12:44:57Z",
+          "closed_at": "2021-07-16T21:01:41Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/33",
+          "created_at": "2021-02-23T16:24:42Z",
+          "closed_at": "2021-03-25T23:29:37Z",
+          "assignees": [
+            "pes10k",
+            "kdeqc"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/29",
+          "created_at": "2020-12-15T14:44:50Z",
+          "closed_at": "2021-01-19T17:09:17Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/24",
+          "created_at": "2020-11-18T18:54:47Z",
+          "closed_at": "2021-01-04T18:13:59Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/17",
+          "created_at": "2020-09-24T17:45:55Z",
+          "closed_at": "2020-11-02T18:17:41Z",
+          "assignees": [
+            "pes10k"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/9",
+          "created_at": "2020-08-24T22:26:07Z",
+          "closed_at": "2020-08-31T21:05:46Z",
+          "assignees": [
+            "pes10k"
+          ]
+        }
+      ],
+      "npdoty": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/185",
+          "created_at": "2025-11-21T11:08:43Z",
+          "closed_at": "2025-12-04T15:40:10Z",
+          "assignees": [
+            "npdoty"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/169",
+          "created_at": "2025-08-15T18:37:01Z",
+          "closed_at": "2025-11-17T18:52:11Z",
+          "assignees": [
+            "npdoty"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/165",
+          "created_at": "2025-06-11T20:59:21Z",
+          "closed_at": "2025-07-07T17:53:25Z",
+          "assignees": [
+            "npdoty"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/162",
+          "created_at": "2025-04-24T08:20:56Z",
+          "closed_at": "2025-08-14T17:50:30Z",
+          "assignees": [
+            "npdoty",
+            "sandandsnow"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/153",
+          "created_at": "2024-12-15T19:03:30Z",
+          "closed_at": "2025-04-21T17:43:46Z",
+          "assignees": [
+            "npdoty",
+            "kdenhartog"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/146",
+          "created_at": "2024-11-01T16:14:58Z",
+          "closed_at": "2024-12-10T21:29:53Z",
+          "assignees": [
+            "npdoty"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/144",
+          "created_at": "2024-10-17T14:01:30Z",
+          "closed_at": "2024-11-18T18:50:33Z",
+          "assignees": [
+            "npdoty"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/137",
+          "created_at": "2024-06-03T01:45:11Z",
+          "closed_at": "2024-09-16T17:13:34Z",
+          "assignees": [
+            "npdoty"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/131",
+          "created_at": "2024-02-02T11:31:54Z",
+          "closed_at": "2024-05-06T17:13:28Z",
+          "assignees": [
+            "npdoty"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/127",
+          "created_at": "2024-01-21T22:40:19Z",
+          "closed_at": "2024-05-06T17:15:59Z",
+          "assignees": [
+            "npdoty",
+            "kdenhartog"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/114",
+          "created_at": "2023-02-10T19:01:29Z",
+          "closed_at": "2023-03-16T21:48:58Z",
+          "assignees": [
+            "npdoty"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/90",
+          "created_at": "2022-05-26T17:04:34Z",
+          "closed_at": "2022-07-21T17:17:15Z",
+          "assignees": [
+            "npdoty"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/52",
+          "created_at": "2021-08-18T12:37:59Z",
+          "closed_at": "2022-06-15T00:05:50Z",
+          "assignees": [
+            "npdoty"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/2",
+          "created_at": "2020-03-11T05:53:24Z",
+          "closed_at": "2020-08-31T21:13:13Z",
+          "assignees": [
+            "npdoty"
+          ]
+        }
+      ],
+      "jyasskin": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/180",
+          "created_at": "2025-10-27T14:06:08Z",
+          "closed_at": null,
+          "assignees": [
+            "jyasskin",
+            "gbshankar"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/134",
+          "created_at": "2024-05-21T11:41:45Z",
+          "closed_at": "2024-09-05T18:22:01Z",
+          "assignees": [
+            "jyasskin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/70",
+          "created_at": "2022-01-14T14:41:59Z",
+          "closed_at": "2022-01-20T18:27:57Z",
+          "assignees": [
+            "jyasskin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/18",
+          "created_at": "2020-10-01T21:57:19Z",
+          "closed_at": "2020-12-15T14:53:05Z",
+          "assignees": [
+            "jyasskin"
+          ]
+        }
+      ],
+      "gbshankar": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/180",
+          "created_at": "2025-10-27T14:06:08Z",
+          "closed_at": null,
+          "assignees": [
+            "jyasskin",
+            "gbshankar"
+          ]
+        }
+      ],
+      "hardie": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/176",
+          "created_at": "2025-09-17T20:47:44Z",
+          "closed_at": "2025-11-07T23:28:20Z",
+          "assignees": [
+            "hardie"
+          ]
+        }
+      ],
+      "bvandersloot-mozilla": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/173",
+          "created_at": "2025-09-04T08:57:23Z",
+          "closed_at": "2025-11-17T18:50:54Z",
+          "assignees": [
+            "bvandersloot-mozilla"
+          ]
+        }
+      ],
+      "kdenhartog": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/163",
+          "created_at": "2025-05-17T21:22:17Z",
+          "closed_at": "2025-09-17T14:20:38Z",
+          "assignees": [
+            "kdenhartog"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/153",
+          "created_at": "2024-12-15T19:03:30Z",
+          "closed_at": "2025-04-21T17:43:46Z",
+          "assignees": [
+            "npdoty",
+            "kdenhartog"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/127",
+          "created_at": "2024-01-21T22:40:19Z",
+          "closed_at": "2024-05-06T17:15:59Z",
+          "assignees": [
+            "npdoty",
+            "kdenhartog"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/126",
+          "created_at": "2023-12-15T19:53:10Z",
+          "closed_at": "2024-05-06T17:03:54Z",
+          "assignees": [
+            "kdenhartog"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/125",
+          "created_at": "2023-09-15T09:41:20Z",
+          "closed_at": "2024-01-22T18:09:28Z",
+          "assignees": [
+            "kdenhartog"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/121",
+          "created_at": "2023-06-15T20:45:46Z",
+          "closed_at": "2023-10-30T17:03:05Z",
+          "assignees": [
+            "kdenhartog"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/120",
+          "created_at": "2023-06-15T17:29:56Z",
+          "closed_at": "2023-10-30T17:02:55Z",
+          "assignees": [
+            "kdenhartog"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/119",
+          "created_at": "2023-06-15T17:26:55Z",
+          "closed_at": "2023-10-30T17:03:07Z",
+          "assignees": [
+            "kdenhartog"
+          ]
+        }
+      ],
+      "sandandsnow": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/162",
+          "created_at": "2025-04-24T08:20:56Z",
+          "closed_at": "2025-08-14T17:50:30Z",
+          "assignees": [
+            "npdoty",
+            "sandandsnow"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/156",
+          "created_at": "2025-03-20T14:50:12Z",
+          "closed_at": "2025-07-14T16:56:04Z",
+          "assignees": [
+            "sandandsnow"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/145",
+          "created_at": "2024-10-24T01:46:20Z",
+          "closed_at": "2024-11-07T17:19:56Z",
+          "assignees": [
+            "sandandsnow"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/139",
+          "created_at": "2024-07-05T11:13:38Z",
+          "closed_at": "2024-07-18T23:08:40Z",
+          "assignees": [
+            "sandandsnow"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/96",
+          "created_at": "2022-06-30T15:10:53Z",
+          "closed_at": "2022-09-01T15:12:28Z",
+          "assignees": [
+            "sandandsnow"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/27",
+          "created_at": "2020-12-10T23:28:49Z",
+          "closed_at": "2021-02-03T15:53:15Z",
+          "assignees": [
+            "sysrqb",
+            "sandandsnow"
+          ]
+        }
+      ],
+      "AramZS": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/154",
+          "created_at": "2025-01-31T15:33:50Z",
+          "closed_at": "2025-05-12T22:06:17Z",
+          "assignees": [
+            "AramZS"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/122",
+          "created_at": "2023-08-01T07:58:34Z",
+          "closed_at": "2024-01-22T18:07:50Z",
+          "assignees": [
+            "AramZS"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/113",
+          "created_at": "2023-02-07T09:15:20Z",
+          "closed_at": "2023-03-21T01:52:32Z",
+          "assignees": [
+            "pes10k",
+            "AramZS"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/105",
+          "created_at": "2022-10-28T20:32:24Z",
+          "closed_at": "2023-05-01T17:57:49Z",
+          "assignees": [
+            "AramZS"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/58",
+          "created_at": "2021-09-18T01:03:39Z",
+          "closed_at": "2021-10-21T20:45:07Z",
+          "assignees": [
+            "AramZS"
+          ]
+        }
+      ],
+      "lolaodelola": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/152",
+          "created_at": "2024-12-10T07:20:32Z",
+          "closed_at": "2025-02-19T19:19:21Z",
+          "assignees": [
+            "pes10k",
+            "lolaodelola"
+          ]
+        }
+      ],
+      "NalaGinrut": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/143",
+          "created_at": "2024-10-07T21:42:34Z",
+          "closed_at": "2024-12-12T10:21:00Z",
+          "assignees": [
+            "NalaGinrut"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/115",
+          "created_at": "2023-02-17T03:30:35Z",
+          "closed_at": "2023-03-29T02:52:51Z",
+          "assignees": [
+            "NalaGinrut"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/50",
+          "created_at": "2021-08-05T13:06:04Z",
+          "closed_at": "2021-09-17T16:27:44Z",
+          "assignees": [
+            "NalaGinrut"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/35",
+          "created_at": "2021-03-01T23:32:41Z",
+          "closed_at": "2021-03-25T23:28:58Z",
+          "assignees": [
+            "NalaGinrut"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/23",
+          "created_at": "2020-11-02T23:14:39Z",
+          "closed_at": "2020-11-25T01:15:29Z",
+          "assignees": [
+            "NalaGinrut"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/22",
+          "created_at": "2020-11-02T19:35:29Z",
+          "closed_at": "2020-12-15T14:52:16Z",
+          "assignees": [
+            "NalaGinrut"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/3",
+          "created_at": "2020-03-17T18:19:36Z",
+          "closed_at": "2020-08-31T21:13:35Z",
+          "assignees": [
+            "NalaGinrut"
+          ]
+        }
+      ],
+      "rinchen": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/142",
+          "created_at": "2024-08-21T03:55:07Z",
+          "closed_at": "2024-09-19T00:56:19Z",
+          "assignees": [
+            "rinchen"
+          ]
+        }
+      ],
+      "rudametw": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/130",
+          "created_at": "2024-01-31T21:15:20Z",
+          "closed_at": "2024-04-08T17:02:32Z",
+          "assignees": [
+            "pes10k",
+            "rudametw"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/128",
+          "created_at": "2024-01-29T12:35:21Z",
+          "closed_at": "2024-03-07T17:47:28Z",
+          "assignees": [
+            "pes10k",
+            "rudametw"
+          ]
+        }
+      ],
+      "LJWatson": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/116",
+          "created_at": "2023-02-24T13:30:58Z",
+          "closed_at": "2023-04-03T17:07:32Z",
+          "assignees": [
+            "LJWatson"
+          ]
+        }
+      ],
+      "samuelweiler": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/110",
+          "created_at": "2023-01-11T20:25:58Z",
+          "closed_at": "2023-04-06T16:45:36Z",
+          "assignees": [
+            "samuelweiler"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/102",
+          "created_at": "2022-08-31T13:31:07Z",
+          "closed_at": "2022-12-12T18:05:34Z",
+          "assignees": [
+            "samuelweiler"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/56",
+          "created_at": "2021-09-07T18:35:02Z",
+          "closed_at": "2021-10-21T20:44:49Z",
+          "assignees": [
+            "pes10k",
+            "jumde",
+            "samuelweiler"
+          ]
+        }
+      ],
+      "wseltzer": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/98",
+          "created_at": "2022-07-29T19:12:51Z",
+          "closed_at": "2022-11-14T18:33:20Z",
+          "assignees": [
+            "wseltzer",
+            "sseng123"
+          ]
+        }
+      ],
+      "sseng123": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/98",
+          "created_at": "2022-07-29T19:12:51Z",
+          "closed_at": "2022-11-14T18:33:20Z",
+          "assignees": [
+            "wseltzer",
+            "sseng123"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/95",
+          "created_at": "2022-06-22T13:41:43Z",
+          "closed_at": "2022-12-07T02:33:13Z",
+          "assignees": [
+            "sseng123"
+          ]
+        }
+      ],
+      "deimidis": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/92",
+          "created_at": "2022-05-30T17:57:35Z",
+          "closed_at": "2022-08-15T17:01:38Z",
+          "assignees": [
+            "deimidis"
+          ]
+        }
+      ],
+      "Sauski": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/91",
+          "created_at": "2022-05-27T07:11:33Z",
+          "closed_at": "2022-08-01T12:00:51Z",
+          "assignees": [
+            "Sauski"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/28",
+          "created_at": "2020-12-15T14:40:16Z",
+          "closed_at": "2021-01-29T23:35:21Z",
+          "assignees": [
+            "Sauski"
+          ]
+        }
+      ],
+      "IreneKnapp": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/89",
+          "created_at": "2022-05-23T03:37:37Z",
+          "closed_at": "2022-08-01T17:08:25Z",
+          "assignees": [
+            "IreneKnapp"
+          ]
+        }
+      ],
+      "harrisonsean": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/86",
+          "created_at": "2022-05-03T17:54:54Z",
+          "closed_at": "2022-05-20T16:50:26Z",
+          "assignees": [
+            "harrisonsean"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/84",
+          "created_at": "2022-04-27T18:31:50Z",
+          "closed_at": "2022-05-11T17:52:08Z",
+          "assignees": [
+            "harrisonsean"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/83",
+          "created_at": "2022-04-27T18:24:08Z",
+          "closed_at": "2022-05-11T17:51:35Z",
+          "assignees": [
+            "harrisonsean"
+          ]
+        }
+      ],
+      "jumde": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/56",
+          "created_at": "2021-09-07T18:35:02Z",
+          "closed_at": "2021-10-21T20:44:49Z",
+          "assignees": [
+            "pes10k",
+            "jumde",
+            "samuelweiler"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/39",
+          "created_at": "2021-05-09T15:56:54Z",
+          "closed_at": "2021-06-22T23:59:06Z",
+          "assignees": [
+            "jumde"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/20",
+          "created_at": "2020-10-21T21:02:23Z",
+          "closed_at": "2020-12-15T14:54:01Z",
+          "assignees": [
+            "jumde"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/8",
+          "created_at": "2020-08-24T22:20:16Z",
+          "closed_at": "2020-08-31T21:09:16Z",
+          "assignees": [
+            "jumde"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/1",
+          "created_at": "2020-03-11T05:50:56Z",
+          "closed_at": "2020-04-21T22:26:18Z",
+          "assignees": [
+            "jumde"
+          ]
+        }
+      ],
+      "kdeqc": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/55",
+          "created_at": "2021-09-03T19:53:32Z",
+          "closed_at": "2021-10-13T22:44:51Z",
+          "assignees": [
+            "kdeqc"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/33",
+          "created_at": "2021-02-23T16:24:42Z",
+          "closed_at": "2021-03-25T23:29:37Z",
+          "assignees": [
+            "pes10k",
+            "kdeqc"
+          ]
+        }
+      ],
+      "sysrqb": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/49",
+          "created_at": "2021-07-20T11:46:45Z",
+          "closed_at": "2021-09-03T14:57:55Z",
+          "assignees": [
+            "sysrqb",
+            "EricMwobobia"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/27",
+          "created_at": "2020-12-10T23:28:49Z",
+          "closed_at": "2021-02-03T15:53:15Z",
+          "assignees": [
+            "sysrqb",
+            "sandandsnow"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/26",
+          "created_at": "2020-12-10T23:21:33Z",
+          "closed_at": "2021-01-29T23:37:48Z",
+          "assignees": [
+            "sysrqb"
+          ]
+        }
+      ],
+      "EricMwobobia": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/49",
+          "created_at": "2021-07-20T11:46:45Z",
+          "closed_at": "2021-09-03T14:57:55Z",
+          "assignees": [
+            "sysrqb",
+            "EricMwobobia"
+          ]
+        }
+      ],
+      "jonathanKingston": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/38",
+          "created_at": "2021-04-14T20:49:31Z",
+          "closed_at": "2021-05-10T20:35:59Z",
+          "assignees": [
+            "jonathanKingston"
+          ]
+        }
+      ],
+      "ShivanKaul": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/34",
+          "created_at": "2021-03-01T23:00:17Z",
+          "closed_at": "2021-03-25T23:29:21Z",
+          "assignees": [
+            "ShivanKaul"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/21",
+          "created_at": "2020-11-02T19:27:53Z",
+          "closed_at": "2021-01-19T17:15:29Z",
+          "assignees": [
+            "ShivanKaul"
+          ]
+        }
+      ],
+      "orspetol": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/30",
+          "created_at": "2020-12-17T15:34:47Z",
+          "closed_at": "2021-02-12T18:55:38Z",
+          "assignees": [
+            "orspetol"
+          ]
+        }
+      ],
+      "kdzwinel": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/19",
+          "created_at": "2020-10-09T21:20:46Z",
+          "closed_at": "2021-01-19T17:10:12Z",
+          "assignees": [
+            "kdzwinel"
+          ]
+        }
+      ],
+      "scottlow": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/14",
+          "created_at": "2020-09-15T09:44:33Z",
+          "closed_at": "2020-09-24T17:46:19Z",
+          "assignees": [
+            "scottlow"
+          ]
+        }
+      ],
+      "mallory": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/13",
+          "created_at": "2020-09-01T22:00:57Z",
+          "closed_at": "2020-09-24T17:47:34Z",
+          "assignees": [
+            "mallory"
+          ]
+        }
+      ],
+      "melanierichards": [
+        {
+          "html_url": "https://github.com/w3cping/privacy-request/issues/12",
+          "created_at": "2020-08-31T20:55:05Z",
+          "closed_at": "2020-09-24T17:47:04Z",
+          "assignees": [
+            "melanierichards"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 32113,
+    "reviewers": {
+      "jsahleen": [
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/288",
+          "created_at": "2025-12-01T04:06:05Z",
+          "closed_at": null,
+          "assignees": [
+            "jsahleen"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/283",
+          "created_at": "2025-11-06T01:44:55Z",
+          "closed_at": null,
+          "assignees": [
+            "jsahleen"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/273",
+          "created_at": "2025-09-01T16:07:30Z",
+          "closed_at": null,
+          "assignees": [
+            "jsahleen"
+          ]
+        }
+      ],
+      "xfq": [
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/286",
+          "created_at": "2025-11-20T16:24:03Z",
+          "closed_at": null,
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/284",
+          "created_at": "2025-11-20T16:16:06Z",
+          "closed_at": null,
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/281",
+          "created_at": "2025-10-22T19:10:50Z",
+          "closed_at": null,
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/271",
+          "created_at": "2025-08-18T08:08:20Z",
+          "closed_at": "2025-12-11T15:11:03Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/268",
+          "created_at": "2025-07-24T05:00:14Z",
+          "closed_at": "2025-07-31T23:47:29Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/258",
+          "created_at": "2025-03-20T14:52:12Z",
+          "closed_at": "2025-05-29T14:51:23Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/255",
+          "created_at": "2024-12-15T19:06:25Z",
+          "closed_at": "2025-06-12T21:11:02Z",
+          "assignees": [
+            "aphillips",
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/254",
+          "created_at": "2024-12-10T07:17:20Z",
+          "closed_at": "2025-01-30T14:54:22Z",
+          "assignees": [
+            "xfq",
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/252",
+          "created_at": "2024-12-04T04:52:56Z",
+          "closed_at": "2024-12-19T15:15:46Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/247",
+          "created_at": "2024-11-06T18:13:46Z",
+          "closed_at": "2024-12-05T15:30:08Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/242",
+          "created_at": "2024-10-17T14:01:40Z",
+          "closed_at": "2024-11-28T16:10:14Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/241",
+          "created_at": "2024-09-18T01:21:36Z",
+          "closed_at": null,
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/237",
+          "created_at": "2024-07-05T11:04:21Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips",
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/232",
+          "created_at": "2024-05-23T08:12:30Z",
+          "closed_at": "2025-12-11T15:33:54Z",
+          "assignees": [
+            "xfq",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/227",
+          "created_at": "2024-03-12T15:33:57Z",
+          "closed_at": "2024-03-28T19:41:59Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/217",
+          "created_at": "2023-09-13T19:57:54Z",
+          "closed_at": "2023-09-29T00:46:59Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/210",
+          "created_at": "2023-04-25T13:01:36Z",
+          "closed_at": "2023-05-04T14:47:03Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/207",
+          "created_at": "2023-02-23T19:06:36Z",
+          "closed_at": "2023-03-16T15:24:52Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/204",
+          "created_at": "2023-02-07T15:04:37Z",
+          "closed_at": "2023-03-02T15:17:58Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/200",
+          "created_at": "2022-11-29T15:41:47Z",
+          "closed_at": "2023-03-30T14:29:05Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/199",
+          "created_at": "2022-11-29T15:21:41Z",
+          "closed_at": "2024-11-05T15:52:35Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/192",
+          "created_at": "2022-09-01T20:57:19Z",
+          "closed_at": "2022-09-15T19:11:59Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/191",
+          "created_at": "2022-08-31T13:00:35Z",
+          "closed_at": "2022-10-04T17:16:45Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/185",
+          "created_at": "2022-06-22T12:58:02Z",
+          "closed_at": "2022-10-04T17:17:03Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/178",
+          "created_at": "2022-05-03T18:07:52Z",
+          "closed_at": "2022-08-15T04:00:15Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/174",
+          "created_at": "2022-03-24T15:59:35Z",
+          "closed_at": null,
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/173",
+          "created_at": "2022-03-01T16:39:52Z",
+          "closed_at": "2022-03-17T15:26:54Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/162",
+          "created_at": "2021-08-05T13:21:52Z",
+          "closed_at": "2021-08-19T15:14:45Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/160",
+          "created_at": "2021-07-20T11:44:35Z",
+          "closed_at": "2021-07-29T14:12:11Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/157",
+          "created_at": "2021-06-07T22:19:40Z",
+          "closed_at": "2021-07-15T01:17:09Z",
+          "assignees": [
+            "xfq",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/153",
+          "created_at": "2021-05-09T15:45:15Z",
+          "closed_at": "2021-09-30T14:34:39Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/151",
+          "created_at": "2021-03-04T09:55:26Z",
+          "closed_at": "2021-11-20T01:36:14Z",
+          "assignees": [
+            "aphillips",
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/147",
+          "created_at": "2020-12-08T07:46:32Z",
+          "closed_at": "2022-06-02T14:39:38Z",
+          "assignees": [
+            "aphillips",
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/138",
+          "created_at": "2020-11-17T15:47:11Z",
+          "closed_at": "2020-12-10T17:30:37Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/129",
+          "created_at": "2020-08-29T11:57:53Z",
+          "closed_at": null,
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/127",
+          "created_at": "2020-08-04T17:36:55Z",
+          "closed_at": "2021-07-22T15:16:35Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/120",
+          "created_at": "2020-05-29T14:17:19Z",
+          "closed_at": "2021-07-22T15:17:03Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/116",
+          "created_at": "2020-04-30T21:08:34Z",
+          "closed_at": "2021-07-22T15:16:46Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/114",
+          "created_at": "2020-04-22T14:08:10Z",
+          "closed_at": "2020-09-04T14:58:11Z",
+          "assignees": [
+            "xfq",
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/112",
+          "created_at": "2020-04-08T07:27:33Z",
+          "closed_at": "2021-07-22T15:16:57Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/86",
+          "created_at": "2019-11-26T05:43:57Z",
+          "closed_at": "2021-07-22T15:17:35Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/89",
+          "created_at": "2019-10-28T16:37:09Z",
+          "closed_at": null,
+          "assignees": [
+            "xfq",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/35",
+          "created_at": "2018-08-09T16:16:17Z",
+          "closed_at": "2019-12-18T14:32:10Z",
+          "assignees": [
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/51",
+          "created_at": "2018-02-03T02:16:13Z",
+          "closed_at": "2019-12-19T10:57:18Z",
+          "assignees": [
+            "aphillips",
+            "xfq"
+          ]
+        }
+      ],
+      "bert-github": [
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/285",
+          "created_at": "2025-11-20T16:20:27Z",
+          "closed_at": null,
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/278",
+          "created_at": "2025-09-17T18:23:07Z",
+          "closed_at": "2025-12-04T15:24:58Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/245",
+          "created_at": "2024-10-24T09:01:31Z",
+          "closed_at": "2025-06-12T21:11:15Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/239",
+          "created_at": "2024-07-24T15:22:16Z",
+          "closed_at": "2025-07-24T14:15:05Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/236",
+          "created_at": "2024-06-28T05:11:05Z",
+          "closed_at": "2024-07-24T16:14:27Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/229",
+          "created_at": "2024-03-30T17:01:35Z",
+          "closed_at": null,
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/226",
+          "created_at": "2024-02-12T17:28:40Z",
+          "closed_at": "2025-02-06T15:18:05Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/223",
+          "created_at": "2024-01-29T06:34:43Z",
+          "closed_at": "2024-02-29T16:09:23Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/218",
+          "created_at": "2023-09-18T12:54:17Z",
+          "closed_at": "2023-12-20T23:33:40Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/205",
+          "created_at": "2023-02-13T23:12:55Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/196",
+          "created_at": "2022-10-28T20:20:40Z",
+          "closed_at": "2023-07-27T14:21:17Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/180",
+          "created_at": "2022-05-11T01:32:03Z",
+          "closed_at": "2022-08-15T04:25:00Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/169",
+          "created_at": "2022-01-17T20:46:34Z",
+          "closed_at": "2022-12-02T16:01:00Z",
+          "assignees": [
+            "fsasaki",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/150",
+          "created_at": "2021-03-01T17:20:50Z",
+          "closed_at": "2021-06-29T06:21:01Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/134",
+          "created_at": "2020-10-27T17:24:40Z",
+          "closed_at": null,
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/119",
+          "created_at": "2020-05-28T11:38:34Z",
+          "closed_at": null,
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/110",
+          "created_at": "2020-03-02T18:03:50Z",
+          "closed_at": "2023-07-29T18:32:59Z",
+          "assignees": [
+            "aphillips",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/15",
+          "created_at": "2019-12-18T13:15:42Z",
+          "closed_at": null,
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/87",
+          "created_at": "2019-12-04T00:09:31Z",
+          "closed_at": null,
+          "assignees": [
+            "himorin",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/89",
+          "created_at": "2019-10-28T16:37:09Z",
+          "closed_at": null,
+          "assignees": [
+            "xfq",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/91",
+          "created_at": "2019-08-08T20:21:56Z",
+          "closed_at": "2020-12-03T15:32:09Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/76",
+          "created_at": "2018-12-18T14:45:43Z",
+          "closed_at": null,
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/36",
+          "created_at": "2018-08-02T18:11:37Z",
+          "closed_at": "2019-12-18T14:33:42Z",
+          "assignees": [
+            "stpeter",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/37",
+          "created_at": "2017-04-28T15:56:22Z",
+          "closed_at": "2019-12-18T14:34:32Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/99",
+          "created_at": "2016-12-02T20:14:16Z",
+          "closed_at": "2021-07-22T15:14:24Z",
+          "assignees": [
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/82",
+          "created_at": "2016-12-02T16:40:21Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a",
+            "bert-github"
+          ]
+        }
+      ],
+      "aphillips": [
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/280",
+          "created_at": "2025-09-24T06:53:18Z",
+          "closed_at": "2025-10-16T16:00:35Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/275",
+          "created_at": "2025-09-04T15:58:08Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/260",
+          "created_at": "2025-04-03T08:48:32Z",
+          "closed_at": "2025-06-12T11:06:24Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/257",
+          "created_at": "2025-02-19T17:05:08Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/255",
+          "created_at": "2024-12-15T19:06:25Z",
+          "closed_at": "2025-06-12T21:11:02Z",
+          "assignees": [
+            "aphillips",
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/253",
+          "created_at": "2024-12-06T15:02:17Z",
+          "closed_at": "2025-06-12T21:11:26Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/251",
+          "created_at": "2024-12-04T04:49:18Z",
+          "closed_at": "2025-05-15T13:21:49Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/250",
+          "created_at": "2024-12-04T04:45:09Z",
+          "closed_at": "2025-12-18T15:16:31Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/249",
+          "created_at": "2024-11-21T13:22:32Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/246",
+          "created_at": "2024-10-30T21:17:31Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/243",
+          "created_at": "2024-10-24T01:42:17Z",
+          "closed_at": "2024-11-07T15:18:41Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/240",
+          "created_at": "2024-08-21T03:37:39Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/237",
+          "created_at": "2024-07-05T11:04:21Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips",
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/233",
+          "created_at": "2024-05-31T08:32:28Z",
+          "closed_at": "2024-11-28T00:15:28Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/231",
+          "created_at": "2024-05-07T05:01:10Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/230",
+          "created_at": "2024-04-03T12:35:05Z",
+          "closed_at": "2024-04-11T14:14:45Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/228",
+          "created_at": "2024-03-19T14:10:28Z",
+          "closed_at": "2024-06-04T15:16:12Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/225",
+          "created_at": "2024-02-02T11:24:15Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/222",
+          "created_at": "2024-01-21T22:24:37Z",
+          "closed_at": "2024-04-08T19:02:32Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/221",
+          "created_at": "2023-12-15T19:32:27Z",
+          "closed_at": "2024-06-10T19:07:47Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/219",
+          "created_at": "2023-10-13T18:00:19Z",
+          "closed_at": "2023-12-20T23:33:55Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/212",
+          "created_at": "2023-06-15T16:21:38Z",
+          "closed_at": "2024-06-10T19:07:40Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/211",
+          "created_at": "2023-04-27T07:50:17Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/206",
+          "created_at": "2023-02-17T03:23:46Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips",
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/202",
+          "created_at": "2023-01-20T16:24:42Z",
+          "closed_at": "2023-03-27T20:11:56Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/201",
+          "created_at": "2023-01-11T20:18:34Z",
+          "closed_at": "2023-05-04T14:49:26Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/198",
+          "created_at": "2022-11-25T12:03:29Z",
+          "closed_at": "2024-05-22T02:28:01Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/195",
+          "created_at": "2022-10-28T16:09:04Z",
+          "closed_at": "2023-05-04T14:49:08Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/193",
+          "created_at": "2022-09-30T00:01:18Z",
+          "closed_at": "2023-05-04T14:48:56Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/190",
+          "created_at": "2022-08-12T17:03:10Z",
+          "closed_at": "2023-05-04T14:49:18Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/181",
+          "created_at": "2022-05-23T03:35:37Z",
+          "closed_at": "2022-06-02T14:32:42Z",
+          "assignees": [
+            "aphillips",
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/177",
+          "created_at": "2022-05-02T23:25:58Z",
+          "closed_at": "2022-12-02T16:02:34Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/175",
+          "created_at": "2022-04-27T18:31:41Z",
+          "closed_at": "2023-08-04T14:21:45Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/172",
+          "created_at": "2022-02-08T22:36:21Z",
+          "closed_at": "2022-03-24T15:12:19Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/171",
+          "created_at": "2022-02-02T11:01:00Z",
+          "closed_at": "2023-08-04T14:21:53Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/167",
+          "created_at": "2021-12-07T14:14:06Z",
+          "closed_at": "2023-08-04T14:22:03Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/165",
+          "created_at": "2021-09-07T18:20:11Z",
+          "closed_at": "2023-12-20T23:33:59Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/159",
+          "created_at": "2021-07-13T09:23:06Z",
+          "closed_at": "2021-09-09T16:45:00Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/158",
+          "created_at": "2021-06-22T12:02:31Z",
+          "closed_at": "2021-06-25T03:41:18Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/151",
+          "created_at": "2021-03-04T09:55:26Z",
+          "closed_at": "2021-11-20T01:36:14Z",
+          "assignees": [
+            "aphillips",
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/149",
+          "created_at": "2021-02-09T18:00:51Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/147",
+          "created_at": "2020-12-08T07:46:32Z",
+          "closed_at": "2022-06-02T14:39:38Z",
+          "assignees": [
+            "aphillips",
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/132",
+          "created_at": "2020-10-19T12:13:25Z",
+          "closed_at": "2021-07-22T15:11:54Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/131",
+          "created_at": "2020-09-24T11:07:48Z",
+          "closed_at": "2021-07-22T15:16:29Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/130",
+          "created_at": "2020-09-14T18:10:45Z",
+          "closed_at": "2022-04-14T14:16:29Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/124",
+          "created_at": "2020-07-21T14:15:37Z",
+          "closed_at": "2023-05-04T14:49:49Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/118",
+          "created_at": "2020-05-17T08:50:50Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/113",
+          "created_at": "2020-04-17T06:53:19Z",
+          "closed_at": "2021-07-22T15:17:09Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/110",
+          "created_at": "2020-03-02T18:03:50Z",
+          "closed_at": "2023-07-29T18:32:59Z",
+          "assignees": [
+            "aphillips",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/18",
+          "created_at": "2019-12-18T13:23:52Z",
+          "closed_at": "2019-12-19T14:52:51Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/17",
+          "created_at": "2019-12-18T13:21:30Z",
+          "closed_at": "2022-12-02T16:01:28Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/16",
+          "created_at": "2019-12-18T13:18:18Z",
+          "closed_at": "2019-12-19T12:52:52Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/88",
+          "created_at": "2019-08-28T11:07:11Z",
+          "closed_at": "2021-10-26T14:21:41Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/92",
+          "created_at": "2019-05-28T19:38:02Z",
+          "closed_at": "2022-06-10T00:46:51Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/51",
+          "created_at": "2018-02-03T02:16:13Z",
+          "closed_at": "2019-12-19T10:57:18Z",
+          "assignees": [
+            "aphillips",
+            "xfq"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/49",
+          "created_at": "2017-10-20T19:13:10Z",
+          "closed_at": "2019-12-19T10:55:02Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/105",
+          "created_at": "2017-09-25T10:30:58Z",
+          "closed_at": "2021-07-22T15:11:45Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/52",
+          "created_at": "2017-06-08T16:02:27Z",
+          "closed_at": "2019-12-19T10:58:36Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/104",
+          "created_at": "2017-05-03T15:01:26Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/67",
+          "created_at": "2017-04-28T15:57:17Z",
+          "closed_at": "2023-08-04T14:21:34Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/65",
+          "created_at": "2017-03-02T05:42:00Z",
+          "closed_at": "2019-12-19T11:11:57Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/101",
+          "created_at": "2017-02-27T11:17:25Z",
+          "closed_at": "2021-07-22T15:14:50Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/62",
+          "created_at": "2016-12-02T20:37:29Z",
+          "closed_at": "2019-12-19T11:09:16Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/61",
+          "created_at": "2016-12-02T20:35:44Z",
+          "closed_at": "2019-12-19T11:08:28Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/60",
+          "created_at": "2016-12-02T20:31:36Z",
+          "closed_at": "2019-12-19T11:07:46Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/59",
+          "created_at": "2016-12-02T20:30:33Z",
+          "closed_at": "2019-12-19T11:07:10Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/58",
+          "created_at": "2016-12-02T20:29:16Z",
+          "closed_at": "2019-12-19T11:06:26Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/57",
+          "created_at": "2016-12-02T20:28:08Z",
+          "closed_at": "2019-12-19T11:05:45Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/56",
+          "created_at": "2016-12-02T20:24:53Z",
+          "closed_at": "2019-12-19T11:04:21Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/40",
+          "created_at": "2016-12-02T20:23:06Z",
+          "closed_at": "2021-07-22T15:18:07Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/68",
+          "created_at": "2016-12-02T20:17:44Z",
+          "closed_at": "2019-12-19T11:13:44Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/23",
+          "created_at": "2016-12-02T20:10:55Z",
+          "closed_at": "2022-04-14T14:16:50Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/70",
+          "created_at": "2016-12-02T20:08:21Z",
+          "closed_at": "2019-12-19T11:15:35Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/66",
+          "created_at": "2016-12-02T20:00:50Z",
+          "closed_at": "2019-12-19T11:12:38Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/24",
+          "created_at": "2016-12-02T19:56:53Z",
+          "closed_at": "2022-03-24T15:17:47Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/30",
+          "created_at": "2016-12-02T19:53:41Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/100",
+          "created_at": "2016-12-02T18:53:52Z",
+          "closed_at": "2019-12-19T15:46:18Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/55",
+          "created_at": "2016-12-02T18:35:54Z",
+          "closed_at": "2019-12-19T11:03:38Z",
+          "assignees": [
+            "aphillips"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/26",
+          "created_at": "2016-12-02T16:21:22Z",
+          "closed_at": "2024-11-22T01:37:13Z",
+          "assignees": [
+            "aphillips"
+          ]
+        }
+      ],
+      "himorin": [
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/274",
+          "created_at": "2025-09-04T08:50:41Z",
+          "closed_at": null,
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/264",
+          "created_at": "2025-05-04T21:36:19Z",
+          "closed_at": "2025-06-12T21:10:47Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/254",
+          "created_at": "2024-12-10T07:17:20Z",
+          "closed_at": "2025-01-30T14:54:22Z",
+          "assignees": [
+            "xfq",
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/244",
+          "created_at": "2024-10-24T08:46:42Z",
+          "closed_at": "2024-11-07T15:18:18Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/238",
+          "created_at": "2024-07-24T13:08:53Z",
+          "closed_at": "2024-08-15T14:13:11Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/234",
+          "created_at": "2024-06-03T02:18:01Z",
+          "closed_at": "2024-06-13T22:00:33Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/224",
+          "created_at": "2024-01-29T12:05:20Z",
+          "closed_at": "2024-02-01T21:47:40Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/220",
+          "created_at": "2023-10-14T19:05:19Z",
+          "closed_at": "2023-12-20T23:33:49Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/206",
+          "created_at": "2023-02-17T03:23:46Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips",
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/197",
+          "created_at": "2022-11-18T20:51:06Z",
+          "closed_at": "2023-01-12T06:02:27Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/194",
+          "created_at": "2022-10-19T18:58:44Z",
+          "closed_at": "2022-11-10T18:23:42Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/187",
+          "created_at": "2022-07-29T19:03:33Z",
+          "closed_at": null,
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/186",
+          "created_at": "2022-07-20T13:39:47Z",
+          "closed_at": null,
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/184",
+          "created_at": "2022-06-07T21:15:49Z",
+          "closed_at": "2022-12-02T16:02:52Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/183",
+          "created_at": "2022-05-30T17:36:51Z",
+          "closed_at": "2022-06-10T00:46:41Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/182",
+          "created_at": "2022-05-27T07:10:31Z",
+          "closed_at": "2022-06-10T00:47:09Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/181",
+          "created_at": "2022-05-23T03:35:37Z",
+          "closed_at": "2022-06-02T14:32:42Z",
+          "assignees": [
+            "aphillips",
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/179",
+          "created_at": "2022-05-10T13:08:53Z",
+          "closed_at": "2022-12-02T16:00:41Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/176",
+          "created_at": "2022-04-29T23:26:04Z",
+          "closed_at": "2024-06-04T15:15:14Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/170",
+          "created_at": "2022-01-31T16:06:35Z",
+          "closed_at": "2022-02-28T09:32:09Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/168",
+          "created_at": "2022-01-14T14:55:08Z",
+          "closed_at": "2022-01-31T14:05:33Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/166",
+          "created_at": "2021-10-09T15:22:14Z",
+          "closed_at": "2022-06-23T14:31:14Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/156",
+          "created_at": "2021-06-07T08:31:37Z",
+          "closed_at": "2021-11-11T15:23:43Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/155",
+          "created_at": "2021-06-02T14:47:55Z",
+          "closed_at": "2021-11-11T15:19:52Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/154",
+          "created_at": "2021-06-02T14:04:33Z",
+          "closed_at": "2021-07-22T15:16:01Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/152",
+          "created_at": "2021-03-20T03:44:16Z",
+          "closed_at": "2021-07-22T15:16:06Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/144",
+          "created_at": "2020-11-27T15:41:35Z",
+          "closed_at": "2021-07-22T15:16:13Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/137",
+          "created_at": "2020-11-09T22:55:15Z",
+          "closed_at": "2021-07-22T15:16:17Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/135",
+          "created_at": "2020-10-28T20:51:50Z",
+          "closed_at": "2021-07-22T15:16:24Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/133",
+          "created_at": "2020-10-23T20:05:55Z",
+          "closed_at": "2020-11-18T10:37:57Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/128",
+          "created_at": "2020-08-06T10:19:38Z",
+          "closed_at": "2021-07-22T15:16:40Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/125",
+          "created_at": "2020-07-29T08:15:14Z",
+          "closed_at": "2021-07-22T15:16:52Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/122",
+          "created_at": "2020-06-24T03:14:06Z",
+          "closed_at": "2021-08-03T08:03:22Z",
+          "assignees": [
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/114",
+          "created_at": "2020-04-22T14:08:10Z",
+          "closed_at": "2020-09-04T14:58:11Z",
+          "assignees": [
+            "xfq",
+            "himorin"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/87",
+          "created_at": "2019-12-04T00:09:31Z",
+          "closed_at": null,
+          "assignees": [
+            "himorin",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/32",
+          "created_at": "2019-10-14T16:39:41Z",
+          "closed_at": "2019-12-18T14:27:10Z",
+          "assignees": [
+            "himorin"
+          ]
+        }
+      ],
+      "r12a": [
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/243",
+          "created_at": "2024-10-24T01:42:17Z",
+          "closed_at": "2024-11-07T15:18:41Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/232",
+          "created_at": "2024-05-23T08:12:30Z",
+          "closed_at": "2025-12-11T15:33:54Z",
+          "assignees": [
+            "xfq",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/205",
+          "created_at": "2023-02-13T23:12:55Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/203",
+          "created_at": "2023-01-30T12:17:14Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/164",
+          "created_at": "2021-09-03T19:36:23Z",
+          "closed_at": "2021-09-09T16:47:02Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/163",
+          "created_at": "2021-08-29T02:06:26Z",
+          "closed_at": "2021-09-03T14:45:16Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/157",
+          "created_at": "2021-06-07T22:19:40Z",
+          "closed_at": "2021-07-15T01:17:09Z",
+          "assignees": [
+            "xfq",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/148",
+          "created_at": "2021-01-13T16:34:03Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/136",
+          "created_at": "2020-11-05T15:46:55Z",
+          "closed_at": "2020-12-02T11:50:57Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/131",
+          "created_at": "2020-09-24T11:07:48Z",
+          "closed_at": "2021-07-22T15:16:29Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/115",
+          "created_at": "2020-04-30T21:04:22Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/21",
+          "created_at": "2019-12-18T13:32:10Z",
+          "closed_at": "2021-10-25T15:41:14Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/20",
+          "created_at": "2019-12-18T13:28:45Z",
+          "closed_at": "2019-12-19T14:53:38Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/19",
+          "created_at": "2019-12-18T13:26:08Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/12",
+          "created_at": "2019-12-18T12:55:48Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/90",
+          "created_at": "2019-10-14T16:54:36Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/33",
+          "created_at": "2019-08-28T10:59:29Z",
+          "closed_at": "2019-12-18T14:28:17Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/39",
+          "created_at": "2018-05-17T08:45:20Z",
+          "closed_at": "2019-12-18T14:37:15Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/34",
+          "created_at": "2018-04-26T14:08:12Z",
+          "closed_at": "2019-12-18T14:30:23Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/71",
+          "created_at": "2017-12-14T18:30:47Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/98",
+          "created_at": "2017-11-16T19:31:40Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/49",
+          "created_at": "2017-10-20T19:13:10Z",
+          "closed_at": "2019-12-19T10:55:02Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/106",
+          "created_at": "2017-09-27T12:31:03Z",
+          "closed_at": "2021-07-22T15:11:13Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/103",
+          "created_at": "2017-09-25T10:27:41Z",
+          "closed_at": "2019-12-19T15:48:24Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/102",
+          "created_at": "2017-09-15T18:04:17Z",
+          "closed_at": "2022-12-02T16:01:43Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/31",
+          "created_at": "2017-07-12T15:22:16Z",
+          "closed_at": "2019-12-18T14:25:38Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/79",
+          "created_at": "2017-07-10T10:38:54Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/97",
+          "created_at": "2017-06-15T16:05:35Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/64",
+          "created_at": "2017-04-13T15:17:49Z",
+          "closed_at": "2019-12-19T11:10:54Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/53",
+          "created_at": "2017-02-13T18:07:22Z",
+          "closed_at": "2019-12-19T11:01:51Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/63",
+          "created_at": "2016-12-02T20:38:56Z",
+          "closed_at": "2019-12-19T11:09:59Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/62",
+          "created_at": "2016-12-02T20:37:29Z",
+          "closed_at": "2019-12-19T11:09:16Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/61",
+          "created_at": "2016-12-02T20:35:44Z",
+          "closed_at": "2019-12-19T11:08:28Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/60",
+          "created_at": "2016-12-02T20:31:36Z",
+          "closed_at": "2019-12-19T11:07:46Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/59",
+          "created_at": "2016-12-02T20:30:33Z",
+          "closed_at": "2019-12-19T11:07:10Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/57",
+          "created_at": "2016-12-02T20:28:08Z",
+          "closed_at": "2019-12-19T11:05:45Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/56",
+          "created_at": "2016-12-02T20:24:53Z",
+          "closed_at": "2019-12-19T11:04:21Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/40",
+          "created_at": "2016-12-02T20:23:06Z",
+          "closed_at": "2021-07-22T15:18:07Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/73",
+          "created_at": "2016-12-02T20:12:20Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/24",
+          "created_at": "2016-12-02T19:56:53Z",
+          "closed_at": "2022-03-24T15:17:47Z",
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/30",
+          "created_at": "2016-12-02T19:53:41Z",
+          "closed_at": null,
+          "assignees": [
+            "aphillips",
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/54",
+          "created_at": "2016-12-02T18:50:29Z",
+          "closed_at": "2019-12-19T11:02:47Z",
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/29",
+          "created_at": "2016-12-02T18:47:55Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/82",
+          "created_at": "2016-12-02T16:40:21Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/28",
+          "created_at": "2016-12-02T16:08:58Z",
+          "closed_at": null,
+          "assignees": [
+            "r12a"
+          ]
+        }
+      ],
+      "fsasaki": [
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/169",
+          "created_at": "2022-01-17T20:46:34Z",
+          "closed_at": "2022-12-02T16:01:00Z",
+          "assignees": [
+            "fsasaki",
+            "bert-github"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/123",
+          "created_at": "2020-07-17T14:22:56Z",
+          "closed_at": null,
+          "assignees": [
+            "fsasaki"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/117",
+          "created_at": "2020-05-17T08:31:49Z",
+          "closed_at": null,
+          "assignees": [
+            "fsasaki"
+          ]
+        }
+      ],
+      "ZooDog": [
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/94",
+          "created_at": "2019-05-14T19:29:05Z",
+          "closed_at": "2021-07-22T15:15:32Z",
+          "assignees": [
+            "ZooDog"
+          ]
+        }
+      ],
+      "stpeter": [
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/36",
+          "created_at": "2018-08-02T18:11:37Z",
+          "closed_at": "2019-12-18T14:33:42Z",
+          "assignees": [
+            "stpeter",
+            "bert-github"
+          ]
+        }
+      ],
+      "stevenatkin": [
+        {
+          "html_url": "https://github.com/w3c/i18n-request/issues/69",
+          "created_at": "2016-12-02T20:02:02Z",
+          "closed_at": "2019-12-19T11:14:42Z",
+          "assignees": [
+            "stevenatkin"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 83907,
+    "reviewers": {
+      "fredrika11y": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/135",
+          "created_at": "2025-11-04T13:11:58Z",
+          "closed_at": "2025-11-26T15:28:25Z",
+          "assignees": [
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/124",
+          "created_at": "2025-08-18T08:05:11Z",
+          "closed_at": "2025-10-29T21:05:11Z",
+          "assignees": [
+            "JaninaSajka",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/101",
+          "created_at": "2025-02-19T18:17:38Z",
+          "closed_at": "2025-04-07T13:03:53Z",
+          "assignees": [
+            "newtonsgroove",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/97",
+          "created_at": "2024-12-06T15:17:35Z",
+          "closed_at": "2025-02-26T15:42:28Z",
+          "assignees": [
+            "matatk",
+            "JaninaSajka",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/93",
+          "created_at": "2024-10-24T00:44:44Z",
+          "closed_at": "2024-11-20T15:11:38Z",
+          "assignees": [
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/90",
+          "created_at": "2024-08-21T03:55:38Z",
+          "closed_at": null,
+          "assignees": [
+            "matatk",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/89",
+          "created_at": "2024-07-24T15:42:08Z",
+          "closed_at": "2025-07-29T02:13:05Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove",
+            "nehamjadhav",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/66",
+          "created_at": "2023-07-18T11:13:38Z",
+          "closed_at": "2025-02-26T15:40:33Z",
+          "assignees": [
+            "JaninaSajka",
+            "fredrika11y"
+          ]
+        }
+      ],
+      "jenstrickland": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/133",
+          "created_at": "2025-10-24T16:05:13Z",
+          "closed_at": null,
+          "assignees": [
+            "jenstrickland"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/123",
+          "created_at": "2025-08-18T07:24:49Z",
+          "closed_at": "2025-10-01T13:40:46Z",
+          "assignees": [
+            "jenstrickland"
+          ]
+        }
+      ],
+      "JaninaSajka": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/127",
+          "created_at": "2025-09-04T15:12:36Z",
+          "closed_at": null,
+          "assignees": [
+            "JaninaSajka"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/124",
+          "created_at": "2025-08-18T08:05:11Z",
+          "closed_at": "2025-10-29T21:05:11Z",
+          "assignees": [
+            "JaninaSajka",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/116",
+          "created_at": "2025-07-24T04:54:24Z",
+          "closed_at": "2025-09-16T13:49:58Z",
+          "assignees": [
+            "JaninaSajka",
+            "nehamjadhav",
+            "tsaulter"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/108",
+          "created_at": "2025-04-03T08:18:45Z",
+          "closed_at": null,
+          "assignees": [
+            "JaninaSajka"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/105",
+          "created_at": "2025-03-20T14:51:46Z",
+          "closed_at": "2025-07-29T10:56:10Z",
+          "assignees": [
+            "JaninaSajka"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/98",
+          "created_at": "2024-12-10T07:14:21Z",
+          "closed_at": "2025-02-26T15:42:59Z",
+          "assignees": [
+            "matatk",
+            "jasonjgw",
+            "JaninaSajka"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/97",
+          "created_at": "2024-12-06T15:17:35Z",
+          "closed_at": "2025-02-26T15:42:28Z",
+          "assignees": [
+            "matatk",
+            "JaninaSajka",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/83",
+          "created_at": "2024-05-23T07:52:59Z",
+          "closed_at": null,
+          "assignees": [
+            "matatk",
+            "JaninaSajka"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/66",
+          "created_at": "2023-07-18T11:13:38Z",
+          "closed_at": "2025-02-26T15:40:33Z",
+          "assignees": [
+            "JaninaSajka",
+            "fredrika11y"
+          ]
+        }
+      ],
+      "nehamjadhav": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/126",
+          "created_at": "2025-09-04T08:48:07Z",
+          "closed_at": null,
+          "assignees": [
+            "nehamjadhav"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/116",
+          "created_at": "2025-07-24T04:54:24Z",
+          "closed_at": "2025-09-16T13:49:58Z",
+          "assignees": [
+            "JaninaSajka",
+            "nehamjadhav",
+            "tsaulter"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/89",
+          "created_at": "2024-07-24T15:42:08Z",
+          "closed_at": "2025-07-29T02:13:05Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove",
+            "nehamjadhav",
+            "fredrika11y"
+          ]
+        }
+      ],
+      "AutoSponge": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/118",
+          "created_at": "2025-07-24T23:54:05Z",
+          "closed_at": null,
+          "assignees": [
+            "AutoSponge",
+            "matatk",
+            "newtonsgroove"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/84",
+          "created_at": "2024-05-31T08:31:32Z",
+          "closed_at": "2024-06-05T14:51:38Z",
+          "assignees": [
+            "AutoSponge"
+          ]
+        }
+      ],
+      "matatk": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/118",
+          "created_at": "2025-07-24T23:54:05Z",
+          "closed_at": null,
+          "assignees": [
+            "AutoSponge",
+            "matatk",
+            "newtonsgroove"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/98",
+          "created_at": "2024-12-10T07:14:21Z",
+          "closed_at": "2025-02-26T15:42:59Z",
+          "assignees": [
+            "matatk",
+            "jasonjgw",
+            "JaninaSajka"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/97",
+          "created_at": "2024-12-06T15:17:35Z",
+          "closed_at": "2025-02-26T15:42:28Z",
+          "assignees": [
+            "matatk",
+            "JaninaSajka",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/95",
+          "created_at": "2024-11-22T10:23:31Z",
+          "closed_at": "2025-07-29T10:53:04Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove",
+            "ruoxiran"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/90",
+          "created_at": "2024-08-21T03:55:38Z",
+          "closed_at": null,
+          "assignees": [
+            "matatk",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/89",
+          "created_at": "2024-07-24T15:42:08Z",
+          "closed_at": "2025-07-29T02:13:05Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove",
+            "nehamjadhav",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/87",
+          "created_at": "2024-06-28T05:08:29Z",
+          "closed_at": "2024-11-04T11:13:29Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/83",
+          "created_at": "2024-05-23T07:52:59Z",
+          "closed_at": null,
+          "assignees": [
+            "matatk",
+            "JaninaSajka"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/78",
+          "created_at": "2024-03-30T16:21:15Z",
+          "closed_at": "2024-06-28T18:00:53Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/74",
+          "created_at": "2024-03-12T15:29:29Z",
+          "closed_at": "2025-01-27T07:48:41Z",
+          "assignees": [
+            "matatk",
+            "Helixopp"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/71",
+          "created_at": "2024-01-29T12:04:01Z",
+          "closed_at": "2024-03-20T13:42:07Z",
+          "assignees": [
+            "matatk",
+            "niklasegger"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/64",
+          "created_at": "2023-06-14T21:58:18Z",
+          "closed_at": "2023-07-26T15:14:35Z",
+          "assignees": [
+            "matatk",
+            "lwolberg"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/57",
+          "created_at": "2023-04-25T13:25:38Z",
+          "closed_at": "2023-05-24T14:42:09Z",
+          "assignees": [
+            "matatk"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/55",
+          "created_at": "2023-02-23T18:22:22Z",
+          "closed_at": "2023-03-29T14:44:50Z",
+          "assignees": [
+            "matatk"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/54",
+          "created_at": "2023-02-17T02:55:39Z",
+          "closed_at": null,
+          "assignees": [
+            "matatk"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/53",
+          "created_at": "2023-02-07T15:05:35Z",
+          "closed_at": "2025-07-29T10:56:32Z",
+          "assignees": [
+            "matatk"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/45",
+          "created_at": "2022-11-25T11:54:09Z",
+          "closed_at": null,
+          "assignees": [
+            "matatk"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/30",
+          "created_at": "2022-05-23T03:34:58Z",
+          "closed_at": null,
+          "assignees": [
+            "matatk"
+          ]
+        }
+      ],
+      "newtonsgroove": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/118",
+          "created_at": "2025-07-24T23:54:05Z",
+          "closed_at": null,
+          "assignees": [
+            "AutoSponge",
+            "matatk",
+            "newtonsgroove"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/101",
+          "created_at": "2025-02-19T18:17:38Z",
+          "closed_at": "2025-04-07T13:03:53Z",
+          "assignees": [
+            "newtonsgroove",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/95",
+          "created_at": "2024-11-22T10:23:31Z",
+          "closed_at": "2025-07-29T10:53:04Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove",
+            "ruoxiran"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/89",
+          "created_at": "2024-07-24T15:42:08Z",
+          "closed_at": "2025-07-29T02:13:05Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove",
+            "nehamjadhav",
+            "fredrika11y"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/88",
+          "created_at": "2024-07-05T09:14:09Z",
+          "closed_at": "2024-08-07T14:10:59Z",
+          "assignees": [
+            "newtonsgroove"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/87",
+          "created_at": "2024-06-28T05:08:29Z",
+          "closed_at": "2024-11-04T11:13:29Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/78",
+          "created_at": "2024-03-30T16:21:15Z",
+          "closed_at": "2024-06-28T18:00:53Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove"
+          ]
+        }
+      ],
+      "tsaulter": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/116",
+          "created_at": "2025-07-24T04:54:24Z",
+          "closed_at": "2025-09-16T13:49:58Z",
+          "assignees": [
+            "JaninaSajka",
+            "nehamjadhav",
+            "tsaulter"
+          ]
+        }
+      ],
+      "ruoxiran": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/106",
+          "created_at": "2025-03-31T14:06:55Z",
+          "closed_at": "2025-04-02T14:29:21Z",
+          "assignees": [
+            "ruoxiran"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/99",
+          "created_at": "2024-12-15T19:04:54Z",
+          "closed_at": "2025-03-10T12:57:16Z",
+          "assignees": [
+            "lwolberg",
+            "ruoxiran",
+            "ehind67"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/95",
+          "created_at": "2024-11-22T10:23:31Z",
+          "closed_at": "2025-07-29T10:53:04Z",
+          "assignees": [
+            "matatk",
+            "newtonsgroove",
+            "ruoxiran"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/52",
+          "created_at": "2023-01-30T12:19:13Z",
+          "closed_at": "2023-02-22T15:57:22Z",
+          "assignees": [
+            "ruoxiran"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/27",
+          "created_at": "2022-05-11T01:06:19Z",
+          "closed_at": "2022-07-06T14:45:48Z",
+          "assignees": [
+            "ruoxiran"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/25",
+          "created_at": "2022-05-05T02:29:42Z",
+          "closed_at": "2022-06-30T03:53:51Z",
+          "assignees": [
+            "ruoxiran"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/23",
+          "created_at": "2022-05-03T18:28:34Z",
+          "closed_at": "2022-11-16T14:16:43Z",
+          "assignees": [
+            "ruoxiran"
+          ]
+        }
+      ],
+      "lwolberg": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/99",
+          "created_at": "2024-12-15T19:04:54Z",
+          "closed_at": "2025-03-10T12:57:16Z",
+          "assignees": [
+            "lwolberg",
+            "ruoxiran",
+            "ehind67"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/86",
+          "created_at": "2024-06-03T02:00:36Z",
+          "closed_at": null,
+          "assignees": [
+            "lwolberg"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/68",
+          "created_at": "2023-09-18T12:49:24Z",
+          "closed_at": "2025-01-23T07:57:18Z",
+          "assignees": [
+            "lwolberg"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/65",
+          "created_at": "2023-06-15T16:16:46Z",
+          "closed_at": "2023-07-26T15:17:16Z",
+          "assignees": [
+            "lwolberg"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/64",
+          "created_at": "2023-06-14T21:58:18Z",
+          "closed_at": "2023-07-26T15:14:35Z",
+          "assignees": [
+            "matatk",
+            "lwolberg"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/61",
+          "created_at": "2023-05-27T19:03:17Z",
+          "closed_at": "2023-07-26T15:12:58Z",
+          "assignees": [
+            "lwolberg"
+          ]
+        }
+      ],
+      "ehind67": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/99",
+          "created_at": "2024-12-15T19:04:54Z",
+          "closed_at": "2025-03-10T12:57:16Z",
+          "assignees": [
+            "lwolberg",
+            "ruoxiran",
+            "ehind67"
+          ]
+        }
+      ],
+      "jasonjgw": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/98",
+          "created_at": "2024-12-10T07:14:21Z",
+          "closed_at": "2025-02-26T15:42:59Z",
+          "assignees": [
+            "matatk",
+            "jasonjgw",
+            "JaninaSajka"
+          ]
+        }
+      ],
+      "mbeganyi": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/92",
+          "created_at": "2024-10-17T14:01:25Z",
+          "closed_at": "2024-11-06T20:26:13Z",
+          "assignees": [
+            "mbeganyi"
+          ]
+        }
+      ],
+      "Helixopp": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/74",
+          "created_at": "2024-03-12T15:29:29Z",
+          "closed_at": "2025-01-27T07:48:41Z",
+          "assignees": [
+            "matatk",
+            "Helixopp"
+          ]
+        }
+      ],
+      "daniel-montalvo": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/72",
+          "created_at": "2024-02-02T09:51:15Z",
+          "closed_at": "2024-07-15T12:53:06Z",
+          "assignees": [
+            "daniel-montalvo"
+          ]
+        }
+      ],
+      "niklasegger": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/71",
+          "created_at": "2024-01-29T12:04:01Z",
+          "closed_at": "2024-03-20T13:42:07Z",
+          "assignees": [
+            "matatk",
+            "niklasegger"
+          ]
+        }
+      ],
+      "IanPouncey": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/13",
+          "created_at": "2021-09-03T19:31:34Z",
+          "closed_at": "2023-02-15T15:26:33Z",
+          "assignees": [
+            "IanPouncey",
+            "digilou"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/10",
+          "created_at": "2021-07-20T11:44:28Z",
+          "closed_at": "2022-03-23T11:48:06Z",
+          "assignees": [
+            "IanPouncey"
+          ]
+        }
+      ],
+      "digilou": [
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/13",
+          "created_at": "2021-09-03T19:31:34Z",
+          "closed_at": "2023-02-15T15:26:33Z",
+          "assignees": [
+            "IanPouncey",
+            "digilou"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/11",
+          "created_at": "2021-08-05T12:12:30Z",
+          "closed_at": "2021-08-25T16:51:52Z",
+          "assignees": [
+            "digilou"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/a11y-request/issues/2",
+          "created_at": "2021-04-01T16:18:18Z",
+          "closed_at": "2021-06-30T13:18:56Z",
+          "assignees": [
+            "digilou"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 49310,
+    "reviewers": {
+      "simoneonofri": [
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/108",
+          "created_at": "2025-11-21T09:19:55Z",
+          "closed_at": null,
+          "assignees": [
+            "simoneonofri"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/98",
+          "created_at": "2025-08-18T08:13:30Z",
+          "closed_at": "2025-11-21T11:01:05Z",
+          "assignees": [
+            "simoneonofri"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/92",
+          "created_at": "2025-05-30T03:30:33Z",
+          "closed_at": "2025-06-11T21:12:03Z",
+          "assignees": [
+            "simoneonofri"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/90",
+          "created_at": "2025-04-24T08:14:28Z",
+          "closed_at": "2025-10-07T23:45:30Z",
+          "assignees": [
+            "simoneonofri"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/83",
+          "created_at": "2025-02-24T17:37:26Z",
+          "closed_at": "2025-10-07T23:45:57Z",
+          "assignees": [
+            "simoneonofri"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/82",
+          "created_at": "2024-12-25T08:21:09Z",
+          "closed_at": "2025-02-13T08:07:45Z",
+          "assignees": [
+            "simoneonofri"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/73",
+          "created_at": "2024-07-24T15:40:58Z",
+          "closed_at": "2024-12-04T17:27:21Z",
+          "assignees": [
+            "simoneonofri"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/72",
+          "created_at": "2024-07-05T11:18:08Z",
+          "closed_at": "2024-11-19T14:20:20Z",
+          "assignees": [
+            "simoneonofri"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/64",
+          "created_at": "2024-01-31T20:51:04Z",
+          "closed_at": "2025-10-07T23:46:44Z",
+          "assignees": [
+            "simoneonofri"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/59",
+          "created_at": "2023-08-01T07:58:38Z",
+          "closed_at": "2025-02-13T07:37:54Z",
+          "assignees": [
+            "simoneonofri"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/58",
+          "created_at": "2023-06-15T20:46:14Z",
+          "closed_at": "2025-02-05T13:03:42Z",
+          "assignees": [
+            "simoneonofri",
+            "innotommy"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/55",
+          "created_at": "2023-05-27T19:38:37Z",
+          "closed_at": "2025-04-15T13:10:16Z",
+          "assignees": [
+            "simoneonofri",
+            "Sh-Amir",
+            "verocri"
+          ]
+        }
+      ],
+      "realArcherL": [
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/104",
+          "created_at": "2025-09-17T20:51:05Z",
+          "closed_at": null,
+          "assignees": [
+            "realArcherL"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/101",
+          "created_at": "2025-09-04T08:57:13Z",
+          "closed_at": "2025-12-03T15:55:44Z",
+          "assignees": [
+            "realArcherL"
+          ]
+        }
+      ],
+      "Sh-Amir": [
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/84",
+          "created_at": "2025-03-18T16:17:23Z",
+          "closed_at": null,
+          "assignees": [
+            "Sh-Amir"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/55",
+          "created_at": "2023-05-27T19:38:37Z",
+          "closed_at": "2025-04-15T13:10:16Z",
+          "assignees": [
+            "simoneonofri",
+            "Sh-Amir",
+            "verocri"
+          ]
+        }
+      ],
+      "innotommy": [
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/79",
+          "created_at": "2024-11-21T14:12:30Z",
+          "closed_at": null,
+          "assignees": [
+            "innotommy"
+          ]
+        },
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/58",
+          "created_at": "2023-06-15T20:46:14Z",
+          "closed_at": "2025-02-05T13:03:42Z",
+          "assignees": [
+            "simoneonofri",
+            "innotommy"
+          ]
+        }
+      ],
+      "msporny": [
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/77",
+          "created_at": "2024-10-24T01:50:32Z",
+          "closed_at": "2025-04-17T08:50:46Z",
+          "assignees": [
+            "msporny"
+          ]
+        }
+      ],
+      "KimCerra": [
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/71",
+          "created_at": "2024-06-28T05:12:06Z",
+          "closed_at": "2024-10-30T12:47:15Z",
+          "assignees": [
+            "KimCerra"
+          ]
+        }
+      ],
+      "andrea-dintino": [
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/61",
+          "created_at": "2023-12-15T20:04:51Z",
+          "closed_at": "2025-05-23T15:24:10Z",
+          "assignees": [
+            "andrea-dintino"
+          ]
+        }
+      ],
+      "verocri": [
+        {
+          "html_url": "https://github.com/w3c/security-request/issues/55",
+          "created_at": "2023-05-27T19:38:37Z",
+          "closed_at": "2025-04-15T13:10:16Z",
+          "assignees": [
+            "simoneonofri",
+            "Sh-Amir",
+            "verocri"
+          ]
+        }
+      ]
+    }
+  }
+]

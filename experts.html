@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invited Experts Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Add specific styles for the expert dashboard */
+        .expert-card {
+            background: #fff;
+            border: 1px solid #ddd;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .expert-header {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        .expert-header a {
+            text-decoration: none;
+            color: var(--primary-color);
+        }
+        .expert-header a:hover {
+            text-decoration: underline;
+        }
+        .expert-section {
+            margin-top: 0.5rem;
+        }
+        .expert-section-title {
+            font-weight: bold;
+            font-size: 0.9rem;
+            color: #555;
+        }
+        .badge {
+            display: inline-block;
+            padding: 0.2rem 0.5rem;
+            margin: 0.1rem;
+            border-radius: 3px;
+            font-size: 0.8rem;
+            color: white;
+        }
+        .badge-group { background-color: #005A9C; }
+        .badge-chair { background-color: #b71c1c; }
+        .badge-spec { background-color: #2e7d32; }
+        
+        #search-container {
+            margin: 1rem 0;
+        }
+        #expert-search {
+            width: 100%;
+            padding: 0.8rem;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .pr-chart-container {
+            margin-top: 10px;
+            height: 50px; /* simple bar chart height */
+            display: flex;
+            align-items: flex-end;
+            gap: 1px;
+        }
+        .pr-bar {
+            background-color: #88c;
+            width: 4px;
+            min-height: 1px;
+        }
+        .pr-bar:hover {
+            background-color: #559;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Invited Experts Dashboard</h1>
+            <nav style="margin-top: 10px;">
+                <a href="index.html" style="color: white; text-decoration: none;">Group Dashboard</a> | 
+                <a href="experts.html" style="font-weight: bold; color: white; text-decoration: underline;">Experts Dashboard</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div id="search-container">
+            <input type="text" id="expert-search" placeholder="Search for an expert by name...">
+        </div>
+        <div id="loading">Loading data...</div>
+        <div id="experts-list"></div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Data source: <code>invited-expert-roles.json</code> and <code>pr-contributors.json</code></p>
+        </div>
+    </footer>
+
+    <script src="expert-script.js"></script>
+</body>
+</html>

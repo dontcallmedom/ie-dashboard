@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invited Expert Roles Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Invited Expert Roles & Importance</h1>
+            <nav style="margin-top: 10px;">
+                <a href="index.html" style="font-weight: bold; color: white; text-decoration: underline;">Group Dashboard</a> | 
+                <a href="experts.html" style="color: white; text-decoration: none;">Experts Dashboard</a>
+            </nav>
+            <p>Analyzing the contribution of Invited Experts (IE) across W3C Working & Interest Groups.</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section id="summary" class="summary-grid">
+            <!-- Summary cards will be injected here -->
+        </section>
+
+        <section class="controls">
+            <label for="sort-select">Sort by:</label>
+            <select id="sort-select">
+                <option value="ie-count">Number of IEs</option>
+                <option value="ie-percentage">IE Percentage</option>
+                <option value="ie-editors">IE Editors</option>
+                <option value="ie-chairs">IE Chairs</option>
+                <option value="name">Group Name</option>
+            </select>
+        </section>
+
+        <section id="groups-list" class="groups-grid">
+            <!-- Group cards will be injected here -->
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Data source: <code>invited-expert-roles.json</code></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

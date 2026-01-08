@@ -1,11 +1,12 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const expertsList = document.getElementById('experts-list');
-    const loading = document.getElementById('loading');
-    const searchInput = document.getElementById('expert-search');
+  const expertsList = document.getElementById('experts-list');
+  const loading = document.getElementById('loading');
+  const searchInput = document.getElementById('expert-search');
 
-    let allExpertsData = { experts: [], minDate: new Date() };
-    const urlParams = new URLSearchParams(window.location.search);
-    const groupIdFilter = urlParams.get('group');
+  let allExpertsData = { experts: [], minDate: new Date() };
+  const urlParams = new URLSearchParams(window.location.search);
+  const groupIdFilter = urlParams.get('group');
+  const hashFilter = urlParams.get('hash');
 
     Promise.all([
         fetch('invited-expert-roles.json').then(r => r.json()),
@@ -14,31 +15,20 @@ document.addEventListener('DOMContentLoaded', () => {
     ]).then(([rolesData, prsData, reviewsData]) => {
         allExpertsData = processData(rolesData, prsData, reviewsData);
 
-        // Apply group filter if present
+        if (hashFilter) {
+	  allExpertsData.experts = allExpertsData.experts.filter(ie => ie.href === `https://api.w3.org/users/${hashFilter}`);
+	  showFilterNotice(`Showing single expert view`, searchInput);
+	}
+        // Apply group/hash filter if present
         if (groupIdFilter) {
-            allExpertsData.experts = allExpertsData.experts.filter(expert => 
-                expert.groups.some(g => g.id == groupIdFilter) || 
-                expert.chairs.some(g => g.id == groupIdFilter)
+            allExpertsData.experts = allExpertsData.experts.filter(expert =>
+                expert.groups.some(g => g.id == groupIdFilter)
             );
-
-            // Add UI indication
-            const filterMsg = document.createElement('div');
-            filterMsg.style.margin = "10px 0";
-            filterMsg.style.padding = "10px";
-            filterMsg.style.backgroundColor = "#e3f2fd";
-            filterMsg.style.borderRadius = "4px";
-            
-            if (allExpertsData.experts.length > 0) {
-                 // Try to find group name from first expert
-                 const g = allExpertsData.experts[0].groups.find(g => g.id == groupIdFilter) || 
-                           allExpertsData.experts[0].chairs.find(g => g.id == groupIdFilter);
-                 const groupName = g ? g.name : `ID ${groupIdFilter}`;
-                 
-                 filterMsg.innerHTML = `<strong>Showing ${allExpertsData.experts.length} experts for group: ${groupName}</strong> <a href="experts.html" style="margin-left:10px; color: #d32f2f;">(Clear Filter)</a>`;
-            } else {
-                 filterMsg.innerHTML = `<strong>No experts found for group ID ${groupIdFilter}</strong> <a href="experts.html" style="margin-left:10px; color: #d32f2f;">(Clear Filter)</a>`;
-            }
-            searchInput.parentElement.after(filterMsg);
+	  // Try to find group name from first expert
+          const g = allExpertsData.experts?.[0].groups.find(g => g.id == groupIdFilter);
+          const groupName = g ? g.name : `ID ${groupIdFilter}`;
+	  const filterLabel = allExpertsData.experts.length ? `Showing ${allExpertsData.experts.length} experts for group: ${groupName}` : `No experts found for group ID ${groupIdFilter}`;
+	  showFilterNotice(filterLabel, searchInput);
         }
 
         renderExperts(allExpertsData);
@@ -217,9 +207,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         experts.forEach(expert => {
             const card = document.createElement('div');
-            card.className = 'expert-card';
+            card.className = 'card';
 
-	  const affiliationsHtml = expert.affiliations.length ? expert.affiliations.map(a => `${a.homepage ? `<a href='${a.homepage}'>` : ''}${a.name}${a.homepage ? `</a>` : ''}`).join(', ') : "N/A";
+	  const affiliationsHtml = expert.affiliations.length ? expert.affiliations.map(a => `<a href='affiliations.html?id=${a.href.split('/').pop()}'>${a.name}</a>`).join(', ') : "N/A";
 
             // Groups as links
             let groupsHtml = expert.groups.map(g => 
@@ -285,33 +275,32 @@ document.addEventListener('DOMContentLoaded', () => {
                 }).join('');
 
                 activityHtml = `
-                    <div class="expert-section">
-                        <div class="expert-section-title">Activity: ${totalActivity} (PRs: ${expert.prCount} | Issues: ${expert.issueCount})</div>
-                        <div>First: ${first} | Last: ${last}</div>
+                    <dt>Activity: ${totalActivity} (PRs: ${expert.prCount} | Issues: ${expert.issueCount})</dt>
+                        <dd>First: ${first} | Last: ${last}</dd>
+                        <dd>
                         ${renderActivityChart(expert.prs, expert.issues, allMonths)}
-                    </div>
+                    </dd>
                 `;
             } else {
                 activityHtml = `
-                    <div class="expert-section">
-                        <div class="expert-section-title">Activity: 0</div>
-                        ${renderActivityChart([], [], allMonths)}
-                    </div>`;
+                    <dt>Activity: 0</dt>`;
             }
 
             const githubDisplay = expert.github ? ` <span style="font-size:0.9em; color:#666; font-weight:normal;">(@${expert.github})</span>` : '';
 
             card.innerHTML = `
-                <div class="expert-header">
-                    <a href="${expert.href}" target="_blank">${expert.name}</a>${githubDisplay}
-                </div>
-                ${expert.chairs.length ? `<div class="expert-section"><div class="expert-section-title">Chairs:</div>${chairsHtml}</div>` : ''}
-                <div class="expert-section"><div class="expert-section-title">Affiliation:</div>${affiliationsHtml}</div>
-                <div class="expert-section"><div class="expert-section-title">Participates in:</div>${groupsHtml}</div>
-                ${expert.specs.length ? `<div class="expert-section"><div class="expert-section-title">Edits Specs:</div>${specsHtml}</div>` : ''}
-                ${expert.reviews.length ? `<div class="expert-section"><div class="expert-section-title">Horizontal Reviews:</div>${reviewsHtml}</div>` : ''}
-                ${repoHtml ? `<div class="expert-section"><div class="expert-section-title">Repos:</div>${repoHtml}</div>` : ''}
+                <h2>
+                    <a ${!hashFilter ? `href='experts.html?hash=${expert.href.split('/').pop()}'` : ''} target="_blank">${expert.name}</a>${githubDisplay}
+                </h2>
+                <dl>
+                ${expert.chairs.length ? `<dt>Chairs:</dt><dd>${chairsHtml}</dd>` : ''}
+                <dt>Affiliation:</dt><dd>${affiliationsHtml}</dd>
+                <dt>Participates in:</dt><dd>${groupsHtml}</ddd>
+                ${expert.specs.length ? `<dt>Edits Specs:</dt><dd>${specsHtml}</dd>` : ''}
+                ${expert.reviews.length ? `<dt>Horizontal Reviews:</dt><dd>${reviewsHtml}</dd>` : ''}
+                ${repoHtml ? `<dt>Repos:</dt><dd>${repoHtml}</dd>` : ''}
                 ${activityHtml}
+                </dl>
             `;
             expertsList.appendChild(card);
         });

@@ -73,7 +73,7 @@ header p {
 
 .summary-card .label {
     font-size: 0.9rem;
-    color: #888;
+    color: #555;
 }
 
 /* Controls */
@@ -171,15 +171,16 @@ header p {
 .badge {
     display: inline-block;
     padding: 2px 6px;
+    margin: 0.1rem;
     border-radius: 4px;
-    font-size: 0.75rem;
-    font-weight: bold;
+    font-size: 0.8rem;
     color: white;
-    background-color: #999;
+    background-color: #555;
 }
 
 .badge.active {
     background-color: var(--ie-color);
+    color: black;
 }
 
 footer {
@@ -188,3 +189,74 @@ footer {
     color: #888;
     margin-top: 50px;
 }
+
+nav {
+ margin-top: 10px;
+}
+
+nav a:not(:link) {
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:link, nav a:visited {
+    color: white;
+}
+
+.notice { margin: 10px 0;
+	    padding: 10px;
+	    background-color: #e3f2fd;
+	    border-radius: 4px;
+	  }
+
+.notice a.clear {
+margin-left:10px; color: #d32f2f;
+}
+
+.card {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.card h2 a {
+    color: var(--primary-color);
+}
+
+.card dt {
+    font-weight: bold;
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 0.5rem;
+}
+
+.card dd {
+    margin-left: 0.5rem;
+}
+
+search {
+    margin: 1rem 0;
+}
+
+search input {
+    width: 100%;
+    padding: 0.8rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+        .badge-group { background-color: #005A9C; }
+        .badge-chair { background-color: #b71c1c; }
+        .badge-spec { background-color: #2e7d32; }

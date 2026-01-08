@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invited Experts Dashboard: Affiliations</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Invited Experts Dashboard</h1>
+            <nav>
+                <a href="index.html">Group Dashboard</a> | 
+                <a href="experts.html">Experts Dashboard</a> |
+		<a>Affiliations Dashboard</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <search>
+            <input type="text" id="affiliation-search" placeholder="Search for an affiliation by name...">
+        </search>
+        <div id="loading">Loading data...</div>
+        <div id="affiliations-list"></div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Data source: <code>invited-expert-roles.json</code> and <code>pr-contributors.json</code></p>
+        </div>
+    </footer>
+    <script src="common.js"></script>
+    <script src="affiliation-script.js"></script>
+</body>
+</html>

@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
 	}, {});
         const totalIEs = Object.keys(distinctIEs).length;
         const totalMultiGroupIEs = Object.values(distinctIEs).filter(i => i.groups.length > 1).length;
-        const totalUnaffiliatedIEs = Object.values(distinctIEs).filter(i => i.affiliations.length === 0).length;
+        const totalAffiliatedIEs = Object.values(distinctIEs).filter(i => i.affiliations.length !== 0).length;
         const totalEditors = groups.reduce((sum, g) => sum + g.numberOfEditors, 0);
         const totalIEEditors = groups.reduce((sum, g) => sum + g.numberOfIEEditors, 0);
         const totalChairs = groups.reduce((sum, g) => sum + g.numberOfChairs, 0);
@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         const iePercentage = totalParticipants ? ((totalInvitations / totalParticipants) * 100).toFixed(1) : 0;
-        const unaffiliatedIEPercentage = totalIEs ? ((totalUnaffiliatedIEs / totalIEs) * 100).toFixed(1) : 0;
+        const affiliatedIEPercentage = totalIEs ? ((totalAffiliatedIEs / totalIEs) * 100).toFixed(1) : 0;
         const ieEditorPercentage = totalEditors ? ((totalIEEditors / totalEditors) * 100).toFixed(1) : 0;
         const ieHRPercentage = totalHRReviews ? ((totalIEReviews / totalHRReviews) * 100).toFixed(1) : 0;
         const iePRPercentage = globalTotalPRs ? ((globalIEPRs / globalTotalPRs) * 100).toFixed(1) : 0;
@@ -159,9 +159,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="label">${totalMultiGroupIEs} IEs participate in multiple groups</div>
             </div>
             <div class="summary-card">
-                <h3>Unaffiliated Invited Experts</h3>
-                <div class="value">${totalUnaffiliatedIEs}</div>
-                <div class="label">${unaffiliatedIEPercentage}% of ${totalIEs} invited experts</div>
+                <h3><a href='affiliations.html'>Affiliated Invited Experts</a></h3>
+                <div class="value">${totalAffiliatedIEs}</div>
+                <div class="label">${affiliatedIEPercentage}% of ${totalIEs} invited experts</div>
             </div>
             <div class="summary-card">
                 <h3>IE Editors</h3>
@@ -186,6 +186,10 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
     }
 
+    function plural(number) {
+      return  number > 1 ? "s" : "";
+    }
+
     function renderGroups(groups) {
         groupsList.innerHTML = '';
         groups.forEach(group => {
@@ -199,13 +203,13 @@ document.addEventListener('DOMContentLoaded', () => {
             // Create list of IE chairs if any
             let chairInfo = '';
             if (group.numberOfIEChairs > 0) {
-                chairInfo = `<span class="badge active">${group.numberOfIEChairs} IE Chair(s)</span>`;
+                chairInfo = `<span class="badge active">${group.numberOfIEChairs} IE Chair${plural(group.numberOfIEChairs)}</span>`;
             }
 
              // Create list of IE editors if any
              let editorInfo = '';
              if (group.numberOfIEEditors > 0) {
-                 editorInfo = `<span class="badge active">${group.numberOfIEEditors} IE Editor(s)</span>`;
+                 editorInfo = `<span class="badge active">${group.numberOfIEEditors} IE Editor${plural(group.numberOfIEEditors)}</span>`;
              }
 
             // Horizontal Reviews Info
@@ -273,7 +277,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="progress-bar">
                             <div class="progress-fill" style="width: ${iePercent}%"></div>
                         </div>
-                        <div class="stat-label" style="margin-top:2px; font-size: 0.8em; color:#888;">
+                        <div class="stat-label" style="margin-top:2px; font-size: 0.8em; color:#555;">
                             ${iePercent}% Invited Experts
                         </div>
                     </div>

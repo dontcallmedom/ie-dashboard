@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
       card.innerHTML = `
                 <h2>
-                    ${aff.homepage ? `<a href="${aff.homepage}" target="_blank">` : ''}${aff.name}${aff.homepage ? '</a>' : ''}
+                    ${aff.homepage ? `<a href="${aff.homepage}" target="_blank">` : ''}${aff.name}${aff.homepage ? '↗️</a>' : ''}
                 </h2>
                 <dl>
                 <dt>Affiliated Invited Experts:</dt><dd>${iesHtml}</dd>

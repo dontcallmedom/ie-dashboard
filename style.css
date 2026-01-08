@@ -1,3 +1,7 @@
+@view-transition {
+  navigation: auto;
+}
+
 :root {
     --primary-color: #005A9C; /* W3C Blue-ish */
     --secondary-color: #f0f0f0;

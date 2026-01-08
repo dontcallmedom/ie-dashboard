@@ -213,13 +213,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Groups as links
             let groupsHtml = expert.groups.map(g => 
-                `<a href="?group=${g.id}" class="badge badge-group" style="text-decoration:none;">${g.name}</a>`
+                `<a href="?group=${g.id}" class="badge badge-group">${g.name}</a>`
             ).join('');
 
             let chairsHtml = expert.chairs.map(g => `<span class="badge badge-chair">${g.name}</span>`).join('');
             let specsHtml = expert.specs.map(s => {
                 if (s.shortname) {
-                    return `<a href="https://www.w3.org/TR/${s.shortname}" target="_blank" class="badge badge-spec" style="text-decoration:none;">${s.name}</a>`;
+                    return `<a href="https://www.w3.org/TR/${s.shortname}" target="_blank" class="badge badge-spec">${s.name}</a>`;
                 } else {
                     return `<span class="badge badge-spec">${s.name}</span>`;
                 }
@@ -229,7 +229,7 @@ document.addEventListener('DOMContentLoaded', () => {
             let reviewsHtml = '';
             if (expert.reviews.length > 0) {
                 reviewsHtml = expert.reviews.map(r => 
-                    `<span class="badge" style="background-color: #673ab7;">${r.groupName} (${r.count})</span>`
+                    `<span class="badge badge-review">${r.groupName} (${r.count})</span>`
                 ).join('');
             }
 
@@ -271,11 +271,11 @@ document.addEventListener('DOMContentLoaded', () => {
                         
                     // Ideal: Click goes to PRs, maybe a separate icon for issues?
                     // For simplicity, link to PRs.
-                    return `<a href="${ghUrl}" target="_blank" class="badge" style="background-color: #555; text-decoration:none;">${label}</a>`;
+                    return `<a href="${ghUrl}" target="_blank" class="badge bade-pr">${label}</a>`;
                 }).join('');
 
                 activityHtml = `
-                    <dt>Activity: ${totalActivity} (PRs: ${expert.prCount} | Issues: ${expert.issueCount})</dt>
+                    <dt>GitHub activity: ${totalActivity} (PRs: ${expert.prCount} | Issues: ${expert.issueCount})</dt>
                         <dd>First: ${first} | Last: ${last}</dd>
                         <dd>
                         ${renderActivityChart(expert.prs, expert.issues, allMonths)}
@@ -283,10 +283,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 `;
             } else {
                 activityHtml = `
-                    <dt>Activity: 0</dt>`;
+                    <dt>GitHub activity: None</dt>`;
             }
 
-            const githubDisplay = expert.github ? ` <span style="font-size:0.9em; color:#666; font-weight:normal;">(@${expert.github})</span>` : '';
+            const githubDisplay = expert.github ? ` <span class=github>(@${expert.github})</span>` : '';
 
             card.innerHTML = `
                 <h2>

@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
       // Groups as links
       let groupsHtml = aff.groups.map(g => 
-        `<a href="experts.html?group=${g.id}" class="badge badge-group" style="text-decoration:none;">${g.name}</a>`
+        `<a href="experts.html?group=${g.id}" class="badge badge-group">${g.name}</a>`
       ).join('');
 
       card.innerHTML = `

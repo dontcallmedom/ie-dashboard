@@ -1,7 +1,12 @@
+const sorters = ['name', 'ie-count', 'ie-percentage', 'ie-editors', 'ie-chairs'];
+
 document.addEventListener('DOMContentLoaded', () => {
     const groupsList = document.getElementById('groups-list');
     const summarySection = document.getElementById('summary');
     const sortSelect = document.getElementById('sort-select');
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const order = urlParams.get('sortBy');
 
     let allGroups = [];
     let reviewsData = [];
@@ -15,14 +20,23 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(([groupsData, reviews, prsData]) => {
             allGroups = groupsData;
             reviewsData = reviews;
+            processGroupData(allGroups);
             processPRData(allGroups, prsData);
             renderSummary(allGroups);
+            sortGroups(order);
             renderGroups(allGroups);
         })
         .catch(err => {
             console.error('Error loading data:', err);
             groupsList.innerHTML = '<p class="error">Error loading data. Please ensure invited-expert-roles.json, hr-reviewers.json and pr-contributors.json exist.</p>';
         });
+
+    function processGroupData(groups) {
+        groups.forEach(g => {
+	  g.numberOfAffiliatedIEs = g.ies.filter(ie => ie.affiliations.length).length;
+	  g.numberOfUnaffiliatedIEs = g.ies.filter(ie => !ie.affiliations.length).length;
+	});
+    }
 
     function processPRData(groups, prsData) {
         const prsMap = new Map(prsData.map(g => [g.id, g]));
@@ -58,12 +72,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Sort event listener
     sortSelect.addEventListener('change', (e) => {
-        const sortBy = e.target.value;
+        const sortBy = sorters.includes(e.target.value) ? e.target.value : '';
         sortGroups(sortBy);
+        const newurl = `${window.location.origin}${window.location.pathname}${sortBy && sortBy !== 'name' ? `?sortBy=${sortBy}` : ''}`;
+        window.history.pushState({path:newurl},'',newurl);
     });
 
     function sortGroups(criteria) {
         let sorted = [...allGroups];
+        
         switch (criteria) {
             case 'ie-count':
                 sorted.sort((a, b) => b.numberOfIE - a.numberOfIE);
@@ -81,6 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
             case 'ie-chairs':
                 sorted.sort((a, b) => b.numberOfIEChairs - a.numberOfIEChairs);
                 break;
+	    default:
             case 'name':
                 sorted.sort((a, b) => a.name.localeCompare(b.name));
                 break;
@@ -272,7 +290,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="stat-row">
                         <div class="stat-label">
                             <span>Participants</span>
-                            <span><strong>${group.numberOfIE}</strong> IEs / ${group.numberOfParticipants}</span>
+                            <span><strong>${group.numberOfAffiliatedIEs}</strong> affiliated${group.numberOfUnaffiliatedIEs ? ` + ${group.numberOfUnaffiliatedIEs}` : ''} IEs / ${group.numberOfParticipants}</span>
                         </div>
                         <div class="progress-bar">
                             <div class="progress-fill" style="width: ${iePercent}%"></div>

@@ -63,6 +63,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 
   function renderAffiliations(affiliations) {
+    document.getElementById('count').textContent = `Showing ${affiliations.length} affiliations of Invited Experts`;
     affiliationsList.innerHTML = '';
 
     affiliations.forEach(aff => {

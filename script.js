@@ -1,5 +1,7 @@
 const sorters = ['name', 'ie-count', 'ie-percentage', 'ie-editors', 'ie-chairs'];
 
+const percent = (num, den) => den ? ((num / den) * 100).toFixed(1) : 0;
+
 document.addEventListener('DOMContentLoaded', () => {
     const groupsList = document.getElementById('groups-list');
     const summarySection = document.getElementById('summary');
@@ -87,8 +89,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 break;
             case 'ie-percentage':
                 sorted.sort((a, b) => {
-                    const percentA = a.numberOfParticipants ? (a.numberOfIE / a.numberOfParticipants) : 0;
-                    const percentB = b.numberOfParticipants ? (b.numberOfIE / b.numberOfParticipants) : 0;
+                    const percentA = percent(a.numberOfIE, a.numberOfParticipants);
+                    const percentB = percent(b.numberOfIE, b.numberOfParticipants);
                     return percentB - percentA;
                 });
                 break;
@@ -154,11 +156,12 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        const iePercentage = totalParticipants ? ((totalInvitations / totalParticipants) * 100).toFixed(1) : 0;
-        const affiliatedIEPercentage = totalIEs ? ((totalAffiliatedIEs / totalIEs) * 100).toFixed(1) : 0;
-        const ieEditorPercentage = totalEditors ? ((totalIEEditors / totalEditors) * 100).toFixed(1) : 0;
-        const ieHRPercentage = totalHRReviews ? ((totalIEReviews / totalHRReviews) * 100).toFixed(1) : 0;
-        const iePRPercentage = globalTotalPRs ? ((globalIEPRs / globalTotalPRs) * 100).toFixed(1) : 0;
+        const iePercentage = percent(totalInvitations, totalParticipants);
+        const affiliatedIEPercentage = percent(totalAffiliatedIEs, totalIEs);
+        const ieChairPercentage = percent(totalIEChairs, totalChairs);
+        const ieEditorPercentage = percent(totalIEEditors, totalEditors);
+        const ieHRPercentage = percent(totalIEReviews, totalHRReviews);
+        const iePRPercentage = percent(globalIEPRs, globalTotalPRs);
 
         summarySection.innerHTML = `
             <div class="summary-card">
@@ -189,7 +192,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="summary-card">
                 <h3>IE Chairs</h3>
                 <div class="value">${totalIEChairs}</div>
-                <div class="label">Out of ${totalChairs} chairs</div>
+                <div class="label">${ieChairPercentage}%  of ${totalChairs} chairs</div>
             </div>
             <div class="summary-card">
                 <h3>IE PRs</h3>
@@ -214,9 +217,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const card = document.createElement('div');
             card.className = 'group-card';
 
-            const iePercent = group.numberOfParticipants ? ((group.numberOfIE / group.numberOfParticipants) * 100).toFixed(1) : 0;
-            const editorPercent = group.numberOfEditors ? ((group.numberOfIEEditors / group.numberOfEditors) * 100).toFixed(1) : 0;
-            const prPercent = group.totalPRs ? ((group.iePRs / group.totalPRs) * 100).toFixed(1) : 0;
+            const iePercent = percent(group.numberOfIE, group.numberOfParticipants);
+            const editorPercent = percent(group.numberOfIEEditors, group.numberOfEditors);
+            const prPercent = percent(group.iePRs, group.totalPRs);
             
             // Create list of IE chairs if any
             let chairInfo = '';

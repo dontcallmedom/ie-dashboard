@@ -286,7 +286,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <dt>GitHub activity: None</dt>`;
             }
 
-            const githubDisplay = expert.github ? ` <span class=github>(@${expert.github})</span>` : '';
+            const githubDisplay = expert.github ? ` <a href='https://github.com/${expert.github}' class=github>(@${expert.github})↗️</a>` : '';
 
             card.innerHTML = `
                 <h2>
@@ -321,7 +321,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Calculate max for scaling
         const max = (prs.length + issues.length) > 0 ? Math.max(...Object.values(buckets)) : 1;
         
-        let html = '<div class="pr-chart-container">';
+        let html = '<ol class="pr-chart-container">';
         allMonths.forEach(m => {
             const count = buckets[m] || 0;
             const height = count > 0 ? Math.max(2, (count / max) * 40) : 0; 
@@ -332,9 +332,9 @@ document.addEventListener('DOMContentLoaded', () => {
             
             const title = count > 0 ? `title="${m}: ${count} Activity"` : `title="${m}"`;
 
-            html += `<div class="pr-bar" style="${style}" ${title}></div>`;
+            html += `<li class="pr-bar" style="${style}" ${title}></li>`;
         });
-        html += '</div>';
+        html += '</ol>';
         return html;
     }
 });

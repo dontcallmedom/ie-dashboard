@@ -68,6 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             name: ie.name,
                             href: ie.href,
                             github: ie.github || null,
+ 			    affiliations: ie.affiliations,
                             groups: [],
                             chairs: [],
                             specs: [],
@@ -79,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         });
                     }
                     const expert = expertsMap.get(ie.href);
-                    
+
                     // Update github if found in this group entry and not previously set
                     if (ie.github && !expert.github) {
                         expert.github = ie.github;
@@ -100,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         ie.roles.editors.forEach(ed => {
                             // Try to get a meaningful name
                             const specName = ed.title || ed.shortname || "Unknown Spec";
-                            expert.specs.push(specName);
+                            expert.specs.push({ name: specName, shortname: ed.shortname });
                         });
                     }
                 });
@@ -191,7 +192,9 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             
             // Deduplicate lists
-            expert.specs = [...new Set(expert.specs)];
+            const uniqueSpecs = new Map();
+            expert.specs.forEach(s => uniqueSpecs.set(s.name, s));
+            expert.specs = Array.from(uniqueSpecs.values());
         }
 
         // Return sorted by Activity count desc (PRs + Issues)
@@ -215,14 +218,22 @@ document.addEventListener('DOMContentLoaded', () => {
         experts.forEach(expert => {
             const card = document.createElement('div');
             card.className = 'expert-card';
-            
+
+	  const affiliationsHtml = expert.affiliations.length ? expert.affiliations.map(a => `${a.homepage ? `<a href='${a.homepage}'>` : ''}${a.name}${a.homepage ? `</a>` : ''}`).join(', ') : "N/A";
+
             // Groups as links
             let groupsHtml = expert.groups.map(g => 
                 `<a href="?group=${g.id}" class="badge badge-group" style="text-decoration:none;">${g.name}</a>`
             ).join('');
-            
+
             let chairsHtml = expert.chairs.map(g => `<span class="badge badge-chair">${g.name}</span>`).join('');
-            let specsHtml = expert.specs.map(s => `<span class="badge badge-spec">${s}</span>`).join('');
+            let specsHtml = expert.specs.map(s => {
+                if (s.shortname) {
+                    return `<a href="https://www.w3.org/TR/${s.shortname}" target="_blank" class="badge badge-spec" style="text-decoration:none;">${s.name}</a>`;
+                } else {
+                    return `<span class="badge badge-spec">${s.name}</span>`;
+                }
+            }).join('');
 
             // Reviews
             let reviewsHtml = '';
@@ -295,6 +306,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <a href="${expert.href}" target="_blank">${expert.name}</a>${githubDisplay}
                 </div>
                 ${expert.chairs.length ? `<div class="expert-section"><div class="expert-section-title">Chairs:</div>${chairsHtml}</div>` : ''}
+                <div class="expert-section"><div class="expert-section-title">Affiliation:</div>${affiliationsHtml}</div>
                 <div class="expert-section"><div class="expert-section-title">Participates in:</div>${groupsHtml}</div>
                 ${expert.specs.length ? `<div class="expert-section"><div class="expert-section-title">Edits Specs:</div>${specsHtml}</div>` : ''}
                 ${expert.reviews.length ? `<div class="expert-section"><div class="expert-section-title">Horizontal Reviews:</div>${reviewsHtml}</div>` : ''}

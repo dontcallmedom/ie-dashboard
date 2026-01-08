@@ -9,18 +9,52 @@ document.addEventListener('DOMContentLoaded', () => {
     // Fetch data
     Promise.all([
         fetch('invited-expert-roles.json').then(response => response.json()),
-        fetch('hr-reviewers.json').then(response => response.json())
+        fetch('hr-reviewers.json').then(response => response.json()),
+        fetch('pr-contributors.json').then(response => response.json())
     ])
-    .then(([groupsData, reviews]) => {
+    .then(([groupsData, reviews, prsData]) => {
             allGroups = groupsData;
             reviewsData = reviews;
+            processPRData(allGroups, prsData);
             renderSummary(allGroups);
             renderGroups(allGroups);
         })
         .catch(err => {
             console.error('Error loading data:', err);
-            groupsList.innerHTML = '<p class="error">Error loading data. Please ensure invited-expert-roles.json and hr-reviewers.json exist.</p>';
+            groupsList.innerHTML = '<p class="error">Error loading data. Please ensure invited-expert-roles.json, hr-reviewers.json and pr-contributors.json exist.</p>';
         });
+
+    function processPRData(groups, prsData) {
+        const prsMap = new Map(prsData.map(g => [g.id, g]));
+
+        groups.forEach(group => {
+            group.totalPRs = 0;
+            group.iePRs = 0;
+
+            const groupPrData = prsMap.get(group.id);
+            if (!groupPrData || !groupPrData.contributors) return;
+
+            // Get Set of IE GitHub handles for this group (lowercase)
+            const ieHandles = new Set();
+            if (group.ies) {
+                group.ies.forEach(ie => {
+                    if (ie.github) ieHandles.add(ie.github.toLowerCase());
+                });
+            }
+
+            Object.values(groupPrData.contributors).forEach(repo => {
+                if (repo.prs) {
+                    Object.entries(repo.prs).forEach(([handle, prs]) => {
+                        const count = prs.length;
+                        group.totalPRs += count;
+                        if (ieHandles.has(handle.toLowerCase())) {
+                            group.iePRs += count;
+                        }
+                    });
+                }
+            });
+        });
+    }
 
     // Sort event listener
     sortSelect.addEventListener('change', (e) => {
@@ -59,11 +93,27 @@ document.addEventListener('DOMContentLoaded', () => {
         const totalWGs = groups.filter(g => g.type === 'wg').length;
         const totalIGs = groups.filter(g => g.type === 'ig').length;
         const totalParticipants = groups.reduce((sum, g) => sum + g.numberOfParticipants, 0);
-        const totalIEs = groups.reduce((sum, g) => sum + g.numberOfIE, 0);
+        const totalInvitations = groups.reduce((sum, g) => sum + g.numberOfIE, 0);
+        const distinctIEs = groups.reduce((acc, g) => {
+	  for (const ie of g.ies) {
+	    if (!acc[ie.href]) {
+	      acc[ie.href] = structuredClone(ie);
+	      acc[ie.href].groups = [];
+	    }
+	    acc[ie.href].groups.push(g.fullshortname);
+	  }
+	  return acc;
+	}, {});
+        const totalIEs = Object.keys(distinctIEs).length;
+        const totalMultiGroupIEs = Object.values(distinctIEs).filter(i => i.groups.length > 1).length;
+        const totalUnaffiliatedIEs = Object.values(distinctIEs).filter(i => i.affiliations.length === 0).length;
         const totalEditors = groups.reduce((sum, g) => sum + g.numberOfEditors, 0);
         const totalIEEditors = groups.reduce((sum, g) => sum + g.numberOfIEEditors, 0);
         const totalChairs = groups.reduce((sum, g) => sum + g.numberOfChairs, 0);
         const totalIEChairs = groups.reduce((sum, g) => sum + g.numberOfIEChairs, 0);
+
+        const globalTotalPRs = groups.reduce((sum, g) => sum + (g.totalPRs || 0), 0);
+        const globalIEPRs = groups.reduce((sum, g) => sum + (g.iePRs || 0), 0);
 
         let totalIEReviews = 0;
         let totalHRReviews = 0;
@@ -86,9 +136,11 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        const iePercentage = totalParticipants ? ((totalIEs / totalParticipants) * 100).toFixed(1) : 0;
+        const iePercentage = totalParticipants ? ((totalInvitations / totalParticipants) * 100).toFixed(1) : 0;
+        const unaffiliatedIEPercentage = totalIEs ? ((totalUnaffiliatedIEs / totalIEs) * 100).toFixed(1) : 0;
         const ieEditorPercentage = totalEditors ? ((totalIEEditors / totalEditors) * 100).toFixed(1) : 0;
         const ieHRPercentage = totalHRReviews ? ((totalIEReviews / totalHRReviews) * 100).toFixed(1) : 0;
+        const iePRPercentage = globalTotalPRs ? ((globalIEPRs / globalTotalPRs) * 100).toFixed(1) : 0;
 
         summarySection.innerHTML = `
             <div class="summary-card">
@@ -97,9 +149,19 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="label">${totalWGs} WGs, ${totalIGs} IGs</div>
             </div>
             <div class="summary-card">
+                <h3>Invitations</h3>
+                <div class="value">${totalInvitations}</div>
+                <div class="label">${iePercentage}% of ${totalParticipants} group participations</div>
+            </div>
+            <div class="summary-card">
                 <h3>Invited Experts</h3>
                 <div class="value">${totalIEs}</div>
-                <div class="label">${iePercentage}% of ${totalParticipants} participants</div>
+                <div class="label">${totalMultiGroupIEs} IEs participate in multiple groups</div>
+            </div>
+            <div class="summary-card">
+                <h3>Unaffiliated Invited Experts</h3>
+                <div class="value">${totalUnaffiliatedIEs}</div>
+                <div class="label">${unaffiliatedIEPercentage}% of ${totalIEs} invited experts</div>
             </div>
             <div class="summary-card">
                 <h3>IE Editors</h3>
@@ -110,6 +172,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h3>IE Chairs</h3>
                 <div class="value">${totalIEChairs}</div>
                 <div class="label">Out of ${totalChairs} chairs</div>
+            </div>
+            <div class="summary-card">
+                <h3>IE PRs</h3>
+                <div class="value">${globalIEPRs}</div>
+                <div class="label">${iePRPercentage}% of ${globalTotalPRs} PRs</div>
             </div>
             <div class="summary-card">
                 <h3>IE HR Reviews</h3>
@@ -127,6 +194,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const iePercent = group.numberOfParticipants ? ((group.numberOfIE / group.numberOfParticipants) * 100).toFixed(1) : 0;
             const editorPercent = group.numberOfEditors ? ((group.numberOfIEEditors / group.numberOfEditors) * 100).toFixed(1) : 0;
+            const prPercent = group.totalPRs ? ((group.iePRs / group.totalPRs) * 100).toFixed(1) : 0;
             
             // Create list of IE chairs if any
             let chairInfo = '';
@@ -217,6 +285,16 @@ document.addEventListener('DOMContentLoaded', () => {
                         </div>
                         <div class="progress-bar">
                             <div class="progress-fill" style="width: ${editorPercent}%"></div>
+                        </div>
+                    </div>
+
+                    <div class="stat-row">
+                        <div class="stat-label">
+                            <span>PRs</span>
+                            <span><strong>${group.iePRs}</strong> IE PRs / ${group.totalPRs}</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: ${prPercent}%"></div>
                         </div>
                     </div>
 

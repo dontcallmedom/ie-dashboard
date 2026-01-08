@@ -155,7 +155,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "JaninaSajka"
+        "github": "JaninaSajka",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/p8385rml41cos040s0oc48og8ksgggc",
@@ -165,7 +166,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "colabottles"
+        "github": "colabottles",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/6ua0rynj4q048s8kk48kgkk88ggswks",
@@ -175,7 +177,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "bruce-usab"
+        "github": "bruce-usab",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/r0scsadz10gk0osssskkkcw4048co8k",
@@ -185,7 +188,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "mgifford"
+        "github": "mgifford",
+        "affiliations": [
+          {
+            "name": "CivicActions",
+            "homepage": "https://civicactions.com/",
+            "href": "https://api.w3.org/affiliations/142758"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/tik03r6bn6og8css4o4g4kkkkcw8088",
@@ -195,7 +205,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "Helixopp"
+        "github": "Helixopp",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/sbrjjehesmos8ck0gw8oocso8c48o48",
@@ -205,7 +216,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "gradualclearing"
+        "github": "gradualclearing",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/h4qfrshgej48soooc8wgcs4k44occso",
@@ -214,7 +226,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/jz3aambod6o4g4cg8gwsocooss0wcoc",
@@ -229,7 +242,8 @@
             }
           ]
         },
-        "github": "kengdoj"
+        "github": "kengdoj",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/90ft3edrt64oos8ksos4gk8gwg88cgw",
@@ -239,7 +253,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "samogami"
+        "github": "samogami",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/aoho256e3cw04okswww0480wg4w8kkk",
@@ -249,7 +264,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "lauracarlson"
+        "github": "lauracarlson",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/c28z1m5rjl4oks00csckc40o0wcwc04",
@@ -259,7 +275,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "MakotoUeki"
+        "github": "MakotoUeki",
+        "affiliations": [
+          {
+            "name": "Infoaxia, Inc.",
+            "homepage": "https://infoaxia.co.jp",
+            "href": "https://api.w3.org/affiliations/150102"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/hed6rb5tfv48skw8ogk48os0gksg8g8",
@@ -269,7 +292,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "detlevhfischer"
+        "github": "detlevhfischer",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/e4nxjmsvbfw4googkgs88w8gc0ok0wc",
@@ -279,7 +303,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "RashmiKatakwar"
+        "github": "RashmiKatakwar",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/m5g0ceohd9wc0wso0owwwok4c8ss4ks",
@@ -293,7 +318,13 @@
               "date": "20150226"
             }
           ]
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Redstart Systems",
+            "href": "https://api.w3.org/affiliations/57842"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/iyws8wgtklws88gcwo00w08ccgwo4ws",
@@ -303,7 +334,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "shawnthompson"
+        "github": "shawnthompson",
+        "affiliations": [
+          {
+            "name": "Shared Services Canada",
+            "href": "https://api.w3.org/affiliations/71215"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/s460v84tnsgoswskc8owwks0kwwg0gw",
@@ -313,7 +350,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "DavidMacDonald"
+        "github": "DavidMacDonald",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/h6108ute2pkw0ow8wcws884sogkcs8o",
@@ -336,7 +374,8 @@
             }
           ]
         },
-        "github": "lseeman"
+        "github": "lseeman",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/nhyq8wlcbmokg08c4cswwo4gk4skk4s",
@@ -345,7 +384,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/q5elcp9n4jkwcoocksc4ccs0owo8gsw",
@@ -355,7 +395,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "mapluke"
+        "github": "mapluke",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/kvpk862oi6o84sck88o4cwkkoso8sks",
@@ -365,7 +406,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "PoornimaSubramanian"
+        "github": "PoornimaSubramanian",
+        "affiliations": [
+          {
+            "name": "Holland America Group",
+            "href": "https://api.w3.org/affiliations/135934"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/5cmahpy469ogoscg4w488gwg488ksck",
@@ -408,7 +455,14 @@
             }
           ]
         },
-        "github": "GreggVan"
+        "github": "GreggVan",
+        "affiliations": [
+          {
+            "name": "Raising the Floor",
+            "homepage": "http://raisingthefloor.org",
+            "href": "https://api.w3.org/affiliations/81803"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/at7xir592144g8cw4s44488w808cs8c",
@@ -418,7 +472,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "raja-kushalnagar-gallaudet"
+        "github": "raja-kushalnagar-gallaudet",
+        "affiliations": [
+          {
+            "name": "Gallaudet University",
+            "href": "https://api.w3.org/affiliations/50409"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/exeotcc5xlc8g8cgcs48ko8sgc8so0k",
@@ -427,7 +487,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "The University of Toledo",
+            "href": "https://api.w3.org/affiliations/91501"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/iovjz44bavscoksgwwkw84oo0400ks8",
@@ -437,7 +503,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "JohnRochfordUMMS"
+        "github": "JohnRochfordUMMS",
+        "affiliations": [
+          {
+            "name": "University of Massachusetts Medical School",
+            "href": "https://api.w3.org/affiliations/67824"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/30lml3qphxycg0cooswwgs0cc0oo0so",
@@ -447,7 +519,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "CityMouse"
+        "github": "CityMouse",
+        "affiliations": [
+          {
+            "name": "CityMouse, inc",
+            "href": "https://api.w3.org/affiliations/93517"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/b8m9jchwm9wkog48ksos4048g0o48kk",
@@ -456,7 +534,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/t4o5k2vhxz4wssog44ww4g8cw480ssw",
@@ -465,7 +544,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "ING Groep N.V.",
+            "href": "https://api.w3.org/affiliations/98023"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/pcayqkwru5ck48gs4c0ogckswos4kk4",
@@ -475,7 +560,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "rscano"
+        "github": "rscano",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/53eyhiy0ad4wkgcg08w84k8csk4gs88",
@@ -485,7 +571,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "DuffJohnson"
+        "github": "DuffJohnson",
+        "affiliations": [
+          {
+            "name": "PDF Association",
+            "href": "https://api.w3.org/affiliations/133544"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/h7c4yjqidzwws08goow84gkw0k84wog",
@@ -495,7 +587,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "MrFirthy"
+        "github": "MrFirthy",
+        "affiliations": [
+          {
+            "name": "Octopus Energy",
+            "homepage": "https://octopus.energy",
+            "href": "https://api.w3.org/affiliations/142906"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/azfclx7n7ugwkw4wogc4sksgsw0s0c0",
@@ -505,7 +604,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "mbeganyi-a11y"
+        "github": "mbeganyi-a11y",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/9xnhmssj8x4ocoo0g4ocsccksccowsg",
@@ -515,7 +615,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "bworx"
+        "github": "bworx",
+        "affiliations": [
+          {
+            "name": "AnySurfer",
+            "href": "https://api.w3.org/affiliations/62582"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/bbiqw1sbx9ckkwss08ocsc8k4wg80kw",
@@ -525,7 +631,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "kdrubianoc"
+        "github": "kdrubianoc",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/39573hgyevswskc004sgccgsw488cgk",
@@ -535,7 +642,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "double-a11y"
+        "github": "double-a11y",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/qwt69ehn8fksswsk8g40o8oks0800kw",
@@ -550,7 +658,8 @@
             }
           ]
         },
-        "github": "jha11y"
+        "github": "jha11y",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/47fkkapainswgkcswgkc4888c0k0gc4",
@@ -559,7 +668,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Skyscanner",
+            "homepage": "http://skyscanner.net",
+            "href": "https://api.w3.org/affiliations/152292"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/ilhlblrre9s0008w00gog4soo8scwws",
@@ -568,7 +684,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Edward Jones",
+            "homepage": "http://edwardjones.com",
+            "href": "https://api.w3.org/affiliations/152440"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/l5wqmmmz9hwok0okssocg0cgckokkc0",
@@ -578,7 +701,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "GrahamTheDevRel"
+        "github": "GrahamTheDevRel",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/k3sbjrerw1cs488444soo8gkwswcs8w",
@@ -588,7 +712,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "u9000-Nine"
+        "github": "u9000-Nine",
+        "affiliations": [
+          {
+            "name": "Northern Essex Community College",
+            "homepage": "https://necc.mass.edu/",
+            "href": "https://api.w3.org/affiliations/143314"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/c0wax1ur9pkocc88kwg4c0skkg4scso",
@@ -598,7 +729,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "AlainVagner"
+        "github": "AlainVagner",
+        "affiliations": [
+          {
+            "name": "Information and press service of the Luxembourg Government",
+            "homepage": "https://sip.gouvernement.lu/en.html",
+            "href": "https://api.w3.org/affiliations/153013"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/x7edc3p6ehccooo84scoos4cc040g0",
@@ -608,7 +746,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "eadraffan"
+        "github": "eadraffan",
+        "affiliations": [
+          {
+            "name": "Global Symbols",
+            "homepage": "https://globalsymbols.com/",
+            "href": "https://api.w3.org/affiliations/152159"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/9571p1e9yz48gk0so844o04wwkogk8g",
@@ -618,7 +763,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "audreymaniez"
+        "github": "audreymaniez",
+        "affiliations": [
+          {
+            "name": "Access42",
+            "href": "https://api.w3.org/affiliations/77599"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/f62y2jx0jjcocokw8gcocccsc8w044g",
@@ -628,7 +779,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "racheleditullio"
+        "github": "racheleditullio",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/1b7nnzq1wpxcwkcwgk8888o8gk8c40g",
@@ -643,7 +795,13 @@
             }
           ]
         },
-        "github": "jamieherrera"
+        "github": "jamieherrera",
+        "affiliations": [
+          {
+            "name": "JPMorgan Chase & Co.",
+            "href": "https://api.w3.org/affiliations/67558"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/d8z4br0slbks4sww0kkk0w8cccg04oc",
@@ -658,7 +816,8 @@
             }
           ]
         },
-        "github": "julianmka"
+        "github": "julianmka",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/docp8isfxnkg8ksc4ww8c4wcwgcko0w",
@@ -668,7 +827,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "hereticsun"
+        "github": "hereticsun",
+        "affiliations": [
+          {
+            "name": "Blackbaud",
+            "href": "https://api.w3.org/affiliations/70033"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/7xlxbi48tpc0csowwsswk8c440cg48c",
@@ -678,7 +843,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "HelenBurge"
+        "github": "HelenBurge",
+        "affiliations": [
+          {
+            "name": "Testlio",
+            "homepage": "https://testlio.com/",
+            "href": "https://api.w3.org/affiliations/141822"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/9ggke0mycksowwsws88444s00g0ogsc",
@@ -693,7 +865,14 @@
             }
           ]
         },
-        "github": "pday1"
+        "github": "pday1",
+        "affiliations": [
+          {
+            "name": "NCR Atleos",
+            "homepage": "https://www.ncratleos.com",
+            "href": "https://api.w3.org/affiliations/155859"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/3q5ya49de48w0kg48skwowwo84wsg40",
@@ -703,7 +882,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "arctouch-gleidsonramos"
+        "github": "arctouch-gleidsonramos",
+        "affiliations": [
+          {
+            "name": "ArcTouch",
+            "homepage": "https://arctouch.com/",
+            "href": "https://api.w3.org/affiliations/154980"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/gtk1gi4to6go88wws4ksws4kw0448gs",
@@ -713,7 +899,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "frankie-wolf"
+        "github": "frankie-wolf",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/ab3h0z53g9c84o0kkww4gwgwc0c8woc",
@@ -723,7 +910,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "t-burtin"
+        "github": "t-burtin",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/9xo6ww22k68kg4kcg88408w8gwogo8g",
@@ -732,7 +920,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/puwz0s4mk288ww0sc0sgoo0kg84w8g0",
@@ -747,7 +936,14 @@
             }
           ]
         },
-        "github": "dotjay"
+        "github": "dotjay",
+        "affiliations": [
+          {
+            "name": "As It Should Be",
+            "homepage": "https://digitalasitshouldbe.com/",
+            "href": "https://api.w3.org/affiliations/148165"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/5ar5akzrybs4gk4owcoocckoo0wwgws",
@@ -757,7 +953,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "Lboniello"
+        "github": "Lboniello",
+        "affiliations": [
+          {
+            "name": "US General Services Administration",
+            "homepage": "http://gsa.gov",
+            "href": "https://api.w3.org/affiliations/161439"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/23ov8n1hnwlc4sc4gg8cgcow84g0w8c",
@@ -766,7 +969,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/2ukv6b0akd6o4s0s4gs0ggkc884wko",
@@ -776,7 +980,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "rwapp"
+        "github": "rwapp",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/hcs691blndc88cc0gw4osg0wsoo0csc",
@@ -786,7 +991,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "melaniephilipp"
+        "github": "melaniephilipp",
+        "affiliations": [
+          {
+            "name": "USAA",
+            "homepage": "https://www.usaa.com",
+            "href": "https://api.w3.org/affiliations/54649"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/ox73imuwp1wog84koo4wk8k808ogc4s",
@@ -796,7 +1008,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "garethslinn"
+        "github": "garethslinn",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/fj8c92794p44cs0cskkwokok0k8cow8",
@@ -806,7 +1019,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "reidmore-online"
+        "github": "reidmore-online",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/kwshp9z1gw0480wksc0k4gcgcoggkss",
@@ -816,7 +1030,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "adampage"
+        "github": "adampage",
+        "affiliations": [
+          {
+            "name": "Hilton",
+            "homepage": "https://www.hilton.com/",
+            "href": "https://api.w3.org/affiliations/144728"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/an034aldbhckw44s0888o0wo0coc4g8",
@@ -826,7 +1047,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "shoobe01"
+        "github": "shoobe01",
+        "affiliations": [
+          {
+            "name": "4ourth Mobile",
+            "homepage": "http://4ourth.com",
+            "href": "https://api.w3.org/affiliations/167215"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/a33816awfio88kw8o0sssk4kok488gs",
@@ -835,12 +1063,34 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Norwegian Labour and Welfare Service (NAV)",
+            "href": "https://api.w3.org/affiliations/116878"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/s8m18y3byyo4ssocc0040o0wocgk0gs",
+        "name": "Claire CHANG",
+        "created": "2025-12-26 08:37:43",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "Techmoi International Ltd.",
+            "homepage": "http://www.techmoi.com",
+            "href": "https://api.w3.org/affiliations/173471"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 266,
-    "numberOfChairs": 3,
-    "numberOfIE": 62,
+    "numberOfChairs": 2,
+    "numberOfIE": 63,
     "numberOfIEChairs": 0,
     "numberOfEditors": 38,
     "numberOfIEEditors": 9,
@@ -963,7 +1213,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "becka11y"
+        "github": "becka11y",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/ag01ak3urmokwowwckk4k4ogcs44cw4",
@@ -994,7 +1245,13 @@
             }
           ]
         },
-        "github": "AutoSponge"
+        "github": "AutoSponge",
+        "affiliations": [
+          {
+            "name": "FactSet Research Systems",
+            "href": "https://api.w3.org/affiliations/100162"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/5vgpfu6w0osgc0448kss4kkw8sow4kk",
@@ -1004,7 +1261,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "NSoiffer"
+        "github": "NSoiffer",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/3clifq7ooiuccwcgs0sos8ocooco40s",
@@ -1014,7 +1272,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "dadahl"
+        "github": "dadahl",
+        "affiliations": [
+          {
+            "name": "Conversational Technologies",
+            "href": "https://api.w3.org/affiliations/54414"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/qtbys48x8usso88k4g004s0cgccc8ks",
@@ -1057,7 +1321,8 @@
             }
           ]
         },
-        "github": "JaninaSajka"
+        "github": "JaninaSajka",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/20mcziqw6468o8kso8scwwgssswgsc4",
@@ -1067,7 +1332,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "gozimmermann"
+        "github": "gozimmermann",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/h6108ute2pkw0ow8wcws884sogkcs8o",
@@ -1106,7 +1372,8 @@
             }
           ]
         },
-        "github": "lseeman"
+        "github": "lseeman",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/at7xir592144g8cw4s44488w808cs8c",
@@ -1116,7 +1383,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "raja-kushalnagar-gallaudet"
+        "github": "raja-kushalnagar-gallaudet",
+        "affiliations": [
+          {
+            "name": "Gallaudet University",
+            "href": "https://api.w3.org/affiliations/50409"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/d8cpiyd7vcgssk8k44kw4sswcgowo0o",
@@ -1147,7 +1420,8 @@
             }
           ]
         },
-        "github": "joshueoconnor"
+        "github": "joshueoconnor",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/9c7jm620vww804oocwg4c88sck8ws44",
@@ -1157,7 +1431,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "niklasegger"
+        "github": "niklasegger",
+        "affiliations": [
+          {
+            "name": "Hochschule der Medien",
+            "href": "https://api.w3.org/affiliations/86732"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/pjaqaud307kcwogk8ksgsso40so0wkk",
@@ -1167,7 +1447,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "fredrika11y"
+        "github": "fredrika11y",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/cgbwf377ujw4w0g88sk4k8o4okoc8gs",
@@ -1186,7 +1467,13 @@
             }
           ]
         },
-        "github": "alia11y"
+        "github": "alia11y",
+        "affiliations": [
+          {
+            "name": "BlackRock",
+            "href": "https://api.w3.org/affiliations/139063"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/333pc0ono1icssccckwoggcwccwgc4w",
@@ -1196,7 +1483,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "swinehartganderson"
+        "github": "swinehartganderson",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/lxdj97ahtk0k8gw8g0sgkw0s4o40ww0",
@@ -1206,7 +1494,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "susipalleroarguello"
+        "github": "susipalleroarguello",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/9olvsm2o9ecck84gwg0cggo4ccc00ck",
@@ -1215,7 +1504,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/azfclx7n7ugwkw4wogc4sksgsw0s0c0",
@@ -1225,7 +1515,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "mbeganyi-a11y"
+        "github": "mbeganyi-a11y",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/4bmyyi9j7mwwo4ks0kgo8kk4ckccc8c",
@@ -1264,7 +1555,8 @@
             }
           ]
         },
-        "github": "jasonjgw"
+        "github": "jasonjgw",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/tik03r6bn6og8css4o4g4kkkkcw8088",
@@ -1279,7 +1571,8 @@
             }
           ]
         },
-        "github": "Helixopp"
+        "github": "Helixopp",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/kasin6d3txwo4og4048s00w4cow84g4",
@@ -1289,7 +1582,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "jeffkline"
+        "github": "jeffkline",
+        "affiliations": [
+          {
+            "name": "Jeff Kline Accessibility Consulting",
+            "href": "https://api.w3.org/affiliations/131812"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/t4o5k2vhxz4wssog44ww4g8cw480ssw",
@@ -1298,7 +1597,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "ING Groep N.V.",
+            "href": "https://api.w3.org/affiliations/98023"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/7fjlvthwqbcw0kwcg4w0oswg0skg0oo",
@@ -1308,7 +1613,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "NadineAuer"
+        "github": "NadineAuer",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/hvcvi3jdn688g8oc8scc84k8840goc4",
@@ -1323,7 +1629,13 @@
             }
           ]
         },
-        "github": "samkanta"
+        "github": "samkanta",
+        "affiliations": [
+          {
+            "name": "The Sustainable Change LLC",
+            "href": "https://api.w3.org/affiliations/111468"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/p8385rml41cos040s0oc48og8ksgggc",
@@ -1333,7 +1645,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "colabottles"
+        "github": "colabottles",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/hnu3z8rubhcgc8kc0cko4scwc84kcos",
@@ -1343,7 +1656,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "russellgalvin"
+        "github": "russellgalvin",
+        "affiliations": [
+          {
+            "name": "Blissymbolics Communication International",
+            "href": "https://api.w3.org/affiliations/138463"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/5oognclznb40gsw4coks8gwggcwgksw",
@@ -1353,7 +1672,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "newtonsgroove"
+        "github": "newtonsgroove",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/fab5ybd6i7wcco84g08ss4kckg0gw",
@@ -1363,7 +1683,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "Skooth"
+        "github": "Skooth",
+        "affiliations": [
+          {
+            "name": "Università della Svizzera italiana",
+            "href": "https://api.w3.org/affiliations/92665"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/6kdtxzfkb84cwk00kcg0kok80sk40w",
@@ -1378,7 +1704,14 @@
             }
           ]
         },
-        "github": "nehamjadhav"
+        "github": "nehamjadhav",
+        "affiliations": [
+          {
+            "name": "Helix opportunity",
+            "homepage": "https://helixopp.com/",
+            "href": "https://api.w3.org/affiliations/151447"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/dyxto36o9iosg44sgck8ccsgko4w8k4",
@@ -1387,7 +1720,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "UKG",
+            "href": "https://api.w3.org/affiliations/140943"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/n2hmlu46jrk8kco4wkcw0okg4kcgs80",
@@ -1397,7 +1736,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "jxlz"
+        "github": "jxlz",
+        "affiliations": [
+          {
+            "name": "RaLytics",
+            "homepage": "https://ralytics.com/",
+            "href": "https://api.w3.org/affiliations/156532"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/gi0t5nb8dg8cgkc0ckgocog0gsgs4kc",
@@ -1412,7 +1758,8 @@
             }
           ]
         },
-        "github": "sheribyrne"
+        "github": "sheribyrne",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/2snpsblscs6c8cco4ksso484ssc8oc0",
@@ -1421,7 +1768,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/bquhmkgszjwcwcokssw4wccgk84sss",
@@ -1431,7 +1779,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "annaluwaller"
+        "github": "annaluwaller",
+        "affiliations": [
+          {
+            "name": "The University of Dundee",
+            "href": "https://api.w3.org/affiliations/107091"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/c6m3u478q3so4ogo48kcgwkos08k8gg",
@@ -1440,7 +1794,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/jdvzm62bmyo0scssk880kcs40kkc8g0",
@@ -1467,7 +1822,8 @@
             }
           ]
         },
-        "github": "johnfoliot"
+        "github": "johnfoliot",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/qlm8na1w41cs84k8s4sws8wkocco0gc",
@@ -1477,7 +1833,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "chiace"
+        "github": "chiace",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/pl7vla0ee1c8sk8ggg448kws4s4c44s",
@@ -1487,7 +1844,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "Cleyrauz"
+        "github": "Cleyrauz",
+        "affiliations": [
+          {
+            "name": "JP Morgan Chase",
+            "href": "https://api.w3.org/affiliations/69345"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/ewf7c221klk4osc4gwcggg84408884w",
@@ -1497,7 +1860,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "ehind67"
+        "github": "ehind67",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/kbppfdn7k9cc04g0wk4gc4kgow44kcc",
@@ -1507,7 +1871,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "dylan-fox"
+        "github": "dylan-fox",
+        "affiliations": [
+          {
+            "name": "Cornell University",
+            "href": "https://api.w3.org/affiliations/109499"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/8qbgcinjsyskw4oko8kk4g8o8gk4w04",
@@ -1516,7 +1886,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/f1ovb5rydm8s0go04oco0cgk0sow44w",
@@ -1526,7 +1897,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "jenstrickland"
+        "github": "jenstrickland",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/2m3gz4255qg40ggkwgc4k0084cso0ko",
@@ -1535,7 +1907,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/t0o2b1l4iio4ksgc800gwckggs4ogos",
@@ -1544,10 +1917,17 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "ClearCompany, Inc.",
+            "homepage": "http://clearcompany.com",
+            "href": "https://api.w3.org/affiliations/172288"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 99,
+    "numberOfParticipants": 97,
     "numberOfChairs": 2,
     "numberOfIE": 42,
     "numberOfIEChairs": 1,
@@ -1672,7 +2052,13 @@
             }
           ]
         },
-        "github": "pkra"
+        "github": "pkra",
+        "affiliations": [
+          {
+            "name": "krautzource UG",
+            "href": "https://api.w3.org/affiliations/100205"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/kwshp9z1gw0480wksc0k4gcgcoggkss",
@@ -1682,7 +2068,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "adampage"
+        "github": "adampage",
+        "affiliations": [
+          {
+            "name": "Hilton",
+            "homepage": "https://www.hilton.com/",
+            "href": "https://api.w3.org/affiliations/144728"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/ecjizy8mgj4sog4wk4www0s8o8ccg4o",
@@ -1701,7 +2094,8 @@
             }
           ]
         },
-        "github": "accdc"
+        "github": "accdc",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/56zt307qy8840cwskgwow84cgs48c88",
@@ -1711,7 +2105,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "zakkinsey"
+        "github": "zakkinsey",
+        "affiliations": [
+          {
+            "name": "TargetStream Technologies",
+            "homepage": "http://targetstream.com",
+            "href": "https://api.w3.org/affiliations/160970"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/byew56casxs08kw0000c4oc808s00wg",
@@ -1721,7 +2122,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "PaulRayius"
+        "github": "PaulRayius",
+        "affiliations": [
+          {
+            "name": "Allyant",
+            "homepage": "https://allyant.com/",
+            "href": "https://api.w3.org/affiliations/151802"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/53eyhiy0ad4wkgcg08w84k8csk4gs88",
@@ -1731,7 +2139,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "DuffJohnson"
+        "github": "DuffJohnson",
+        "affiliations": [
+          {
+            "name": "PDF Association",
+            "href": "https://api.w3.org/affiliations/133544"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/3eujllasn6ec0wc4gk4408gcko4g4ws",
@@ -1741,7 +2155,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "lolaodelola"
+        "github": "lolaodelola",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/5llxm6t3y884k4wc4sc4kw4w4owgooo",
@@ -1751,7 +2166,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "willkil"
+        "github": "willkil",
+        "affiliations": [
+          {
+            "name": "Kilian Codes LLC",
+            "homepage": "http://kilian.codes",
+            "href": "https://api.w3.org/affiliations/171472"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/cs0ccjjqplc8w4w8wk8skkcg4o0sgwk",
@@ -1770,7 +2192,8 @@
             }
           ]
         },
-        "github": "ZoeBijl"
+        "github": "ZoeBijl",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/dng74oq6r1w8o0s4ow8ks0808ww0kc0",
@@ -1779,7 +2202,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "PDF Association",
+            "href": "https://api.w3.org/affiliations/133544"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/97o1f1fvi9cso0wsw8wco0ks80o4skk",
@@ -1789,7 +2218,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "aardrian"
+        "github": "aardrian",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/b84oggwc9o8wgoo4g8skgss8k8oo4c4",
@@ -1804,12 +2234,30 @@
             }
           ]
         },
-        "github": "cyns"
+        "github": "cyns",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/hyj3s31pexkcw4844k8koccws0k884g",
+        "name": "Roman Toda",
+        "created": "2026-01-06 15:59:17",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "romantoda",
+        "affiliations": [
+          {
+            "name": "Foxit software",
+            "homepage": "http://www.foxit.com",
+            "href": "https://api.w3.org/affiliations/160192"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 105,
+    "numberOfParticipants": 106,
     "numberOfChairs": 2,
-    "numberOfIE": 12,
+    "numberOfIE": 13,
     "numberOfIEChairs": 0,
     "numberOfEditors": 26,
     "numberOfIEEditors": 4,
@@ -1866,10 +2314,11 @@
           "chair": false,
           "editors": []
         },
-        "github": "chrisguttandin"
+        "github": "chrisguttandin",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 38,
+    "numberOfParticipants": 39,
     "numberOfChairs": 3,
     "numberOfIE": 1,
     "numberOfIEChairs": 0,
@@ -1914,7 +2363,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "diemol"
+        "github": "diemol",
+        "affiliations": [
+          {
+            "name": "Sauce Labs",
+            "homepage": "http://saucelabs.com",
+            "href": "https://api.w3.org/affiliations/96740"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/7hosgbbc9cgs8o4kwo40ocs0cgg0wko",
@@ -1924,7 +2380,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "wilhelm"
+        "github": "wilhelm",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/ay5mpgyvb4g840gs88oks8wgo04wkw8",
@@ -1943,7 +2400,8 @@
             }
           ]
         },
-        "github": "AutomatedTester"
+        "github": "AutomatedTester",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/ciqasp9689444sg0c4k4k0gc44cg44c",
@@ -1953,7 +2411,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "christian-bromann"
+        "github": "christian-bromann",
+        "affiliations": [
+          {
+            "name": "Stateful Inc.",
+            "href": "https://api.w3.org/affiliations/135767"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/3yrxyv8qlrs44888sc8kwccwk00oso4",
@@ -1963,10 +2427,16 @@
           "chair": false,
           "editors": []
         },
-        "github": "chrmod"
+        "github": "chrmod",
+        "affiliations": [
+          {
+            "name": "Ghostery",
+            "href": "https://api.w3.org/affiliations/132874"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 55,
+    "numberOfParticipants": 54,
     "numberOfChairs": 1,
     "numberOfIE": 5,
     "numberOfIEChairs": 1,
@@ -2091,21 +2561,6 @@
         "github": "litherum"
       },
       {
-        "href": "https://api.w3.org/users/kjqsxbe6kioko4s88s4wocws848kgw8",
-        "github": "dbaron"
-      },
-      {
-        "href": "https://api.w3.org/users/8nwt10ooi2w4gk4408s0ggko804sgcs",
-        "github": "grorg"
-      },
-      {
-        "href": "https://api.w3.org/users/e39bdhr201cscko88os4wc4c8ooskwo",
-        "github": "birtles"
-      },
-      {
-        "href": "https://api.w3.org/users/18zodei8ttc040wo4wgskcg8o4kck4o"
-      },
-      {
         "href": "https://api.w3.org/users/1qsm2xhvwolc8w804k4coooscocso8o"
       },
       {
@@ -2114,6 +2569,10 @@
       },
       {
         "href": "https://api.w3.org/users/lla706dellwwwc8484s0cc40g04wwkg"
+      },
+      {
+        "href": "https://api.w3.org/users/8nwt10ooi2w4gk4408s0ggko804sgcs",
+        "github": "grorg"
       },
       {
         "href": "https://api.w3.org/users/dysm635t76okg8wg0so88ksk4gwgwcw",
@@ -2155,8 +2614,16 @@
         "github": "jensimmons"
       },
       {
+        "href": "https://api.w3.org/users/e39bdhr201cscko88os4wc4c8ooskwo",
+        "github": "birtles"
+      },
+      {
         "href": "https://api.w3.org/users/ckdttt7dju8sk4s08oswo0g4wsoc4kw",
         "github": "emilio"
+      },
+      {
+        "href": "https://api.w3.org/users/kjqsxbe6kioko4s88s4wocws848kgw8",
+        "github": "dbaron"
       },
       {
         "href": "https://api.w3.org/users/rt9ohnr69748wsko4kogscgg0ocko4k",
@@ -2265,10 +2732,6 @@
         "github": "ydaniv"
       },
       {
-        "href": "https://api.w3.org/users/lb38w3xd59ck08kco04go8w4c0ggwog",
-        "github": "stwrt"
-      },
-      {
         "href": "https://api.w3.org/users/t9qq83owlzkck404w0o44so8owc00gg",
         "github": "lilles"
       },
@@ -2283,6 +2746,16 @@
       {
         "href": "https://api.w3.org/users/kwg0d4pcsogoocwkockwssk0o448wc0",
         "github": "fergald"
+      },
+      {
+        "href": "https://api.w3.org/users/lb38w3xd59ck08kco04go8w4c0ggwog",
+        "github": "stwrt"
+      },
+      {
+        "href": "https://api.w3.org/users/mvz2ze31qkgwcsgggocossws44oscsg"
+      },
+      {
+        "href": "https://api.w3.org/users/18zodei8ttc040wo4wgskcg8o4kck4o"
       }
     ],
     "ies": [
@@ -2411,7 +2884,8 @@
             }
           ]
         },
-        "github": "frivoal"
+        "github": "frivoal",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/gdqr9wzaplsg0ogw8o0o0o4scgww8s0",
@@ -2421,7 +2895,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "romainmenke"
+        "github": "romainmenke",
+        "affiliations": [
+          {
+            "name": "Mr. Henry",
+            "href": "https://api.w3.org/affiliations/136920"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/m851yqjrc740c4s8kk0ccwsogg84k8s",
@@ -2436,7 +2916,8 @@
             }
           ]
         },
-        "github": "FremyCompany"
+        "github": "FremyCompany",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/8a2g3dhir6skkosowg00sgg0owgo8ow",
@@ -2446,7 +2927,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "cdoublev"
+        "github": "cdoublev",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/d881jhewe2gw8ssgkg4s4sw0wg8koc8",
@@ -2456,7 +2938,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "vlevantovsky"
+        "github": "vlevantovsky",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/36wj092x8fuoccgckc4k8kc8c84cg8w",
@@ -2487,7 +2970,8 @@
             }
           ]
         },
-        "github": "SebastianZ"
+        "github": "SebastianZ",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/h3cgstufregwkskos08co4w48go4o0c",
@@ -2502,7 +2986,8 @@
             }
           ]
         },
-        "github": "plinss"
+        "github": "plinss",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/e39bdhr201cscko88os4wc4c8ooskwo",
@@ -2511,10 +2996,6 @@
         "roles": {
           "chair": false,
           "editors": [
-            {
-              "shortname": "css-transitions-1",
-              "date": "20181011"
-            },
             {
               "shortname": "css-masking-1",
               "date": "20210805"
@@ -2546,10 +3027,21 @@
             {
               "shortname": "web-animations-2",
               "date": "20251120"
+            },
+            {
+              "shortname": "css-transitions-1",
+              "date": "20260108"
             }
           ]
         },
-        "github": "birtles"
+        "github": "birtles",
+        "affiliations": [
+          {
+            "name": "Birchill, Inc.",
+            "homepage": "https://birchill.co.jp",
+            "href": "https://api.w3.org/affiliations/165759"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/su1eytbxetcwgwccs0088cg4c0gck4o",
@@ -2559,7 +3051,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "daelj"
+        "github": "daelj",
+        "affiliations": [
+          {
+            "name": "DeSales University",
+            "href": "https://api.w3.org/affiliations/61494"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/ag01ak3urmokwowwckk4k4ogcs44cw4",
@@ -2569,7 +3067,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "AutoSponge"
+        "github": "AutoSponge",
+        "affiliations": [
+          {
+            "name": "FactSet Research Systems",
+            "href": "https://api.w3.org/affiliations/100162"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/sl5b7a7gj4gcowgkksss4gskc00k40g",
@@ -2608,7 +3112,8 @@
             }
           ]
         },
-        "github": "LeaVerou"
+        "github": "LeaVerou",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/lseqv6ldseo8occ0kwcsc8gk4c0ogws",
@@ -2618,7 +3123,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "jonathantneal"
+        "github": "jonathantneal",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/i80p5bskshwgggwgks84kgoggsc8ko0",
@@ -2653,7 +3159,8 @@
             }
           ]
         },
-        "github": "mirisuzanne"
+        "github": "mirisuzanne",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/jle9tw8ilfk08k440040w4swccg4o84",
@@ -2663,7 +3170,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "weinig"
+        "github": "weinig",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/90iz247dzqwws048gws0kogwo0gwg4k",
@@ -2678,7 +3186,8 @@
             }
           ]
         },
-        "github": "bradkemper"
+        "github": "bradkemper",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/27vxo4z7wbi8c0wos8ks8ksww88ooc8",
@@ -2688,14 +3197,15 @@
           "chair": false,
           "editors": []
         },
-        "github": "castastrophe"
+        "github": "castastrophe",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 183,
     "numberOfChairs": 2,
     "numberOfIE": 16,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 81,
+    "numberOfEditors": 82,
     "numberOfIEEditors": 8,
     "numberOfSpecs": 157,
     "numberOfSpecWithIEEditors": 53
@@ -2707,7 +3217,7 @@
     "fullshortname": "ig/chinese-web",
     "editors": [],
     "ies": [],
-    "numberOfParticipants": 62,
+    "numberOfParticipants": 63,
     "numberOfChairs": 3,
     "numberOfIE": 0,
     "numberOfIEChairs": 0,
@@ -2760,6 +3270,10 @@
         "github": "recalcitrantsupplant"
       },
       {
+        "href": "https://api.w3.org/users/9naqo2mvs4cgsw48o4so8s0ssco0ccg",
+        "github": "ashleysommer"
+      },
+      {
         "href": "https://api.w3.org/users/3t8ccdk4azi8wskgg0gkoowkw8ok4oc",
         "github": "bergos"
       },
@@ -2770,10 +3284,6 @@
       {
         "href": "https://api.w3.org/users/b39dpa6cki88csg4ko0scgc0w8oc884",
         "github": "jeswr"
-      },
-      {
-        "href": "https://api.w3.org/users/9naqo2mvs4cgsw48o4so8s0ssco0ccg",
-        "github": "ashleysommer"
       }
     ],
     "ies": [
@@ -2790,7 +3300,14 @@
             }
           ]
         },
-        "github": "ashleysommer"
+        "github": "ashleysommer",
+        "affiliations": [
+          {
+            "name": "CSIRO",
+            "homepage": "http://www.csiro.au",
+            "href": "https://api.w3.org/affiliations/9923"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/iv6n8vgql5c8gcg0gw4sosk48c4gkkc",
@@ -2800,7 +3317,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "scotthenninger"
+        "github": "scotthenninger",
+        "affiliations": [
+          {
+            "name": "JPMorgan Chase & Co.",
+            "href": "https://api.w3.org/affiliations/67558"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/l5vnrmdy8j4og4gs444o0sogwwgsckc",
@@ -2810,7 +3333,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "mgberg"
+        "github": "mgberg",
+        "affiliations": [
+          {
+            "name": "Corning Incorporated",
+            "homepage": "https://www.corning.com/",
+            "href": "https://api.w3.org/affiliations/164112"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/9a26fdb3yqskoks88gkw4gwocscgk4o",
@@ -2820,7 +3350,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "kurtcagle"
+        "github": "kurtcagle",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/npovjod1g34ogwgwscw0840oksowwoo",
@@ -2830,7 +3361,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "liviorobaldo"
+        "github": "liviorobaldo",
+        "affiliations": [
+          {
+            "name": "Swansea University",
+            "href": "https://api.w3.org/affiliations/142700"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/5nmm93pnnns4g44scs8k4sgkkggsgg4",
@@ -2840,7 +3377,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "osavkovic"
+        "github": "osavkovic",
+        "affiliations": [
+          {
+            "name": "Free University of Bozen-Bolzano",
+            "homepage": "http://www.inf.unibz.it/",
+            "href": "https://api.w3.org/affiliations/35615"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/o7eq0z2wz80cskcc4gw040sowo488wc",
@@ -2850,7 +3394,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "danielbeeke"
+        "github": "danielbeeke",
+        "affiliations": [
+          {
+            "name": "Triply",
+            "href": "https://api.w3.org/affiliations/138354"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 32,
@@ -2859,7 +3409,7 @@
     "numberOfIEChairs": 0,
     "numberOfEditors": 14,
     "numberOfIEEditors": 1,
-    "numberOfSpecs": 8,
+    "numberOfSpecs": 9,
     "numberOfSpecWithIEEditors": 1
   },
   {
@@ -2930,7 +3480,8 @@
             }
           ]
         },
-        "github": "andrea-perego"
+        "github": "andrea-perego",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/5aednjp6r64oc48w8ccg84c40c4ccoo",
@@ -2945,7 +3496,13 @@
             }
           ]
         },
-        "github": "riccardoAlbertoni"
+        "github": "riccardoAlbertoni",
+        "affiliations": [
+          {
+            "name": "Consiglio Nazionale delle Ricerche",
+            "href": "https://api.w3.org/affiliations/114091"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/qkxdmplfkqsg48k0k04ckoccoowkgks",
@@ -2955,7 +3512,8 @@
           "chair": true,
           "editors": []
         },
-        "github": "cburle"
+        "github": "cburle",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/g1lvqrgzmpkwwkk00kgsowoko88888k",
@@ -2970,7 +3528,13 @@
             }
           ]
         },
-        "github": "agbeltran"
+        "github": "agbeltran",
+        "affiliations": [
+          {
+            "name": "Science and Technology Facilities Council",
+            "href": "https://api.w3.org/affiliations/117699"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mis1bdvs12sckksoc0wc8cckcc4g0sk",
@@ -2985,7 +3549,8 @@
             }
           ]
         },
-        "github": "pwin"
+        "github": "pwin",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/fqhzwbpvxp4c0o0gcgoowwkw8kg8c4c",
@@ -3000,7 +3565,8 @@
             }
           ]
         },
-        "github": "davebrowning"
+        "github": "davebrowning",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/pgge491bgk08g4gwggosc8cw4kggc4c",
@@ -3009,7 +3575,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "BRGM",
+            "homepage": "https://www.brgm.fr/fr",
+            "href": "https://api.w3.org/affiliations/143335"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/dl653l4ur5cs4ws84g8sc0w48owgksg",
@@ -3018,7 +3591,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "European Commission",
+            "href": "https://api.w3.org/affiliations/53717"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/np9xwc0pnmswcgkkg8gkg4cw8ogcwgw",
@@ -3033,10 +3612,17 @@
             }
           ]
         },
-        "github": "larsgsvensson"
+        "github": "larsgsvensson",
+        "affiliations": [
+          {
+            "name": "Deutsche Nationalbibliothek (DNB)",
+            "homepage": "https://www.dnb.de/",
+            "href": "https://api.w3.org/affiliations/42051"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 30,
+    "numberOfParticipants": 29,
     "numberOfChairs": 2,
     "numberOfIE": 9,
     "numberOfIEChairs": 2,
@@ -3116,7 +3702,8 @@
             }
           ]
         },
-        "github": "kimdhamilton"
+        "github": "kimdhamilton",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/sxbarvfzu2sk8c0soc4g0wkc8s0kwcs",
@@ -3126,7 +3713,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "ChristopherA"
+        "github": "ChristopherA",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/mlnn8df7geoc4k0g4ogs4ckwwo0sw44",
@@ -3136,7 +3724,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "Identitywoman"
+        "github": "Identitywoman",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/9pngvyy1vksgsoc8w0ookw0gcwo0w8s",
@@ -3146,7 +3735,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "burnburn"
+        "github": "burnburn",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/7qp9fzgi8wgss480kgk4k0os4c8s4kk",
@@ -3161,7 +3751,8 @@
             }
           ]
         },
-        "github": "dhh1128"
+        "github": "dhh1128",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/o3he85ts0z4s48c4c0wwk04kkcog44o",
@@ -3171,7 +3762,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "clehner"
+        "github": "clehner",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/6yd2b1ox988wg4sgc0oookcw48gc40s",
@@ -3181,7 +3773,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "swcurran"
+        "github": "swcurran",
+        "affiliations": [
+          {
+            "name": "Cloud Compass Computing, Inc.",
+            "href": "https://api.w3.org/affiliations/113820"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/i5y21d0k17kg00ck8c80o0c48cg8okk",
@@ -3196,11 +3794,18 @@
             },
             {
               "shortname": "did-resolution",
-              "date": "20251218"
+              "date": "20260107"
             }
           ]
         },
-        "github": "dmitrizagidulin"
+        "github": "dmitrizagidulin",
+        "affiliations": [
+          {
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "homepage": "https://web.mit.edu",
+            "href": "https://api.w3.org/affiliations/106237"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/fyzp8ou4lk0kcss8400cw8w440s0s8s",
@@ -3219,7 +3824,8 @@
             }
           ]
         },
-        "github": "talltree"
+        "github": "talltree",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/61kki22dw0w0coww8s040oksc8wsogs",
@@ -3229,7 +3835,14 @@
           "chair": true,
           "editors": []
         },
-        "github": "ottomorac"
+        "github": "ottomorac",
+        "affiliations": [
+          {
+            "name": "Privado ID",
+            "homepage": "https://www.privado.id/",
+            "href": "https://api.w3.org/affiliations/164517"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/3l06p756yq040g0goko0wws4gwkoco4",
@@ -3239,22 +3852,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "gobengo"
-      },
-      {
-        "href": "https://api.w3.org/users/au9gc0uzczs4okow0w0gks8skoggcwk",
-        "name": "Shaun Conway",
-        "created": "2025-09-26 07:01:55",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "ig-shaun"
+        "github": "gobengo",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 100,
+    "numberOfParticipants": 99,
     "numberOfChairs": 2,
-    "numberOfIE": 12,
+    "numberOfIE": 11,
     "numberOfIEChairs": 1,
     "numberOfEditors": 13,
     "numberOfIEEditors": 4,
@@ -3425,7 +4029,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/bnhurro14vks48kck0wocs8o0kg08w0",
@@ -3435,7 +4040,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "cperey"
+        "github": "cperey",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/dly2ycdy914wsso08044scwggc8ok44",
@@ -3444,7 +4050,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/qnh5zjnyxfkwoo4g8k84k4k4c0gg8sc",
@@ -3453,7 +4060,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Royal Holloway University of London",
+            "href": "https://api.w3.org/affiliations/63524"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/izyvr2ni8ug4okscosocwws4o88g4so",
@@ -3467,7 +4080,8 @@
               "date": "20251211"
             }
           ]
-        }
+        },
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 36,
@@ -3539,10 +4153,17 @@
             }
           ]
         },
-        "github": "basti1302"
+        "github": "basti1302",
+        "affiliations": [
+          {
+            "name": "Dash0",
+            "homepage": "https://www.dash0.com/",
+            "href": "https://api.w3.org/affiliations/152070"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 22,
+    "numberOfParticipants": 21,
     "numberOfChairs": 1,
     "numberOfIE": 1,
     "numberOfIEChairs": 0,
@@ -3566,7 +4187,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "csarven"
+        "github": "csarven",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 31,
@@ -3610,7 +4232,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "paolo-de-rosa"
+        "github": "paolo-de-rosa",
+        "affiliations": [
+          {
+            "name": "European Commission",
+            "href": "https://api.w3.org/affiliations/53717"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/jhba5enf0288c0004owksswkwcwgcw8",
@@ -3620,7 +4248,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "jogu"
+        "github": "jogu",
+        "affiliations": [
+          {
+            "name": "Authlete",
+            "href": "https://api.w3.org/affiliations/133600"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mqe5x71i17kg4kwkowwsw0ksc4kw8oc",
@@ -3630,7 +4264,8 @@
           "chair": true,
           "editors": []
         },
-        "github": "wseltzer"
+        "github": "wseltzer",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/m438uly12m80c88ww4okccokg8g8o8",
@@ -3640,7 +4275,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "selfissued"
+        "github": "selfissued",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/56dnqhcsw5gk84oo04sokkckgow8g4k",
@@ -3650,7 +4286,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "philsmart"
+        "github": "philsmart",
+        "affiliations": [
+          {
+            "name": "Jisc",
+            "href": "https://api.w3.org/affiliations/91786"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/c07i3sqpb74s4o000s400kkgkss4440",
@@ -3660,7 +4302,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "nadalin"
+        "github": "nadalin",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/3txabdcgkaasgogwwgok8s80okc4w4g",
@@ -3670,7 +4313,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "gffletch"
+        "github": "gffletch",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/j1c3tj60hrwcoss8gg4kc0kc8o4ggoc",
@@ -3680,10 +4324,16 @@
           "chair": false,
           "editors": []
         },
-        "github": "larinyo"
+        "github": "larinyo",
+        "affiliations": [
+          {
+            "name": "Universitat Rovira i Virgili",
+            "href": "https://api.w3.org/affiliations/116289"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 104,
+    "numberOfParticipants": 103,
     "numberOfChairs": 2,
     "numberOfIE": 8,
     "numberOfIEChairs": 1,
@@ -3699,18 +4349,6 @@
     "fullshortname": "wg/gpu",
     "editors": [
       {
-        "href": "https://api.w3.org/users/nsf3dmc1l2scwwoocco0o804wg8kggw",
-        "github": "kainino0x"
-      },
-      {
-        "href": "https://api.w3.org/users/fvff00sp294o8wsgw44o0cgcoswk0o4",
-        "github": "toji"
-      },
-      {
-        "href": "https://api.w3.org/users/ls8vvfolbpc0ogkc4ok4wgkkwowg04o",
-        "github": "jimblandy"
-      },
-      {
         "href": "https://api.w3.org/users/wuit4femyeoos4s8gs40g04gcoksos",
         "github": "alan-baker"
       },
@@ -3721,6 +4359,18 @@
       {
         "href": "https://api.w3.org/users/re4zqfdrpqo844coc8os4cwg84wss4o",
         "github": "dneto0"
+      },
+      {
+        "href": "https://api.w3.org/users/nsf3dmc1l2scwwoocco0o804wg8kggw",
+        "github": "kainino0x"
+      },
+      {
+        "href": "https://api.w3.org/users/fvff00sp294o8wsgw44o0cgcoswk0o4",
+        "github": "toji"
+      },
+      {
+        "href": "https://api.w3.org/users/ls8vvfolbpc0ogkc4ok4wgkkwowg04o",
+        "github": "jimblandy"
       }
     ],
     "ies": [
@@ -3733,11 +4383,12 @@
           "editors": [
             {
               "shortname": "WGSL",
-              "date": "20251215"
+              "date": "20260106"
             }
           ]
         },
-        "github": "mehmetoguzderin"
+        "github": "mehmetoguzderin",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/kkurzpeicvko8wgkkkkck8sw0gccg44",
@@ -3747,7 +4398,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "cwfitzgerald"
+        "github": "cwfitzgerald",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/5qwi04qltao80884c0440ggogssw4sk",
@@ -3757,7 +4409,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "l-xiaoshen"
+        "github": "l-xiaoshen",
+        "affiliations": [
+          {
+            "name": "Endoqa",
+            "homepage": "https://endoqa.io/",
+            "href": "https://api.w3.org/affiliations/157467"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/rpw00wq5hpckkoso808kggcw488gcg8",
@@ -3767,7 +4426,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "kdashg"
+        "github": "kdashg",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/hig3wcjoo6oss4kowg0oks4g8gs8ss8",
@@ -3777,7 +4437,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "stefnotch"
+        "github": "stefnotch",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/1eff5nxfufpc0k8oko4os04g408k48k",
@@ -3787,7 +4448,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "mighdoll"
+        "github": "mighdoll",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/l8b5b6u0yf4wk480kss480o4oskoc0w",
@@ -3797,10 +4459,16 @@
           "chair": false,
           "editors": []
         },
-        "github": "k2d222"
+        "github": "k2d222",
+        "affiliations": [
+          {
+            "name": "Linköping University",
+            "href": "https://api.w3.org/affiliations/63413"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 66,
+    "numberOfParticipants": 65,
     "numberOfChairs": 2,
     "numberOfIE": 7,
     "numberOfIEChairs": 0,
@@ -3901,7 +4569,8 @@
             }
           ]
         },
-        "github": "frivoal"
+        "github": "frivoal",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 31,
@@ -3949,7 +4618,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "cperey"
+        "github": "cperey",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/f1wrfcrgyb4skkw0kw4swwocggcs8co",
@@ -3959,7 +4629,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "DRx3D"
+        "github": "DRx3D",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/m99jqkpi9m8oww84kw4gwccgc4g0ogs",
@@ -3969,7 +4640,8 @@
           "chair": true,
           "editors": []
         },
-        "github": "Yonet"
+        "github": "Yonet",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/rhqjqlvsbwgw08ck4ksk00000c088cc",
@@ -3979,7 +4651,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "kfarr"
+        "github": "kfarr",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 84,
@@ -4143,7 +4816,8 @@
             }
           ]
         },
-        "github": "duerst"
+        "github": "duerst",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/5ysc9281aa88gocsg8400cow0o4wgco",
@@ -4152,7 +4826,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/1u31kc9qnlgkw4kgk0owoo0o08kwk8g",
@@ -4161,7 +4836,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/qdkk81rtp344c44g0osoocgwwc8o4ss",
@@ -4170,7 +4846,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "WANDERER Digital Publishing Inc.",
+            "href": "https://api.w3.org/affiliations/64436"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mjmlptdvqz4cgccksosw4gok4oowckk",
@@ -4185,7 +4867,8 @@
             }
           ]
         },
-        "github": "frivoal"
+        "github": "frivoal",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/jfn85ueixpkoosgc80oc8gc44s4k80w",
@@ -4194,7 +4877,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/rmtx3kktmxwws8wsko40cgww40s4080",
@@ -4209,7 +4893,8 @@
             }
           ]
         },
-        "github": "tlk714"
+        "github": "tlk714",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/b6tdzgef9l444skc40048kkcowk8gsw",
@@ -4224,7 +4909,8 @@
             }
           ]
         },
-        "github": "KobayashiToshi"
+        "github": "KobayashiToshi",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/a3ublydd7g0sww4s048c84gcg40wgcg",
@@ -4233,7 +4919,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Israel Internet Association (isoc-il)",
+            "homepage": "http://www.isoc.org.il/index_eng.html",
+            "href": "https://api.w3.org/affiliations/42318"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/ks2w0mzaikg0w8c8o8o0gc0888ow804",
@@ -4247,7 +4940,8 @@
               "date": "20050215"
             }
           ]
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/ogx22j4ra00kooos004s8oso4wgkkg0",
@@ -4310,7 +5004,8 @@
             }
           ]
         },
-        "github": "aphillips"
+        "github": "aphillips",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/q3a2e31zqfk8kg4cc4gw040ock00cks",
@@ -4320,7 +5015,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "kidayasuo"
+        "github": "kidayasuo",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/l3uw56euxq8wkscsow8ssos8c8gg44s",
@@ -4330,7 +5026,8 @@
           "chair": true,
           "editors": []
         },
-        "github": "jsahleen"
+        "github": "jsahleen",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/23ov8n1hnwlc4sc4gg8cgcow84g0w8c",
@@ -4339,7 +5036,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/i1ywku0ffjwcs8kscgok4s0k0g8084g",
@@ -4349,7 +5047,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "Joci-s"
+        "github": "Joci-s",
+        "affiliations": [
+          {
+            "name": "Middlebury Institute of International Studies at Monterey",
+            "homepage": "https://www.middlebury.edu/institute/",
+            "href": "https://api.w3.org/affiliations/172318"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 37,
@@ -4384,30 +5089,32 @@
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/dsy02f7hpzc4s00kkw40k4c8c8ccwc4",
-        "name": "Anatoly Scherbakov",
-        "created": "2023-12-11 12:02:48",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "anatoly-scherbakov"
-      },
-      {
         "href": "https://api.w3.org/users/efynor24e800s0os00ckks8goc8wc0g",
         "name": "Victor Lu",
-        "created": "2025-10-29 13:27:53",
+        "created": "2026-01-06 11:52:06",
+        "roles": {
+          "chair": true,
+          "editors": []
+        },
+        "github": "victorjunlu",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/dsy02f7hpzc4s00kkw40k4c8c8ccwc4",
+        "name": "Anatoly Scherbakov",
+        "created": "2026-01-06 18:05:29",
         "roles": {
           "chair": false,
           "editors": []
         },
-        "github": "victorjunlu"
+        "github": "anatoly-scherbakov",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 26,
-    "numberOfChairs": 1,
+    "numberOfParticipants": 29,
+    "numberOfChairs": 2,
     "numberOfIE": 2,
-    "numberOfIEChairs": 0,
+    "numberOfIEChairs": 1,
     "numberOfEditors": 4,
     "numberOfIEEditors": 0,
     "numberOfSpecs": 4,
@@ -4433,7 +5140,8 @@
           "chair": true,
           "editors": []
         },
-        "github": "ericprud"
+        "github": "ericprud",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/apd0mem17vsowoosoos440g4oo0gw80",
@@ -4443,7 +5151,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "jacoscaz"
+        "github": "jacoscaz",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/i5y21d0k17kg00ck8c80o0c48cg8okk",
@@ -4453,7 +5162,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "dmitrizagidulin"
+        "github": "dmitrizagidulin",
+        "affiliations": [
+          {
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "homepage": "https://web.mit.edu",
+            "href": "https://api.w3.org/affiliations/106237"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/pl07szdohq84s4wsk0oscswo0ow0ckg",
@@ -4463,7 +5179,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "danbri"
+        "github": "danbri",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/6wk6al0jx5wkg8gc8w48s84owc4o0k8",
@@ -4473,7 +5190,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "jaxoncreed"
+        "github": "jaxoncreed",
+        "affiliations": [
+          {
+            "name": "O.team",
+            "homepage": "https://o.team",
+            "href": "https://api.w3.org/affiliations/145853"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mum0w0bwgnkcg8gg0cko0scwogsw4co",
@@ -4488,7 +5212,8 @@
             }
           ]
         },
-        "github": "hzbarcea"
+        "github": "hzbarcea",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/1kpp1lgp5i80s0ccgc4sk0w40g0sc8w",
@@ -4497,7 +5222,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Sync",
+            "homepage": "http://sync.com",
+            "href": "https://api.w3.org/affiliations/169523"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/8bwewkojcdgk4ggo008gww0ogos0o4w",
@@ -4507,7 +5239,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "matthieubosquet"
+        "github": "matthieubosquet",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/3l06p756yq040g0goko0wws4gwkoco4",
@@ -4517,7 +5250,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "gobengo"
+        "github": "gobengo",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 41,
@@ -4593,7 +5327,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "davidfarmer"
+        "github": "davidfarmer",
+        "affiliations": [
+          {
+            "name": "American Institute of Mathematics",
+            "href": "https://api.w3.org/affiliations/112740"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/6wux3up5wpgc40owooo48ww0ocsss0k",
@@ -4603,7 +5343,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "samdooley"
+        "github": "samdooley",
+        "affiliations": [
+          {
+            "name": "Lake Pines Braille",
+            "homepage": "https://www.lakepinesbraille.com/",
+            "href": "https://api.w3.org/affiliations/149201"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mxzc22hq6aokooo88wo088sw8ggkko8",
@@ -4613,7 +5360,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "MurrayIII"
+        "github": "MurrayIII",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/dy7hns7yagowkckokssk8sw8ck0sgsw",
@@ -4628,7 +5376,13 @@
             }
           ]
         },
-        "github": "polx"
+        "github": "polx",
+        "affiliations": [
+          {
+            "name": "IUBH Internationale Hochschule GmbH",
+            "href": "https://api.w3.org/affiliations/129999"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/tmsvdo5zbnkw4ccgg4wkoocwggk8844",
@@ -4663,7 +5417,8 @@
             }
           ]
         },
-        "github": "davidcarlisle"
+        "github": "davidcarlisle",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/5vgpfu6w0osgc0448kss4kkw8sow4kk",
@@ -4673,7 +5428,8 @@
           "chair": true,
           "editors": []
         },
-        "github": "NSoiffer"
+        "github": "NSoiffer",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/4n90gj70cx0kwkw8k0cwk4wo48cs0ws",
@@ -4683,7 +5439,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "ljmaher"
+        "github": "ljmaher",
+        "affiliations": [
+          {
+            "name": "National Federation of the Blind",
+            "homepage": "https://nfb.org/",
+            "href": "https://api.w3.org/affiliations/106070"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/18tlqziacdgk08kg0g4404s0ooo40ss",
@@ -4714,7 +5477,14 @@
             }
           ]
         },
-        "github": "pdfion"
+        "github": "pdfion",
+        "affiliations": [
+          {
+            "name": "University of Michigan",
+            "homepage": "https://umich.edu/",
+            "href": "https://api.w3.org/affiliations/100078"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/imn6d8xfns0g0808w4ook480cg4oksk",
@@ -4724,7 +5494,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "Jazzpirate"
+        "github": "Jazzpirate",
+        "affiliations": [
+          {
+            "name": "University Erlangen FAU",
+            "href": "https://api.w3.org/affiliations/58674"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/b2qk01z39lskwowcgowkg4kksgk4wsk",
@@ -4733,7 +5509,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "University of Waterloo",
+            "href": "https://api.w3.org/affiliations/57180"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/rkui1ozyu7ks0k0o408c8k0kgwo0s0w",
@@ -4743,7 +5525,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "dginev"
+        "github": "dginev",
+        "affiliations": [
+          {
+            "name": "arXiv",
+            "homepage": "https://arxiv.org/",
+            "href": "https://api.w3.org/affiliations/158861"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 23,
@@ -4784,7 +5573,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "mavgit"
+        "github": "mavgit",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/4wtlcol5y0owk8o44wsgo84owsowwsg",
@@ -4794,7 +5584,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "johnsim"
+        "github": "johnsim",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/e807e11kxv4s800sgk4kcow8sw008gc",
@@ -4804,17 +5595,30 @@
           "chair": false,
           "editors": []
         },
-        "github": "andreastai"
+        "github": "andreastai",
+        "affiliations": [
+          {
+            "name": "andreastai.com",
+            "href": "https://api.w3.org/affiliations/130352"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/bpsxrlnv3xw88gw84owwgkww4g0c040",
         "name": "Christopher Lorenzo",
         "created": "2024-09-18 11:47:24",
         "roles": {
-          "chair": true,
+          "chair": false,
           "editors": []
         },
-        "github": "chiefcll"
+        "github": "chiefcll",
+        "affiliations": [
+          {
+            "name": "GCS",
+            "homepage": "https://www.gcstechtalent.com/",
+            "href": "https://api.w3.org/affiliations/159778"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/81b749io48w0wow0s8o44goosgs0k8g",
@@ -4824,13 +5628,20 @@
           "chair": false,
           "editors": []
         },
-        "github": "ashimura"
+        "github": "ashimura",
+        "affiliations": [
+          {
+            "name": "Nagasaki University",
+            "homepage": "https://en.nagasaki-u.ac.jp",
+            "href": "https://api.w3.org/affiliations/172031"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 125,
-    "numberOfChairs": 2,
+    "numberOfParticipants": 124,
+    "numberOfChairs": 3,
     "numberOfIE": 5,
-    "numberOfIEChairs": 1,
+    "numberOfIEChairs": 0,
     "numberOfEditors": 4,
     "numberOfIEEditors": 0,
     "numberOfSpecs": 3,
@@ -4898,7 +5709,7 @@
       }
     ],
     "ies": [],
-    "numberOfParticipants": 83,
+    "numberOfParticipants": 82,
     "numberOfChairs": 2,
     "numberOfIE": 0,
     "numberOfIEChairs": 0,
@@ -4979,7 +5790,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 32,
@@ -5006,7 +5818,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "frivoal"
+        "github": "frivoal",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 26,
@@ -5111,7 +5924,8 @@
             }
           ]
         },
-        "github": "ctruta"
+        "github": "ctruta",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/qoj96sfmtvkwc4cwkogw0k88oo4ccgc",
@@ -5126,10 +5940,11 @@
             }
           ]
         },
-        "github": "ProgramMax"
+        "github": "ProgramMax",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 15,
+    "numberOfParticipants": 14,
     "numberOfChairs": 1,
     "numberOfIE": 2,
     "numberOfIEChairs": 1,
@@ -5185,7 +6000,8 @@
         "roles": {
           "chair": true,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/5x4k35klc64gg8s8wk0o880cwggo8ss",
@@ -5195,7 +6011,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "samuelweiler"
+        "github": "samuelweiler",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/9nkxc8q7t0so08oss4k4s00cs0ows4k",
@@ -5205,7 +6022,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "michael-markevich"
+        "github": "michael-markevich",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/c2p0y07uat4wsg8wcgkss8s4k4cwggc",
@@ -5215,7 +6033,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "rinchen"
+        "github": "rinchen",
+        "affiliations": [
+          {
+            "name": "Platform.sh",
+            "homepage": "http://www.platform.sh",
+            "href": "https://api.w3.org/affiliations/152742"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/ccbfjnw4feo0sk08wgccgcokw04wc8k",
@@ -5230,7 +6055,13 @@
             }
           ]
         },
-        "github": "SebastianZimmeck"
+        "github": "SebastianZimmeck",
+        "affiliations": [
+          {
+            "name": "Wesleyan University",
+            "href": "https://api.w3.org/affiliations/103448"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/cdigmjneowg8sccw0g4g8k4o4gksw84",
@@ -5245,7 +6076,13 @@
             }
           ]
         },
-        "github": "j-br0"
+        "github": "j-br0",
+        "affiliations": [
+          {
+            "name": "Consumer Reports",
+            "href": "https://api.w3.org/affiliations/123055"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/42aidyo0kdusg4w0o0gg8wg888sw484",
@@ -5255,7 +6092,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "rvaneijk"
+        "github": "rvaneijk",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/3eujllasn6ec0wc4gk4408gcko4g4ws",
@@ -5265,7 +6103,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "lolaodelola"
+        "github": "lolaodelola",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/np613yxynqoosogowcs08sk88w4oskw",
@@ -5275,7 +6114,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "NalaGinrut"
+        "github": "NalaGinrut",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/h4n98743a74gccgwg80w8kcwosg84go",
@@ -5285,7 +6125,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "dmarti"
+        "github": "dmarti",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/7dvu75prq5c0sk84gswgkocgsggw0ko",
@@ -5295,7 +6136,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "hardie"
+        "github": "hardie",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/52pqx753z2o8g888swgk0wg8ww8og4k",
@@ -5304,7 +6146,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "University of California, Berkeley",
+            "href": "https://api.w3.org/affiliations/57707"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/q1hnik2hkzk0o0w8s80sc4cgogkkgow",
@@ -5314,7 +6162,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "gbshankar"
+        "github": "gbshankar",
+        "affiliations": [
+          {
+            "name": "Lyft",
+            "href": "https://api.w3.org/affiliations/110534"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/67aqk5knaqgw88kksw00408ccwc8c8k",
@@ -5323,7 +6177,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 52,
@@ -5350,6 +6205,10 @@
         "github": "andyleiserson"
       },
       {
+        "href": "https://api.w3.org/users/kjbf65lnwdsokkocg44cg40g0skss4s",
+        "github": "bmcase"
+      },
+      {
         "href": "https://api.w3.org/users/h6u5nd51lk0kwoww4ssk0k4k4gogkco",
         "github": "benjaminsavage"
       },
@@ -5371,7 +6230,13 @@
           "chair": true,
           "editors": []
         },
-        "github": "seanturner"
+        "github": "seanturner",
+        "affiliations": [
+          {
+            "name": "sn3rd",
+            "href": "https://api.w3.org/affiliations/134182"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/nwjjq0x8za8go4w84sww04kgw4kccsw",
@@ -5380,7 +6245,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "OnlineMatters, Inc.",
+            "homepage": "http://www.onlinematters.com",
+            "href": "https://api.w3.org/affiliations/152413"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/buaos8l45y0cos8c048c0808ccc4cgc",
@@ -5389,7 +6261,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Columbia University",
+            "href": "https://api.w3.org/affiliations/100632"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/h9fkwfczmx448kgg8wcgoscowc8444w",
@@ -5398,7 +6276,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Boston University",
+            "href": "https://api.w3.org/affiliations/61011"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/p403wmwjdlc8008gscg84ko0s8wso4g",
@@ -5408,7 +6292,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "dmdabbs"
+        "github": "dmdabbs",
+        "affiliations": [
+          {
+            "name": "Epsilon",
+            "href": "https://api.w3.org/affiliations/80871"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/2a3a83lsb8ys0gkgkgggw0kw4w0c40g",
@@ -5418,14 +6308,15 @@
           "chair": false,
           "editors": []
         },
-        "github": "bmayd"
+        "github": "bmayd",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 61,
     "numberOfChairs": 2,
     "numberOfIE": 6,
     "numberOfIEChairs": 1,
-    "numberOfEditors": 5,
+    "numberOfEditors": 6,
     "numberOfIEEditors": 0,
     "numberOfSpecs": 1,
     "numberOfSpecWithIEEditors": 0
@@ -5480,7 +6371,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/f1hqef7y81kw0scokgss48k4wook4o0",
@@ -5490,7 +6382,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "bduga"
+        "github": "bduga",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/tngm1tckm800ccc4o8cw04ooow4o0k8",
@@ -5499,7 +6392,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Free Ebook Foundation",
+            "href": "https://api.w3.org/affiliations/136216"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/30fcnt0i94cgwgsgwgw4w4888swowsc",
@@ -5509,7 +6408,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "dalerrogers"
+        "github": "dalerrogers",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/6vx7zm4hff48gckcock4scso0oskkog",
@@ -5519,7 +6419,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "LauraB7"
+        "github": "LauraB7",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/nk996r9txogwo0ck80w084wk8ws4s88",
@@ -5529,7 +6430,8 @@
           "chair": true,
           "editors": []
         },
-        "github": "sueneu"
+        "github": "sueneu",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/h9yuzde89hwswswkokgkc4so8k8o0os",
@@ -5539,7 +6441,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "madeleinerothberg"
+        "github": "madeleinerothberg",
+        "affiliations": [
+          {
+            "name": "National Center for Accessible Media at WGBH",
+            "href": "https://api.w3.org/affiliations/77399"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/fj8c92794p44cs0cskkwokok0k8cow8",
@@ -5554,7 +6462,8 @@
             }
           ]
         },
-        "github": "reidmore-online"
+        "github": "reidmore-online",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/8i3j26gj13googwksscwkck4s0ssokk",
@@ -5564,7 +6473,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "AbeJellinek"
+        "github": "AbeJellinek",
+        "affiliations": [
+          {
+            "name": "Corporation for Digital Scholarship",
+            "href": "https://api.w3.org/affiliations/60205"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 64,
@@ -5644,11 +6559,17 @@
             },
             {
               "shortname": "sparql12-query",
-              "date": "20251218"
+              "date": "20251228"
             }
           ]
         },
-        "github": "hartig"
+        "github": "hartig",
+        "affiliations": [
+          {
+            "name": "Linköping University",
+            "href": "https://api.w3.org/affiliations/63413"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/p2qc2g608rkkc8w8okowokk40g4s8sg",
@@ -5666,24 +6587,30 @@
               "date": "20251113"
             },
             {
-              "shortname": "rdf12-schema",
-              "date": "20251218"
-            },
-            {
-              "shortname": "rdf12-n-triples",
-              "date": "20251219"
-            },
-            {
               "shortname": "rdf12-turtle",
               "date": "20251219"
             },
             {
               "shortname": "rdf12-n-quads",
-              "date": "20251219"
+              "date": "20251222"
+            },
+            {
+              "shortname": "rdf12-n-triples",
+              "date": "20251222"
+            },
+            {
+              "shortname": "rdf12-schema",
+              "date": "20251226"
             }
           ]
         },
-        "github": "domel"
+        "github": "domel",
+        "affiliations": [
+          {
+            "name": "University of Bialystok",
+            "href": "https://api.w3.org/affiliations/107414"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/s5qsla39msggw4occg484g0o04sk4kw",
@@ -5698,7 +6625,14 @@
             }
           ]
         },
-        "github": "franconi"
+        "github": "franconi",
+        "affiliations": [
+          {
+            "name": "Free University of Bozen-Bolzano",
+            "homepage": "http://www.inf.unibz.it/",
+            "href": "https://api.w3.org/affiliations/35615"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/jwtjh0djnaoos00c00cw4kg4kgwsw0k",
@@ -5713,7 +6647,13 @@
             }
           ]
         },
-        "github": "doerthe"
+        "github": "doerthe",
+        "affiliations": [
+          {
+            "name": "Technische Universität Dresden",
+            "href": "https://api.w3.org/affiliations/55694"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/51kr2s2vw9c8wgssc8ookg88488s8ks",
@@ -5732,7 +6672,8 @@
             }
           ]
         },
-        "github": "pfps"
+        "github": "pfps",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/5l351hvf6kw848c0ooo884c8kcgoggk",
@@ -5767,11 +6708,18 @@
             },
             {
               "shortname": "sparql12-query",
-              "date": "20251218"
+              "date": "20251228"
             }
           ]
         },
-        "github": "Tpt"
+        "github": "Tpt",
+        "affiliations": [
+          {
+            "name": "Helsing",
+            "homepage": "https://helsing.ai/",
+            "href": "https://api.w3.org/affiliations/141907"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/9a26fdb3yqskoks88gkw4gwocscgk4o",
@@ -5781,7 +6729,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "kurtcagle"
+        "github": "kurtcagle",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/7tocy07hy7ks0s8cosck08c08k0gsk0",
@@ -5791,7 +6740,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "william-vw"
+        "github": "william-vw",
+        "affiliations": [
+          {
+            "name": "University of Ottawa",
+            "href": "https://api.w3.org/affiliations/78998"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/d3sh0ism2z488wcoo4gs8g0g0s0ws8k",
@@ -5801,7 +6756,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "csarven"
+        "github": "csarven",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/knigo694rv48wgw4wscccs4ow8w4gkg",
@@ -5811,7 +6767,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "JervenBolleman"
+        "github": "JervenBolleman",
+        "affiliations": [
+          {
+            "name": "Swiss Institute of Bioinformatics",
+            "href": "https://api.w3.org/affiliations/58538"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 45,
@@ -5859,7 +6821,13 @@
             }
           ]
         },
-        "github": "yamdan"
+        "github": "yamdan",
+        "affiliations": [
+          {
+            "name": "Internet Initiative Japan Inc.",
+            "href": "https://api.w3.org/affiliations/61034"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/9aprba3xya88c4kwggks84skk0skc4k",
@@ -5868,7 +6836,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Waseda University",
+            "href": "https://api.w3.org/affiliations/63927"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mlbvhudut7kkwko0g4scg4skkwgkc44",
@@ -5878,7 +6852,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "seabass-labrax"
+        "github": "seabass-labrax",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 28,
@@ -5918,7 +6893,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "pavlobu"
+        "github": "pavlobu",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/7a9vjmu99b8k4gwkcsoo4ksc40skw4o",
@@ -5928,7 +6904,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "backkem"
+        "github": "backkem",
+        "affiliations": [
+          {
+            "name": "Twintag",
+            "homepage": "https://twintag.com/",
+            "href": "https://api.w3.org/affiliations/147659"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 27,
@@ -5968,7 +6951,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "verocri"
+        "github": "verocri",
+        "affiliations": [
+          {
+            "name": "Telsy",
+            "homepage": "https://www.telsy.com/en/homepage/",
+            "href": "https://api.w3.org/affiliations/155156"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/6n42tictx84cs8cwco4o84csg880gcc",
@@ -5978,7 +6968,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "KimCerra"
+        "github": "KimCerra",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/lk8juav998g0ggc8ow8w8swo4ckswck",
@@ -5988,7 +6979,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "TomCJones"
+        "github": "TomCJones",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/mlbvhudut7kkwko0g4scg4skkwgkc44",
@@ -5998,7 +6990,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "seabass-labrax"
+        "github": "seabass-labrax",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/f9gvhiykfa8kwkggwoowcsk4ks8kggs",
@@ -6008,7 +7001,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "Wind4Greg"
+        "github": "Wind4Greg",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/3umc0oi7q9kw0g44kgg8k4o8sk48goo",
@@ -6018,7 +7012,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "Sh-Amir"
+        "github": "Sh-Amir",
+        "affiliations": [
+          {
+            "name": "Fondazione Bruno Kessler",
+            "homepage": "https://www.fbk.eu",
+            "href": "https://api.w3.org/affiliations/41603"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/nrywastbhvkwk8kc0wkkscwckcg8wg4",
@@ -6028,7 +7029,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "xlin29"
+        "github": "xlin29",
+        "affiliations": [
+          {
+            "name": "Washington State University",
+            "homepage": "https://school.eecs.wsu.edu/",
+            "href": "https://api.w3.org/affiliations/162145"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/2j7xccbh5caosk88ggw4wgoggosswg0",
@@ -6038,7 +7046,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "AlbertoFDR"
+        "github": "AlbertoFDR",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/4wuksksmv94ww8w44w8gkcgos848kos",
@@ -6048,7 +7057,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "ZAnsaroudi"
+        "github": "ZAnsaroudi",
+        "affiliations": [
+          {
+            "name": "Fondazione Bruno Kessler",
+            "homepage": "https://www.fbk.eu",
+            "href": "https://api.w3.org/affiliations/41603"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/qx84ndknjuowksw0wkss8s0gkkw88kw",
@@ -6058,7 +7074,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "mmaker"
+        "github": "mmaker",
+        "affiliations": [
+          {
+            "name": "CNRS",
+            "homepage": "http://www.urec.fr",
+            "href": "https://api.w3.org/affiliations/1104"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/49uf65nnevokokk40os0kw0gw4wo80s",
@@ -6068,7 +7091,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "BDADAD-stack"
+        "github": "BDADAD-stack",
+        "affiliations": [
+          {
+            "name": "Fondazione Bruno Kessler",
+            "homepage": "https://www.fbk.eu",
+            "href": "https://api.w3.org/affiliations/41603"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/h6hq6o0qq680swkkw0ogc4g0kok0oo8",
@@ -6078,7 +7108,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "realArcherL"
+        "github": "realArcherL",
+        "affiliations": [
+          {
+            "name": "Atlassian",
+            "href": "https://api.w3.org/affiliations/50155"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 45,
@@ -6191,7 +7227,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "cperey"
+        "github": "cperey",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/fanrn0rjxpckwgsg4cwkk04g4k4swg8",
@@ -6206,7 +7243,14 @@
             }
           ]
         },
-        "github": "sgrellet"
+        "github": "sgrellet",
+        "affiliations": [
+          {
+            "name": "BRGM",
+            "homepage": "https://www.brgm.fr/fr",
+            "href": "https://api.w3.org/affiliations/143335"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/1ce303mlmehw4kgkg0ow4kgsooc8woo",
@@ -6221,7 +7265,13 @@
             }
           ]
         },
-        "github": "rjksmith"
+        "github": "rjksmith",
+        "affiliations": [
+          {
+            "name": "Away Team Software Ltd",
+            "href": "https://api.w3.org/affiliations/105523"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/2oshicfoos004c0k8oog48k8os0cgk4",
@@ -6236,7 +7286,14 @@
             }
           ]
         },
-        "github": "KathiSchleidt"
+        "github": "KathiSchleidt",
+        "affiliations": [
+          {
+            "name": "DataCove e.U.",
+            "homepage": "http://www.datacove.eu",
+            "href": "https://api.w3.org/affiliations/140964"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/688sd23nsnwggwosgw40w8o04cwws08",
@@ -6251,7 +7308,14 @@
             }
           ]
         },
-        "github": "oldskeptic"
+        "github": "oldskeptic",
+        "affiliations": [
+          {
+            "name": "Glengarry Agriculture and Forestry Inc",
+            "homepage": "https://glengarryag.com/",
+            "href": "https://api.w3.org/affiliations/144477"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/6xmyt7xw9sco8ss8o8g0sw0ggk04408",
@@ -6266,10 +7330,17 @@
             }
           ]
         },
-        "github": "ldesousa"
+        "github": "ldesousa",
+        "affiliations": [
+          {
+            "name": "Instituto Superior Técnico, Universidade de Lisboa",
+            "homepage": "https://tecnico.ulisboa.pt",
+            "href": "https://api.w3.org/affiliations/166070"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 20,
+    "numberOfParticipants": 19,
     "numberOfChairs": 1,
     "numberOfIE": 6,
     "numberOfIEChairs": 0,
@@ -6298,7 +7369,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "AlexDawsonUK"
+        "github": "AlexDawsonUK",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/nmhy2ztwcpw4wwws4osgswg04wccgk4",
@@ -6308,7 +7380,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "nicolabonotto"
+        "github": "nicolabonotto",
+        "affiliations": [
+          {
+            "name": "Piano D",
+            "homepage": "https://www.piano-d.it",
+            "href": "https://api.w3.org/affiliations/161677"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/hofq1v6vm884ooc8kc008kck8sgso44",
@@ -6318,7 +7397,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "fullo"
+        "github": "fullo",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/8gbu9gqf49c8gcgo88g0kocccsos844",
@@ -6328,7 +7408,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "nitot"
+        "github": "nitot",
+        "affiliations": [
+          {
+            "name": "OCTO Technology",
+            "homepage": "https://www.octo.com/",
+            "href": "https://api.w3.org/affiliations/157965"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/pdsv6opj2u8gsw0kcc0owk4k8w4wg44",
@@ -6338,7 +7425,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "ldevernay"
+        "github": "ldevernay",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/jlsfrzekr3cocgc008gwosg0oowk0gk",
@@ -6348,7 +7436,14 @@
           "chair": true,
           "editors": []
         },
-        "github": "ines-akrap"
+        "github": "ines-akrap",
+        "affiliations": [
+          {
+            "name": "Storyblok",
+            "homepage": "https://www.storyblok.com/",
+            "href": "https://api.w3.org/affiliations/161507"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/ltb074py1k0k4kgkkkwck4kcs0oocg4",
@@ -6358,7 +7453,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "FrancoisBurra"
+        "github": "FrancoisBurra",
+        "affiliations": [
+          {
+            "name": "Climate Product Leaders",
+            "homepage": "https://climateproductleaders.org/",
+            "href": "https://api.w3.org/affiliations/161506"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/r0scsadz10gk0osssskkkcw4048co8k",
@@ -6368,7 +7470,14 @@
           "chair": true,
           "editors": []
         },
-        "github": "mgifford"
+        "github": "mgifford",
+        "affiliations": [
+          {
+            "name": "CivicActions",
+            "homepage": "https://civicactions.com/",
+            "href": "https://api.w3.org/affiliations/142758"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/km3dvnuav9c48kgs040sgw40w0k40k0",
@@ -6377,7 +7486,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Climate Arc",
+            "homepage": "http://climatearc.org",
+            "href": "https://api.w3.org/affiliations/146746"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/khoq7xh2lo0o4gko48oggwg48ww4so8",
@@ -6387,7 +7503,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "mrchrisadams"
+        "github": "mrchrisadams",
+        "affiliations": [
+          {
+            "name": "Green Web Foundation",
+            "homepage": "https://www.thegreenwebfoundation.org",
+            "href": "https://api.w3.org/affiliations/161498"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/dxisx9kx8vksososk8swsggkcwwcco",
@@ -6397,7 +7520,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "anewmandev"
+        "github": "anewmandev",
+        "affiliations": [
+          {
+            "name": "Root & Branch Digital Ltd",
+            "homepage": "https://rootandbranch.io",
+            "href": "https://api.w3.org/affiliations/161946"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/rfmvam7msys0so8ksckwo404kswgcss",
@@ -6406,7 +7536,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "MSQ Partners",
+            "homepage": "http://msqpartners.com",
+            "href": "https://api.w3.org/affiliations/162396"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/dh8gcmtpbz4gos0c0w04sck04k4kg0c",
@@ -6415,7 +7552,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Groupe ISIA",
+            "href": "https://api.w3.org/affiliations/144494"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/shzh7qwv0lcwo4g4484osscskokksws",
@@ -6425,7 +7568,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "hanopcan"
+        "github": "hanopcan",
+        "affiliations": [
+          {
+            "name": "Green Web Foundation",
+            "homepage": "https://www.thegreenwebfoundation.org",
+            "href": "https://api.w3.org/affiliations/161498"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/9fc2walkt6gwww08gw8gs4cc4gs4wsg",
@@ -6435,7 +7585,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "fershad"
+        "github": "fershad",
+        "affiliations": [
+          {
+            "name": "Green Web Foundation",
+            "homepage": "https://www.thegreenwebfoundation.org",
+            "href": "https://api.w3.org/affiliations/161498"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/rfsmdsqcbsgokwc0oscgc80084osgsk",
@@ -6444,7 +7601,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Root & Branch Digital Ltd",
+            "homepage": "https://rootandbranch.io",
+            "href": "https://api.w3.org/affiliations/161946"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/c1fueu2g9nsokw8sc000oo4wko0owgg",
@@ -6454,7 +7618,14 @@
           "chair": true,
           "editors": []
         },
-        "github": "timfrick"
+        "github": "timfrick",
+        "affiliations": [
+          {
+            "name": "Mightybytes",
+            "homepage": "https://www.mightybytes.com",
+            "href": "https://api.w3.org/affiliations/62393"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/7uaybcddqvc44goc0ws0cwwok480sco",
@@ -6464,7 +7635,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "airbr"
+        "github": "airbr",
+        "affiliations": [
+          {
+            "name": "CG Life",
+            "homepage": "https://cglife.com/",
+            "href": "https://api.w3.org/affiliations/156351"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/3a1rvjzpxvwgooogwog44wkwk0w4csg",
@@ -6474,7 +7652,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "ryansholin"
+        "github": "ryansholin",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/jiwrbcfasyog84404cko4sgk40c0goo",
@@ -6483,7 +7662,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/f739psldvi0ww0oow0k0ookcsk4skw0",
@@ -6492,7 +7672,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/2c5fpw4cyxq8ccw4g8o8ooc0k8ssgo8",
@@ -6501,7 +7682,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/b55n8qh2ht4osc444occc8s00sog8ck",
@@ -6512,11 +7694,12 @@
           "editors": [
             {
               "shortname": "web-sustainability-guidelines",
-              "date": "20251217"
+              "date": "20260107"
             }
           ]
         },
-        "github": "codewordcreative"
+        "github": "codewordcreative",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/e9s4g07mg288ksw0co8s4080owg0cw4",
@@ -6526,7 +7709,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "ShaneHt1000"
+        "github": "ShaneHt1000",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/mo0ft9e7bzksk0ocg0gk04s8ckc00c8",
@@ -6536,7 +7720,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "gaelduez"
+        "github": "gaelduez",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/d3sh0ism2z488wcoo4gs8g0g0s0ws8k",
@@ -6546,7 +7731,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "csarven"
+        "github": "csarven",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/si86l5a1lq8w0kc4804gs08408o8kwg",
@@ -6556,7 +7742,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "awright1979-alt"
+        "github": "awright1979-alt",
+        "affiliations": [
+          {
+            "name": "xDesign",
+            "href": "https://api.w3.org/affiliations/129007"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/rl9kx00h5m8o0gkokooc8g0s84kwcsc",
@@ -6566,7 +7758,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "susannah-hill"
+        "github": "susannah-hill",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/tjhdid8xfms4ws8sww48c4g88sw4ksk",
@@ -6576,7 +7769,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "the-sustainabledev"
+        "github": "the-sustainabledev",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/hb5e266ndigowssc88w8soks8c0s4w0",
@@ -6586,7 +7780,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "AnneFa"
+        "github": "AnneFa",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/c5tx7tbxr1cgs0ss0ssoo40so0w0sck",
@@ -6595,7 +7790,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Clarifying Complex Ideas, LLC",
+            "homepage": "https://clarifyingcomplexideas.com",
+            "href": "https://api.w3.org/affiliations/164396"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/1ql33j682rwkosc40g4s4c08gcw0s8w",
@@ -6605,7 +7807,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "systemstree"
+        "github": "systemstree",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/12qjoketj8mscgs0wkk8oc4ww8w4k0o",
@@ -6615,7 +7818,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "CrystalPrestonWatson"
+        "github": "CrystalPrestonWatson",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/9a7dxxroqtk4sg4sc8gc0kgg40w4go0",
@@ -6624,7 +7828,14 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Green Web Foundation",
+            "homepage": "https://www.thegreenwebfoundation.org",
+            "href": "https://api.w3.org/affiliations/161498"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/f1ovb5rydm8s0go04oco0cgk0sow44w",
@@ -6634,7 +7845,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "jenstrickland"
+        "github": "jenstrickland",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/c6pfe3p78vco8skwsos800cw0osgk0w",
@@ -6643,12 +7855,29 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/myhhai0ll5ww0wwwksowgc8c8wokscc",
+        "name": "Chris Butterworth",
+        "created": "2026-01-06 19:27:51",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "ChrisButterworth",
+        "affiliations": [
+          {
+            "name": "Studio 24",
+            "href": "https://api.w3.org/affiliations/115242"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 59,
+    "numberOfParticipants": 60,
     "numberOfChairs": 3,
-    "numberOfIE": 36,
+    "numberOfIE": 37,
     "numberOfIEChairs": 3,
     "numberOfEditors": 1,
     "numberOfIEEditors": 1,
@@ -6803,7 +8032,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "Tavmjong"
+        "github": "Tavmjong",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/6kdtxzfkb84cwk00kcg0kok80sk40w",
@@ -6813,7 +8043,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "nehamjadhav"
+        "github": "nehamjadhav",
+        "affiliations": [
+          {
+            "name": "Helix opportunity",
+            "homepage": "https://helixopp.com/",
+            "href": "https://api.w3.org/affiliations/151447"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 29,
@@ -6870,7 +8107,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/496ybn4ztdq844004s00ww4kkss04wc",
@@ -6885,7 +8123,8 @@
             }
           ]
         },
-        "github": "mikedo"
+        "github": "mikedo",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/8tfh2eebqvwgg4sg84gckcoc8ko8w4s",
@@ -6900,7 +8139,8 @@
             }
           ]
         },
-        "github": "silviapfeiffer"
+        "github": "silviapfeiffer",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/e807e11kxv4s800sgk4kcow8sw008gc",
@@ -6910,7 +8150,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "andreastai"
+        "github": "andreastai",
+        "affiliations": [
+          {
+            "name": "andreastai.com",
+            "href": "https://api.w3.org/affiliations/130352"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/j4olzni8mmo8s8804go0osgo8k0sg4o",
@@ -6941,7 +8187,14 @@
             }
           ]
         },
-        "github": "skynavga"
+        "github": "skynavga",
+        "affiliations": [
+          {
+            "name": "Skynav, Inc.",
+            "homepage": "http://www.skynav.com",
+            "href": "https://api.w3.org/affiliations/70041"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/fadkg57sknc4ogo48owskw4owgc8coc",
@@ -6951,7 +8204,8 @@
           "chair": true,
           "editors": []
         },
-        "github": "gkatsev"
+        "github": "gkatsev",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/q8ulna8lj5wg8goo84gwks448ooow4w",
@@ -6961,10 +8215,16 @@
           "chair": false,
           "editors": []
         },
-        "github": "mattsimpson3"
+        "github": "mattsimpson3",
+        "affiliations": [
+          {
+            "name": "ITV",
+            "href": "https://api.w3.org/affiliations/111725"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 25,
+    "numberOfParticipants": 24,
     "numberOfChairs": 2,
     "numberOfIE": 7,
     "numberOfIEChairs": 1,
@@ -7077,7 +8337,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "ChristopherA"
+        "github": "ChristopherA",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/mlnn8df7geoc4k0g4ogs4ckwwo0sw44",
@@ -7087,7 +8348,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "Identitywoman"
+        "github": "Identitywoman",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/kvq933ofggg8c4kkks4s04s0k0ss804",
@@ -7097,7 +8359,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "SmithSamuelM"
+        "github": "SmithSamuelM",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/i5y21d0k17kg00ck8c80o0c48cg8okk",
@@ -7112,7 +8375,14 @@
             }
           ]
         },
-        "github": "dmitrizagidulin"
+        "github": "dmitrizagidulin",
+        "affiliations": [
+          {
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "homepage": "https://web.mit.edu",
+            "href": "https://api.w3.org/affiliations/106237"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/78o77f3p24kks4sckwc8wcccokcgkw8",
@@ -7122,7 +8392,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "brianorwhatever"
+        "github": "brianorwhatever",
+        "affiliations": [
+          {
+            "name": "Aviary Technologies Inc.",
+            "href": "https://api.w3.org/affiliations/117989"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/2wf56edyvwu80kowg8cgwggw84w4s88",
@@ -7132,7 +8408,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "David-Chadwick"
+        "github": "David-Chadwick",
+        "affiliations": [
+          {
+            "name": "University of Kent",
+            "homepage": "http://www.kent.ac.uk/",
+            "href": "https://api.w3.org/affiliations/11912"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/m438uly12m80c88ww4okccokg8g8o8",
@@ -7159,7 +8442,8 @@
             }
           ]
         },
-        "github": "selfissued"
+        "github": "selfissued",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/f9gvhiykfa8kwkggwoowcsk4ks8kggs",
@@ -7186,7 +8470,8 @@
             }
           ]
         },
-        "github": "Wind4Greg"
+        "github": "Wind4Greg",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/9jll8xg95vs4kg0kgok8484ckssw40o",
@@ -7196,7 +8481,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "paolo-de-rosa"
+        "github": "paolo-de-rosa",
+        "affiliations": [
+          {
+            "name": "European Commission",
+            "href": "https://api.w3.org/affiliations/53717"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mlbvhudut7kkwko0g4scg4skkwgkc44",
@@ -7206,7 +8497,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "seabass-labrax"
+        "github": "seabass-labrax",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/dp9f7v7isn404gskkwgks4sk888w4gg",
@@ -7215,7 +8507,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "SymSoft Solutions LLC",
+            "href": "https://api.w3.org/affiliations/82229"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/rp0iahgncfko04oggo8k080csgc4o0o",
@@ -7225,7 +8523,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "bvavala"
+        "github": "bvavala",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/8ytejjrzqds8g0wcw8o4o00g00k8oc8",
@@ -7239,7 +8538,14 @@
               "date": "20251030"
             }
           ]
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Open Security and Identity inc.",
+            "homepage": "https://opsecid.ca",
+            "href": "https://api.w3.org/affiliations/162335"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/k7768krsz80cs4w4808c0kskw48c44s",
@@ -7249,7 +8555,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "ewoogit"
+        "github": "ewoogit",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/hvb5bszzzsgsos0cwwkks4o4k8kskso",
@@ -7258,12 +8565,29 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "InfoComm Development Authority of Singapore (iDA Singapore)",
+            "homepage": "http://www.ida.gov.sg",
+            "href": "https://api.w3.org/affiliations/11564"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/ktsbi5zzsw000cwcos4coss8coc00c8",
+        "name": "Christine Runnegar",
+        "created": "2025-12-22 19:29:42",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 127,
+    "numberOfParticipants": 128,
     "numberOfChairs": 2,
-    "numberOfIE": 15,
+    "numberOfIE": 16,
     "numberOfIEChairs": 0,
     "numberOfEditors": 23,
     "numberOfIEEditors": 4,
@@ -7278,7 +8602,7 @@
     "editors": [],
     "ies": [],
     "numberOfParticipants": 26,
-    "numberOfChairs": 2,
+    "numberOfChairs": 3,
     "numberOfIE": 0,
     "numberOfIEChairs": 0,
     "numberOfEditors": 0,
@@ -7424,7 +8748,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/42aidyo0kdusg4w0o0gg8wg888sw484",
@@ -7434,7 +8759,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "rvaneijk"
+        "github": "rvaneijk",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/mhkfuw7omr4ocg0wsgo8cgw4owgk4cs",
@@ -7443,10 +8769,11 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 158,
+    "numberOfParticipants": 159,
     "numberOfChairs": 2,
     "numberOfIE": 3,
     "numberOfIEChairs": 0,
@@ -7557,14 +8884,6 @@
         "github": "diekus"
       },
       {
-        "href": "https://api.w3.org/users/1q45vy64a1r4ckss0488c8g4oowcos8",
-        "github": "dmurph"
-      },
-      {
-        "href": "https://api.w3.org/users/lfz7y1tzkqo4sckog84w4wwcks0000w",
-        "github": "christianliebel"
-      },
-      {
         "href": "https://api.w3.org/users/n0esd6kti2sgcow4kg0ckkkk8044cg8",
         "github": "mkruisselbrink"
       },
@@ -7575,6 +8894,14 @@
       {
         "href": "https://api.w3.org/users/bcjbaixx12go0sok448scc0kk8c8k8k",
         "github": "yoshisatoyanagisawa"
+      },
+      {
+        "href": "https://api.w3.org/users/1q45vy64a1r4ckss0488c8g4oowcos8",
+        "github": "dmurph"
+      },
+      {
+        "href": "https://api.w3.org/users/lfz7y1tzkqo4sckog84w4wwcks0000w",
+        "github": "christianliebel"
       }
     ],
     "ies": [
@@ -7599,7 +8926,8 @@
             }
           ]
         },
-        "github": "travisleithead"
+        "github": "travisleithead",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/9uigxfepltkw48socgg4k0goo8ogsss",
@@ -7609,7 +8937,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "benfrancis"
+        "github": "benfrancis",
+        "affiliations": [
+          {
+            "name": "Krellian",
+            "href": "https://api.w3.org/affiliations/122954"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/4l5w4q7kerk0gogogwo0ok8sgogwko4",
@@ -7619,7 +8953,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "stelar7"
+        "github": "stelar7",
+        "affiliations": [
+          {
+            "name": "SmartCraft",
+            "homepage": "https://smartcraft.com/",
+            "href": "https://api.w3.org/affiliations/167478"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/kvddbekh19sog8044ko8wkco8kwg0o0",
@@ -7629,7 +8970,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "nolanlawson"
+        "github": "nolanlawson",
+        "affiliations": [
+          {
+            "name": "Socket",
+            "homepage": "https://socket.dev",
+            "href": "https://api.w3.org/affiliations/169912"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/jko8il0lq5ko88ss484g0w0w880kg08",
@@ -7639,7 +8987,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "mikbar-uib"
+        "github": "mikbar-uib",
+        "affiliations": [
+          {
+            "name": "University of Bergen",
+            "href": "https://api.w3.org/affiliations/119355"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 117,
@@ -7708,7 +9062,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "Firstyear"
+        "github": "Firstyear",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/4uemvjp6uko4wg0sc8w4c0kgkgkkgoo",
@@ -7718,7 +9073,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "abuettner"
+        "github": "abuettner",
+        "affiliations": [
+          {
+            "name": "University of Oslo",
+            "href": "https://api.w3.org/affiliations/57497"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/c07i3sqpb74s4o000s400kkgkss4440",
@@ -7728,7 +9089,8 @@
           "chair": true,
           "editors": []
         },
-        "github": "nadalin"
+        "github": "nadalin",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/3guz9m7c394wk04osoksk0gks8ws4sw",
@@ -7738,7 +9100,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "futureimperfect"
+        "github": "futureimperfect",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/d48aa2xma7wcogcg8oo4ckoss48o4c8",
@@ -7748,7 +9111,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "yackermann"
+        "github": "yackermann",
+        "affiliations": [
+          {
+            "name": "FIDO Alliance",
+            "href": "https://api.w3.org/affiliations/88277"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/m438uly12m80c88ww4okccokg8g8o8",
@@ -7771,7 +9140,8 @@
             }
           ]
         },
-        "github": "selfissued"
+        "github": "selfissued",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/52hkbvezopogg4wkok4008swoc4osg0",
@@ -7780,7 +9150,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/stqd2mqiaio4k4400csk00woswc8coo",
@@ -7790,7 +9161,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "fidonishant"
+        "github": "fidonishant",
+        "affiliations": [
+          {
+            "name": "FIDO Alliance",
+            "href": "https://api.w3.org/affiliations/88277"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/a96562m78dcgs8sks0wgosgw88wk8sw",
@@ -7800,10 +9177,17 @@
           "chair": false,
           "editors": []
         },
-        "github": "Kieun"
+        "github": "Kieun",
+        "affiliations": [
+          {
+            "name": "SK Telecom",
+            "homepage": "http://www.sktelecom.com/",
+            "href": "https://api.w3.org/affiliations/39024"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 128,
+    "numberOfParticipants": 127,
     "numberOfChairs": 1,
     "numberOfIE": 9,
     "numberOfIEChairs": 1,
@@ -7865,7 +9249,8 @@
             }
           ]
         },
-        "github": "johanneswilm"
+        "github": "johanneswilm",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/b8kekno7vuo0ssws0ww8kokkkww0cgg",
@@ -7875,7 +9260,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "Comandeer"
+        "github": "Comandeer",
+        "affiliations": [
+          {
+            "name": "CKSource",
+            "href": "https://api.w3.org/affiliations/73943"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/ldw2iab3xdwgws8kg0ccsgwogocw04g",
@@ -7885,7 +9276,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "awesomekling"
+        "github": "awesomekling",
+        "affiliations": [
+          {
+            "name": "Ladybird Browser Initiative",
+            "homepage": "https://ladybird.org",
+            "href": "https://api.w3.org/affiliations/159995"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/9qblv50s2s4cgw0ogccoosgc80okg4o",
@@ -7895,7 +9293,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "michael"
+        "github": "michael",
+        "affiliations": [
+          {
+            "name": "Ken Experiences GmbH",
+            "homepage": "https://letsken.com",
+            "href": "https://api.w3.org/affiliations/172441"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 44,
@@ -7949,7 +9354,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "tiroj"
+        "github": "tiroj",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/ryibmct876sw8ks8ss80wcksocccscs",
@@ -7958,7 +9364,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/d881jhewe2gw8ssgkg4s4sw0wg8koc8",
@@ -7973,7 +9380,8 @@
             }
           ]
         },
-        "github": "vlevantovsky"
+        "github": "vlevantovsky",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/olqg6vrh7aoowkwocwowkk4c0wcoccg",
@@ -7982,7 +9390,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Spotify Ltd",
+            "href": "https://api.w3.org/affiliations/94345"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 37,
@@ -8021,7 +9435,8 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/qno5gnvvkb48084s88sw8wcwk4004gk",
@@ -8031,7 +9446,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "rachelyager-nyc"
+        "github": "rachelyager-nyc",
+        "affiliations": [
+          {
+            "name": "FortuneTimes Group",
+            "href": "https://api.w3.org/affiliations/115904"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/eww7umkxvm0440o84sgkcwogogw00sc",
@@ -8040,7 +9461,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Omnijar",
+            "href": "https://api.w3.org/affiliations/79464"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/rx3ho1do0ao048owk8wgkwgkc8swg8o",
@@ -8050,7 +9477,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "tqchen"
+        "github": "tqchen",
+        "affiliations": [
+          {
+            "name": "Carnegie Mellon University",
+            "href": "https://api.w3.org/affiliations/48883"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/ggabm7yb50gg8cc8s8sgwo00s48s4w0",
@@ -8060,7 +9493,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "humeranoor"
+        "github": "humeranoor",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/jyuqtv7h3k0w80wo0g0osc0wko480ok",
@@ -8069,7 +9503,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Washington University in St. Louis",
+            "href": "https://api.w3.org/affiliations/76067"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/6angwo2gj008oc084s4skck0gcgocsk",
@@ -8079,7 +9519,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "zolkis"
+        "github": "zolkis",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/kz6qw4e4jxckscw48scwkkc88kcksww",
@@ -8088,10 +9529,16 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Fizz Studio",
+            "href": "https://api.w3.org/affiliations/113057"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 126,
+    "numberOfParticipants": 124,
     "numberOfChairs": 1,
     "numberOfIE": 8,
     "numberOfIEChairs": 0,
@@ -8132,7 +9579,13 @@
           "chair": true,
           "editors": []
         },
-        "github": "mjkoster"
+        "github": "mjkoster",
+        "affiliations": [
+          {
+            "name": "Dogtiger Labs",
+            "href": "https://api.w3.org/affiliations/130649"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mcv98h02cv4gocwogcw8ss8s044s40w",
@@ -8142,7 +9595,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "ngcharithperera"
+        "github": "ngcharithperera",
+        "affiliations": [
+          {
+            "name": "Cardiff University",
+            "href": "https://api.w3.org/affiliations/62598"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mzj20lk8sm8kkc8swwgow4cockww48k",
@@ -8157,7 +9616,8 @@
             }
           ]
         },
-        "github": "mmccool"
+        "github": "mmccool",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/81b749io48w0wow0s8o44goosgs0k8g",
@@ -8167,7 +9627,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "ashimura"
+        "github": "ashimura",
+        "affiliations": [
+          {
+            "name": "Nagasaki University",
+            "homepage": "https://en.nagasaki-u.ac.jp",
+            "href": "https://api.w3.org/affiliations/172031"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 92,
@@ -8284,7 +9751,13 @@
             }
           ]
         },
-        "github": "farshidtz"
+        "github": "farshidtz",
+        "affiliations": [
+          {
+            "name": "Canonical Group Limited",
+            "href": "https://api.w3.org/affiliations/54876"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/lw5hs8msbk00wwgsc8wk0g0k4ocssg0",
@@ -8294,7 +9767,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "JKRhb"
+        "github": "JKRhb",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/9uigxfepltkw48socgg4k0goo8ogsss",
@@ -8309,7 +9783,13 @@
             }
           ]
         },
-        "github": "benfrancis"
+        "github": "benfrancis",
+        "affiliations": [
+          {
+            "name": "Krellian",
+            "href": "https://api.w3.org/affiliations/122954"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/t4szqtsr1r4goc04gwo48g0c4s4w4gk",
@@ -8324,7 +9804,8 @@
             }
           ]
         },
-        "github": "relu91"
+        "github": "relu91",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/8k2xjrhl9nokkgc008s404wk088wkcs",
@@ -8334,7 +9815,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "KotisK"
+        "github": "KotisK",
+        "affiliations": [
+          {
+            "name": "University of the Aegean",
+            "href": "https://api.w3.org/affiliations/59030"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/cfin9pyx1ag4so4w8c840k844w4sk4c",
@@ -8344,7 +9831,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "Citrullin"
+        "github": "Citrullin",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/bnhurro14vks48kck0wocs8o0kg08w0",
@@ -8354,7 +9842,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "cperey"
+        "github": "cperey",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/ew373cxqzt44sws0848wc8oo4k8osg8",
@@ -8369,7 +9858,13 @@
             }
           ]
         },
-        "github": "mjkoster"
+        "github": "mjkoster",
+        "affiliations": [
+          {
+            "name": "Dogtiger Labs",
+            "href": "https://api.w3.org/affiliations/130649"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mcv98h02cv4gocwogcw8ss8s044s40w",
@@ -8379,7 +9874,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "ngcharithperera"
+        "github": "ngcharithperera",
+        "affiliations": [
+          {
+            "name": "Cardiff University",
+            "href": "https://api.w3.org/affiliations/62598"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/nuht5r3rfy8048cs08wos4c044c0gg0",
@@ -8389,16 +9890,14 @@
           "chair": false,
           "editors": []
         },
-        "github": "lu-zero"
-      },
-      {
-        "href": "https://api.w3.org/users/pmkhhgdczxwc4s8ws8sk0kc0k4oso48",
-        "name": "Mahmood Afshari",
-        "created": "2025-09-03 16:40:26",
-        "roles": {
-          "chair": false,
-          "editors": []
-        }
+        "github": "lu-zero",
+        "affiliations": [
+          {
+            "name": "Luminem",
+            "homepage": "http://luminem.org/",
+            "href": "https://api.w3.org/affiliations/141809"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/mzj20lk8sm8kkc8swwgow4cockww48k",
@@ -8429,7 +9928,8 @@
             }
           ]
         },
-        "github": "mmccool"
+        "github": "mmccool",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/81b749io48w0wow0s8o44goosgs0k8g",
@@ -8439,12 +9939,19 @@
           "chair": false,
           "editors": []
         },
-        "github": "ashimura"
+        "github": "ashimura",
+        "affiliations": [
+          {
+            "name": "Nagasaki University",
+            "homepage": "https://en.nagasaki-u.ac.jp",
+            "href": "https://api.w3.org/affiliations/172031"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 67,
+    "numberOfParticipants": 66,
     "numberOfChairs": 2,
-    "numberOfIE": 13,
+    "numberOfIE": 12,
     "numberOfIEChairs": 1,
     "numberOfEditors": 22,
     "numberOfIEEditors": 5,
@@ -8471,7 +9978,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "adrianhopebailie"
+        "github": "adrianhopebailie",
+        "affiliations": [
+          {
+            "name": "Fynbos",
+            "href": "https://api.w3.org/affiliations/132838"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/alguvay7lywwosgwck8s0kkccc4g8co",
@@ -8481,7 +9994,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "mountainhippo"
+        "github": "mountainhippo",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 82,
@@ -8564,7 +10078,8 @@
             }
           ]
         },
-        "github": "romandev"
+        "github": "romandev",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/fwjnjl2ytm8s0ck8cwowcgo4gsg4sw8",
@@ -8573,7 +10088,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "EMVCo",
+            "href": "https://api.w3.org/affiliations/114595"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/18v63zxfoef40g0wg84sow0cg80cc4w",
@@ -8583,7 +10104,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "davidbenoit"
+        "github": "davidbenoit",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/alguvay7lywwosgwck8s0kkccc4g8co",
@@ -8593,7 +10115,8 @@
           "chair": true,
           "editors": []
         },
-        "github": "mountainhippo"
+        "github": "mountainhippo",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/t7r86oh2z6og4sso0wk4os4wgckcocg",
@@ -8602,10 +10125,11 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 131,
+    "numberOfParticipants": 129,
     "numberOfChairs": 2,
     "numberOfIE": 5,
     "numberOfIEChairs": 1,
@@ -8712,7 +10236,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "igneel64"
+        "github": "igneel64",
+        "affiliations": [
+          {
+            "name": "trivago GmbH",
+            "href": "https://api.w3.org/affiliations/98209"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/38vwvfhrpm6888sk4gw4w8gkscs0oc8",
@@ -8722,7 +10252,13 @@
           "chair": false,
           "editors": []
         },
-        "github": "valiantvu"
+        "github": "valiantvu",
+        "affiliations": [
+          {
+            "name": "Pinterest",
+            "href": "https://api.w3.org/affiliations/80285"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/r9cac8iu10ggwk04ckcg0s84844og04",
@@ -8731,7 +10267,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Wix",
+            "href": "https://api.w3.org/affiliations/105995"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/5ezujzutznk0g00kww8ogssw0okc40g",
@@ -8741,7 +10283,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "abinpaul1"
+        "github": "abinpaul1",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/t5hkdc8iu8g8ks8804o84k00c0wsskc",
@@ -8750,7 +10293,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "SpeedCurve",
+            "href": "https://api.w3.org/affiliations/126119"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/f1ovb5rydm8s0go04oco0cgk0sow44w",
@@ -8760,10 +10309,11 @@
           "chair": false,
           "editors": []
         },
-        "github": "jenstrickland"
+        "github": "jenstrickland",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 123,
+    "numberOfParticipants": 122,
     "numberOfChairs": 2,
     "numberOfIE": 6,
     "numberOfIEChairs": 0,
@@ -8858,7 +10408,8 @@
           "chair": false,
           "editors": []
         },
-        "github": "lgrahl"
+        "github": "lgrahl",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 92,
@@ -8885,7 +10436,13 @@
           "chair": true,
           "editors": []
         },
-        "github": "mjkoster"
+        "github": "mjkoster",
+        "affiliations": [
+          {
+            "name": "Dogtiger Labs",
+            "href": "https://api.w3.org/affiliations/130649"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/hklu5546xuok00k8k0wsscg08o4ws0k",
@@ -8894,7 +10451,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Lahrin i Hajstorp",
+            "href": "https://api.w3.org/affiliations/143707"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/81b749io48w0wow0s8o44goosgs0k8g",
@@ -8904,10 +10467,17 @@
           "chair": true,
           "editors": []
         },
-        "github": "ashimura"
+        "github": "ashimura",
+        "affiliations": [
+          {
+            "name": "Nagasaki University",
+            "homepage": "https://en.nagasaki-u.ac.jp",
+            "href": "https://api.w3.org/affiliations/172031"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 23,
+    "numberOfParticipants": 22,
     "numberOfChairs": 2,
     "numberOfIE": 3,
     "numberOfIEChairs": 2,
@@ -8945,7 +10515,13 @@
         "roles": {
           "chair": false,
           "editors": []
-        }
+        },
+        "affiliations": [
+          {
+            "name": "Nanyang Technological University",
+            "href": "https://api.w3.org/affiliations/61171"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/kzzpw4e5bb40os084og00co0wooggco",
@@ -8960,10 +10536,11 @@
             }
           ]
         },
-        "github": "rossberg"
+        "github": "rossberg",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 49,
+    "numberOfParticipants": 48,
     "numberOfChairs": 2,
     "numberOfIE": 2,
     "numberOfIEChairs": 0,

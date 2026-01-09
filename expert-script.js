@@ -1,12 +1,28 @@
+const df = Intl.DateTimeFormat("en-u-ca-iso8601");
+
+const githubMinDate = "2013-07-01";
+
 document.addEventListener('DOMContentLoaded', () => {
   const expertsList = document.getElementById('experts-list');
   const loading = document.getElementById('loading');
   const searchInput = document.getElementById('expert-search');
+  const sinceSelector = document.getElementById('since-selector');
+
+  const now = new Date();
+  let cursor = new Date(githubMinDate);
+  while (cursor < now) {
+    const option = document.createElement("option");
+    option.value = cursor;
+    option.textContent = `${cursor.getFullYear()} Q${cursor.getMonth() === 0 ? "1" : "3"}`;
+    sinceSelector.append(option);
+    cursor.setMonth(cursor.getMonth() + 6);
+  }
 
   let allExpertsData = { experts: [], minDate: new Date() };
   const urlParams = new URLSearchParams(window.location.search);
   const groupIdFilter = urlParams.get('group');
   const hashFilter = urlParams.get('hash');
+  const since = new Date(urlParams.get('since') ?? 0);
 
     Promise.all([
         fetch('invited-expert-roles.json').then(r => r.json()),
@@ -18,6 +34,10 @@ document.addEventListener('DOMContentLoaded', () => {
         if (hashFilter) {
 	  allExpertsData.experts = allExpertsData.experts.filter(ie => ie.href === `https://api.w3.org/users/${hashFilter}`);
 	  showFilterNotice(`Showing single expert view`, searchInput);
+	}
+
+        if (since) {
+	  allExpertsData.minDate = new Date(Math.max(since, allExpertsData.minDate));
 	}
         // Apply group/hash filter if present
         if (groupIdFilter) {
@@ -43,6 +63,14 @@ document.addEventListener('DOMContentLoaded', () => {
         const filtered = allExpertsData.experts.filter(ex => ex.name.toLowerCase().includes(term));
         renderExperts({ experts: filtered, minDate: allExpertsData.minDate });
     });
+
+    sinceSelector.addEventListener('change', (e) => {
+        const date = new Date(e.target.value) || githubMinDate;
+        const inscope = i => i.date >= date;
+        const filtered = allExpertsData.experts.map(ex => Object.assign({}, ex, {prCount: ex.prs.filter(inscope).length, issueCount: ex.issues.filter(inscope).length}));
+        renderExperts({ experts: filtered, minDate: date });
+    });
+
 
     function processData(rolesData, prsData, reviewsData) {
         const expertsMap = new Map();
@@ -241,8 +269,8 @@ document.addEventListener('DOMContentLoaded', () => {
             if (totalActivity > 0) {
                 // Determine range
                 const dates = [...expert.prs.map(p => p.date), ...expert.issues.map(i => i.date)].sort((a,b) => a-b);
-                const first = dates[0].toLocaleDateString();
-                const last = dates[dates.length - 1].toLocaleDateString();
+                const first = df.format(dates[0]);
+                const last = df.format(dates[dates.length - 1]);
                 
                 // Repo breakdown
                 const repoCounts = {};
@@ -275,7 +303,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }).join('');
 
                 activityHtml = `
-                    <dt>GitHub activity: ${totalActivity} (PRs: ${expert.prCount} | Issues: ${expert.issueCount})</dt>
+                    <dt>GitHub activity (since ${df.format(minDate)}): ${totalActivity} (PRs: ${expert.prCount} | Issues: ${expert.issueCount})</dt>
                         <dd>First: ${first} | Last: ${last}</dd>
                         <dd>
                         ${renderActivityChart(expert.prs, expert.issues, allMonths)}
@@ -283,10 +311,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 `;
             } else {
                 activityHtml = `
-                    <dt>GitHub activity: None</dt>`;
+                    <dt>GitHub activity (since ${df.format(minDate)}): None</dt>`;
             }
 
-            const githubDisplay = expert.github ? ` <a href='https://github.com/${expert.github}' class=github>(@${expert.github})↗️</a>` : '';
+            const githubDisplay = expert.github ? ` <a href='https://github.com/${expert.github}' class=github target=_blank>(@${expert.github})↗️</a>` : '';
 
             card.innerHTML = `
                 <h2>

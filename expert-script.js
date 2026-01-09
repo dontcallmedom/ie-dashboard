@@ -360,7 +360,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             const title = count > 0 ? `title="${m}: ${count} Activity"` : `title="${m}"`;
 
-            html += `<li class="pr-bar" style="${style}" ${title}></li>`;
+            html += `<li class="pr-bar ${m.match(/-01$/) ? "pr-bar-year" : ""}" style="${style}" ${title}  ${m.match(/-01$/) ? ` data-year=${m.substring(0,4)}`: ""}></li>`;
         });
         html += '</ol>';
         return html;

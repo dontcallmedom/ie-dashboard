@@ -14,12 +14,26 @@
             align-items: flex-end;
             gap: 1px;
 	    list-style: none;
+	    padding-left: 0;
+	    position: relative;
         }
         .pr-bar {
             background-color: #88c;
             width: 4px;
             min-height: 1px;
+	    border-bottom: 1px solid gray;
         }
+	.pr-bar-year {
+	    margin-bottom: -5px;
+	    border-bottom: 5px solid green;
+	}
+	.pr-bar-year::after {
+	    position: absolute;
+	    bottom: -1.2rem;
+	    content: attr(data-year);
+	    font-size: 0.8rem;
+	    writing-mode: vertical;
+	}
         .pr-bar:hover {
             background-color: #559;
         }

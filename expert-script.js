@@ -358,7 +358,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 ? `height:${height}px;` 
                 : `height:1px; background-color: #eee;`;
             
-            const title = count > 0 ? `title="${m}: ${count} Activity"` : `title="${m}"`;
+            const title = count > 0 ? `role='image' aria-label="${m}: ${count} Activity" title="${m}: ${count} Activity"` : `title="${m}"`;
 
             html += `<li class="pr-bar ${m.match(/-01$/) ? "pr-bar-year" : ""}" style="${style}" ${title}  ${m.match(/-01$/) ? ` data-year=${m.substring(0,4)}`: ""}></li>`;
         });

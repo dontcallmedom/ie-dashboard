@@ -106,14 +106,6 @@
         "github": "cwadamsoforacle"
       },
       {
-        "href": "https://api.w3.org/users/r4btzf4l2rk4wwgwogsgc04844os888",
-        "github": "iadawn"
-      },
-      {
-        "href": "https://api.w3.org/users/hazznt0qyhkcgo80o0cso0k0cssw884",
-        "github": "fstrr"
-      },
-      {
         "href": "https://api.w3.org/users/puwz0s4mk288ww0sc0sgoo0kg84w8g0",
         "github": "dotjay"
       },
@@ -134,30 +126,55 @@
         "github": "julianmka"
       },
       {
-        "href": "https://api.w3.org/users/jz3aambod6o4g4cg8gwsocooss0wcoc",
-        "github": "kengdoj"
+        "href": "https://api.w3.org/users/9ggke0mycksowwsws88444s00g0ogsc",
+        "github": "pday1"
       },
       {
         "href": "https://api.w3.org/users/aedbof79fmogcw0wscs0w0occkocg48",
         "github": "daniel-montalvo"
       },
       {
-        "href": "https://api.w3.org/users/9ggke0mycksowwsws88444s00g0ogsc",
-        "github": "pday1"
+        "href": "https://api.w3.org/users/jz3aambod6o4g4cg8gwsocooss0wcoc",
+        "github": "kengdoj"
+      },
+      {
+        "href": "https://api.w3.org/users/r4btzf4l2rk4wwgwogsgc04844os888",
+        "github": "iadawn"
+      },
+      {
+        "href": "https://api.w3.org/users/hazznt0qyhkcgo80o0cso0k0cssw884",
+        "github": "fstrr"
+      },
+      {
+        "href": "https://api.w3.org/users/8p57uafem4wssgccgwo4444ks0gswgw",
+        "github": "stevefaulkner"
+      },
+      {
+        "href": "https://api.w3.org/users/qo8oehtcey8o8gsgs4404ok0sgccsws",
+        "github": "JeroenHulscher"
+      },
+      {
+        "href": "https://api.w3.org/users/i1s3l6f1ffccgk0kgk4gsws4co0cwg8",
+        "github": "hidde"
+      },
+      {
+        "href": "https://api.w3.org/users/c28z1m5rjl4oks00csckc40o0wcwc04",
+        "github": "MakotoUeki"
+      },
+      {
+        "href": "https://api.w3.org/users/kwshp9z1gw0480wksc0k4gcgcoggkss",
+        "github": "adampage"
+      },
+      {
+        "href": "https://api.w3.org/users/ank3bo2xusgkc4o8gsg0gg84kswg4sc",
+        "github": "julierawe"
+      },
+      {
+        "href": "https://api.w3.org/users/fm1z2sibpsoc0k4888ock0wg4scwsk8",
+        "github": "giacomo-petri"
       }
     ],
     "ies": [
-      {
-        "href": "https://api.w3.org/users/qtbys48x8usso88k4g004s0cgccc8ks",
-        "name": "Janina Sajka",
-        "created": "2023-11-08 15:43:52",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "JaninaSajka",
-        "affiliations": []
-      },
       {
         "href": "https://api.w3.org/users/p8385rml41cos040s0oc48og8ksgggc",
         "name": "Todd Libby",
@@ -238,7 +255,7 @@
           "editors": [
             {
               "shortname": "act-rules-format-1.1",
-              "date": "20250819"
+              "date": "20260205"
             }
           ]
         },
@@ -273,7 +290,12 @@
         "created": "2023-11-09 06:59:47",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "wcag-3.0",
+              "date": "20260910"
+            }
+          ]
         },
         "github": "MakotoUeki",
         "affiliations": [
@@ -882,7 +904,6 @@
           "chair": false,
           "editors": []
         },
-        "github": "arctouch-gleidsonramos",
         "affiliations": [
           {
             "name": "ArcTouch",
@@ -1027,8 +1048,13 @@
         "name": "Adam Page",
         "created": "2025-06-18 14:59:06",
         "roles": {
-          "chair": false,
-          "editors": []
+          "chair": true,
+          "editors": [
+            {
+              "shortname": "wcag-3.0",
+              "date": "20260910"
+            }
+          ]
         },
         "github": "adampage",
         "affiliations": [
@@ -1086,16 +1112,192 @@
             "href": "https://api.w3.org/affiliations/173471"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/obpk2lktm2o08oo0k0oo4ocgo4gw4kg",
+        "name": "Abraham Glasser",
+        "created": "2026-01-30 17:40:51",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "Gallaudet University",
+            "href": "https://api.w3.org/affiliations/50409"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/n1iiqf2ex80osk0kk88gkgwk0o08ss0",
+        "name": "Eloisa Guerrero",
+        "created": "2026-02-04 15:01:18",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "mylonelycomputer",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/kganmw3glm8s0ww4gk444gkss0kck0k",
+        "name": "Charles Hall",
+        "created": "2026-02-23 17:31:31",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "accessibility-conformance-challenges",
+              "date": "20200619"
+            }
+          ]
+        },
+        "github": "charleshalldesign",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/gteed2v8mxw08oo80884c8800004s8g",
+        "name": "Michael (preferred name is Godwin) Godwin",
+        "created": "2026-03-05 23:18:23",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "G0dwin",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/bi9m9m8pttwkk808g0w4cwwc4so8gcw",
+        "name": "Jaunita Flessas",
+        "created": "2026-03-17 10:42:32",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "jaunitageorge1",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/fburhnc2p8g0kwss4go8sg0ocs00kwk",
+        "name": "Ashlee Fisher",
+        "created": "2026-03-20 17:37:37",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "ashleemboyer",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/sju2dkaqyv408o84cw88gkcwwg4ggs",
+        "name": "Heather Bellis",
+        "created": "2026-04-13 12:03:22",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "heatherbellis",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/ji3ciwkgbkg8s0osksw8o80408g4sgk",
+        "name": "Lori Oakley",
+        "created": "2026-04-13 18:04:49",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "ljkoakley",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/hvcf7dbgdxs8kw84808kgogsg404sk0",
+        "name": "Theo Hale",
+        "created": "2026-05-18 14:31:07",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "HaTheo",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/g9xi4zo841kwk8g4kko88wgosg0os08",
+        "name": "Stephanie-Lee Steer",
+        "created": "2026-05-19 18:05:40",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "University of Southern California",
+            "href": "https://api.w3.org/affiliations/50044"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/r0q9uarshsg84ss8o088o8gw0o0sgsg",
+        "name": "Katherine Lees",
+        "created": "2026-05-19 18:09:28",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "dozanü innovations",
+            "homepage": "http://dozanu.com",
+            "href": "https://api.w3.org/affiliations/176293"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/5mectv1h99s8oc480g8ssggg44808s8",
+        "name": "Rachael Yomtoob",
+        "created": "2026-05-26 23:25:24",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/4m3ly7w2py808s4cwkwsgw4sgg4o80c",
+        "name": "Matthew King",
+        "created": "2026-06-19 14:42:05",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "mcking65",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/2rxb8x7enww0wgsk4kkk0k48kw44oos",
+        "name": "Sam Waller",
+        "created": "2026-09-08 08:07:53",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "sdw32",
+        "affiliations": [
+          {
+            "name": "University of Cambridge",
+            "href": "https://api.w3.org/affiliations/69127"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 266,
-    "numberOfChairs": 2,
-    "numberOfIE": 63,
-    "numberOfIEChairs": 0,
-    "numberOfEditors": 38,
-    "numberOfIEEditors": 9,
-    "numberOfSpecs": 29,
-    "numberOfSpecWithIEEditors": 15
+    "numberOfParticipants": 282,
+    "numberOfChairs": 3,
+    "numberOfIE": 76,
+    "numberOfIEChairs": 1,
+    "numberOfEditors": 45,
+    "numberOfIEEditors": 12,
+    "numberOfSpecs": 30,
+    "numberOfSpecWithIEEditors": 17
   },
   {
     "id": 83907,
@@ -1281,50 +1483,6 @@
         ]
       },
       {
-        "href": "https://api.w3.org/users/qtbys48x8usso88k4g004s0cgccc8ks",
-        "name": "Janina Sajka",
-        "created": "2021-08-12 06:38:24",
-        "roles": {
-          "chair": true,
-          "editors": [
-            {
-              "shortname": "raur",
-              "date": "20210525"
-            },
-            {
-              "shortname": "xaur",
-              "date": "20210825"
-            },
-            {
-              "shortname": "turingtest",
-              "date": "20211216"
-            },
-            {
-              "shortname": "remote-meetings",
-              "date": "20220722"
-            },
-            {
-              "shortname": "aac-registry",
-              "date": "20221213"
-            },
-            {
-              "shortname": "saur",
-              "date": "20230628"
-            },
-            {
-              "shortname": "ctaur",
-              "date": "20250121"
-            },
-            {
-              "shortname": "maturity-model",
-              "date": "20251104"
-            }
-          ]
-        },
-        "github": "JaninaSajka",
-        "affiliations": []
-      },
-      {
         "href": "https://api.w3.org/users/20mcziqw6468o8kso8scwwgssswgsc4",
         "name": "Gottfried Zimmermann",
         "created": "2021-08-27 10:18:07",
@@ -1369,6 +1527,26 @@
             {
               "shortname": "adapt-symbols",
               "date": "20230105"
+            },
+            {
+              "shortname": "coga-research-modules",
+              "date": "20260205"
+            },
+            {
+              "shortname": "coga-voice",
+              "date": "20260205"
+            },
+            {
+              "shortname": "coga-wayfinding",
+              "date": "20260205"
+            },
+            {
+              "shortname": "coga-safety",
+              "date": "20260205"
+            },
+            {
+              "shortname": "coga-sdm",
+              "date": "20260205"
             }
           ]
         },
@@ -1617,27 +1795,6 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/hvcvi3jdn688g8oc8scc84k8840goc4",
-        "name": "Sam Kanta",
-        "created": "2023-09-07 16:09:16",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "pronunciation-user-scenarios",
-              "date": "20190905"
-            }
-          ]
-        },
-        "github": "samkanta",
-        "affiliations": [
-          {
-            "name": "The Sustainable Change LLC",
-            "href": "https://api.w3.org/affiliations/111468"
-          }
-        ]
-      },
-      {
         "href": "https://api.w3.org/users/p8385rml41cos040s0oc48og8ksgggc",
         "name": "Todd Libby",
         "created": "2023-09-08 18:52:54",
@@ -1686,8 +1843,9 @@
         "github": "Skooth",
         "affiliations": [
           {
-            "name": "Università della Svizzera italiana",
-            "href": "https://api.w3.org/affiliations/92665"
+            "name": "Federal Institute of Mato Grosso do Sul (IFMS)",
+            "homepage": "https://www.ifms.edu.br/",
+            "href": "https://api.w3.org/affiliations/178658"
           }
         ]
       },
@@ -1786,16 +1944,6 @@
             "href": "https://api.w3.org/affiliations/107091"
           }
         ]
-      },
-      {
-        "href": "https://api.w3.org/users/c6m3u478q3so4ogo48kcgwkos08k8gg",
-        "name": "Dariusz Drezno",
-        "created": "2024-11-06 08:51:19",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/jdvzm62bmyo0scssk880kcs40kkc8g0",
@@ -1918,6 +2066,7 @@
           "chair": false,
           "editors": []
         },
+        "github": "mpaiva",
         "affiliations": [
           {
             "name": "ClearCompany, Inc.",
@@ -1925,16 +2074,65 @@
             "href": "https://api.w3.org/affiliations/172288"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/eg79p51dm60wkgk048w80c0wg8w8kc8",
+        "name": "Irene Tenison",
+        "created": "2026-03-16 18:07:02",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "homepage": "https://web.mit.edu",
+            "href": "https://api.w3.org/affiliations/106237"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/nahxms4o7s0k40gsc0wkg04g0o048w8",
+        "name": "Paraskevi Theodorou",
+        "created": "2026-07-29 14:34:21",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "vanessatheo",
+        "affiliations": [
+          {
+            "name": "University of Piraeus",
+            "href": "https://api.w3.org/affiliations/63992"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/iflts5fxbls00g04w8ws4kskcwswcs8",
+        "name": "Angela Young",
+        "created": "2026-09-23 17:37:21",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "A11yWithAngela",
+        "affiliations": [
+          {
+            "name": "Publicis Groupe",
+            "homepage": "https://publicisgroupe.com",
+            "href": "https://api.w3.org/affiliations/145597"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 97,
+    "numberOfParticipants": 98,
     "numberOfChairs": 2,
     "numberOfIE": 42,
-    "numberOfIEChairs": 1,
+    "numberOfIEChairs": 0,
     "numberOfEditors": 26,
-    "numberOfIEEditors": 11,
-    "numberOfSpecs": 22,
-    "numberOfSpecWithIEEditors": 21
+    "numberOfIEEditors": 9,
+    "numberOfSpecs": 27,
+    "numberOfSpecWithIEEditors": 25
   },
   {
     "id": 83726,
@@ -2014,12 +2212,28 @@
         "href": "https://api.w3.org/users/bhge56dpo6gossckoc4gcsc00c4sg8c"
       },
       {
+        "href": "https://api.w3.org/users/8p57uafem4wssgccgwo4444ks0gswgw",
+        "github": "stevefaulkner"
+      },
+      {
+        "href": "https://api.w3.org/users/s460v84tnsgoswskc8owwks0kwwg0gw",
+        "github": "DavidMacDonald"
+      },
+      {
         "href": "https://api.w3.org/users/cl4oqnq9ixkcok0sg0gocwwsgsw0800",
         "github": "pkra"
       },
       {
-        "href": "https://api.w3.org/users/5o0cv7o62ts8k0gsoowgggogo008gcg",
-        "github": "MelSumner"
+        "href": "https://api.w3.org/users/aedbof79fmogcw0wscs0w0occkocg48",
+        "github": "daniel-montalvo"
+      },
+      {
+        "href": "https://api.w3.org/users/8rixh672or8cwgsswso8ksc4cgcw84k",
+        "github": "patrickhlauke"
+      },
+      {
+        "href": "https://api.w3.org/users/md3wpp7t7z4gcwk84ggcss4ws4gk0oc",
+        "github": "scottaohara"
       },
       {
         "href": "https://api.w3.org/users/avxtzs24m74k4ocsgwc004s0okw0cw8",
@@ -2030,12 +2244,16 @@
         "github": "cyns"
       },
       {
-        "href": "https://api.w3.org/users/md3wpp7t7z4gcwk84ggcss4ws4gk0oc",
-        "github": "scottaohara"
+        "href": "https://api.w3.org/users/5o0cv7o62ts8k0gsoowgggogo008gcg",
+        "github": "MelSumner"
       },
       {
         "href": "https://api.w3.org/users/fl3tr8bim1c8w8s00c8ck88k0ck4ooc",
         "github": "rahimabdi"
+      },
+      {
+        "href": "https://api.w3.org/users/jcxl4t5xn34g8co088s4skk08o0kgo8",
+        "github": "dd8"
       }
     ],
     "ies": [
@@ -2048,7 +2266,7 @@
           "editors": [
             {
               "shortname": "wai-aria-1.3",
-              "date": "20240123"
+              "date": "20260604"
             }
           ]
         },
@@ -2090,7 +2308,7 @@
             },
             {
               "shortname": "accname-1.2",
-              "date": "20251216"
+              "date": "20260923"
             }
           ]
         },
@@ -2122,12 +2340,12 @@
           "chair": false,
           "editors": []
         },
-        "github": "PaulRayius",
+        "github": "PaulRayius-2",
         "affiliations": [
           {
-            "name": "Allyant",
-            "homepage": "https://allyant.com/",
-            "href": "https://api.w3.org/affiliations/151802"
+            "name": "PDFix-US",
+            "homepage": "https://pdfix.net/",
+            "href": "https://api.w3.org/affiliations/174684"
           }
         ]
       },
@@ -2230,7 +2448,11 @@
           "editors": [
             {
               "shortname": "core-aam-1.2",
-              "date": "20251216"
+              "date": "20260923"
+            },
+            {
+              "shortname": "svg-aam-1.0",
+              "date": "20260924"
             }
           ]
         },
@@ -2253,16 +2475,90 @@
             "href": "https://api.w3.org/affiliations/160192"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/ppvkib91zg0o0c4ssgww0okokk4oc0s",
+        "name": "Patrick Foster",
+        "created": "2026-01-19 12:40:14",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "PatrickFoster-axes4",
+        "affiliations": [
+          {
+            "name": "axes4 GmbH",
+            "homepage": "http://axes4.com",
+            "href": "https://api.w3.org/affiliations/173958"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/st0xf4hvd1wogw00wgkkgkcw4wgwss0",
+        "name": "Peter Wyatt",
+        "created": "2026-01-22 05:26:05",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "petervwyatt",
+        "affiliations": [
+          {
+            "name": "PDF Association",
+            "href": "https://api.w3.org/affiliations/133544"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/4m3ly7w2py808s4cwkwsgw4sgg4o80c",
+        "name": "Matthew King",
+        "created": "2026-05-08 03:25:56",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "wai-aria-practices-1.1",
+              "date": "20220519"
+            },
+            {
+              "shortname": "wai-aria-practices-1.2",
+              "date": "20220519"
+            }
+          ]
+        },
+        "github": "mcking65",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/hvcf7dbgdxs8kw84808kgogsg404sk0",
+        "name": "Theo Hale",
+        "created": "2026-05-18 19:00:16",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "HaTheo",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/eufbabu1eggs8gsossocss0kookc0so",
+        "name": "Shirisha Gubba",
+        "created": "2026-08-31 15:41:10",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 106,
     "numberOfChairs": 2,
-    "numberOfIE": 13,
+    "numberOfIE": 18,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 26,
-    "numberOfIEEditors": 4,
-    "numberOfSpecs": 18,
-    "numberOfSpecWithIEEditors": 6
+    "numberOfEditors": 31,
+    "numberOfIEEditors": 5,
+    "numberOfSpecs": 21,
+    "numberOfSpecWithIEEditors": 7
   },
   {
     "id": 46884,
@@ -2316,11 +2612,26 @@
         },
         "github": "chrisguttandin",
         "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/7wtd0z7fqt4wk88owos04coko84w8ck",
+        "name": "Athan Billias",
+        "created": "2026-04-03 15:29:30",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "MIDI Manufacturers Assoc.",
+            "href": "https://api.w3.org/affiliations/81319"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 39,
     "numberOfChairs": 3,
-    "numberOfIE": 1,
+    "numberOfIE": 2,
     "numberOfIEChairs": 0,
     "numberOfEditors": 9,
     "numberOfIEEditors": 0,
@@ -2396,7 +2707,7 @@
             },
             {
               "shortname": "webdriver2",
-              "date": "20251028"
+              "date": "20260702"
             }
           ]
         },
@@ -2434,11 +2745,33 @@
             "href": "https://api.w3.org/affiliations/132874"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/8utu6lvr0zcw4osggg0swoo4owks40c",
+        "name": "Titus Fortner",
+        "created": "2026-07-24 15:19:22",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "titusfortner",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/me9cfn7fwa8oc8s4ko480ggwcwo8sw8",
+        "name": "Jim Evans",
+        "created": "2026-08-07 12:19:01",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "jimevans",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 54,
+    "numberOfParticipants": 62,
     "numberOfChairs": 1,
-    "numberOfIE": 5,
+    "numberOfIE": 7,
     "numberOfIEChairs": 1,
     "numberOfEditors": 5,
     "numberOfIEEditors": 1,
@@ -2610,10 +2943,6 @@
         "github": "jacobrossi"
       },
       {
-        "href": "https://api.w3.org/users/p79h1ov3r8gg4gc8scg448ow4c4gcgg",
-        "github": "jensimmons"
-      },
-      {
         "href": "https://api.w3.org/users/e39bdhr201cscko88os4wc4c8ooskwo",
         "github": "birtles"
       },
@@ -2634,11 +2963,8 @@
         "github": "megangardner"
       },
       {
-        "href": "https://api.w3.org/users/qbgu03z6yf4480k0sk80kg0sswwck0w",
-        "github": "dlibby-"
-      },
-      {
-        "href": "https://api.w3.org/users/b6k7313lquosgsoswgowgcsok8sc8gk"
+        "href": "https://api.w3.org/users/b6k7313lquosgsoswgowgcsok8sc8gk",
+        "github": "SimonSapin"
       },
       {
         "href": "https://api.w3.org/users/i80p5bskshwgggwgks84kgoggsc8ko0",
@@ -2655,10 +2981,6 @@
       {
         "href": "https://api.w3.org/users/p1yfz5si72ocs8w480ggs4wgok84cgk",
         "github": "LJWatson"
-      },
-      {
-        "href": "https://api.w3.org/users/h6831kguqzkg8ggs4cwsgwsk8gg4oc8",
-        "github": "argyleink"
       },
       {
         "href": "https://api.w3.org/users/79ladchi8mo8ogoco00oss80cgw8kos",
@@ -2704,6 +3026,10 @@
         "github": "khushalsagar"
       },
       {
+        "href": "https://api.w3.org/users/h6831kguqzkg8ggs4cwsgwsk8gg4oc8",
+        "github": "argyleink"
+      },
+      {
         "href": "https://api.w3.org/users/3qpx7pzskzqc48c4oskgscw8swkoc8o",
         "github": "noamr"
       },
@@ -2712,20 +3038,12 @@
         "github": "SebastianZ"
       },
       {
-        "href": "https://api.w3.org/users/j29dw0wixo0so4ww0w8wwg4sk4ck0wg",
-        "github": "una"
-      },
-      {
         "href": "https://api.w3.org/users/esvttj7htwoo0osc0sswg4oo4ckocc4",
         "github": "nt1m"
       },
       {
         "href": "https://api.w3.org/users/lou8e4khc9wwk8o8cgksk40scggcgs0",
         "github": "Loirooriol"
-      },
-      {
-        "href": "https://api.w3.org/users/g460lxaqzb40cwg4c8g008kgwkcs8g0",
-        "github": "kbabbitt"
       },
       {
         "href": "https://api.w3.org/users/tvxpbi279lw44gggggoo0sg0k0c4k04",
@@ -2748,14 +3066,42 @@
         "github": "fergald"
       },
       {
-        "href": "https://api.w3.org/users/lb38w3xd59ck08kco04go8w4c0ggwog",
-        "github": "stwrt"
-      },
-      {
         "href": "https://api.w3.org/users/mvz2ze31qkgwcsgggocossws44oscsg"
       },
       {
         "href": "https://api.w3.org/users/18zodei8ttc040wo4wgskcg8o4kck4o"
+      },
+      {
+        "href": "https://api.w3.org/users/p79h1ov3r8gg4gc8scg448ow4c4gcgg",
+        "github": "jensimmons"
+      },
+      {
+        "href": "https://api.w3.org/users/lb38w3xd59ck08kco04go8w4c0ggwog",
+        "github": "stwrt"
+      },
+      {
+        "href": "https://api.w3.org/users/qbgu03z6yf4480k0sk80kg0sswwck0w",
+        "github": "dlibby-"
+      },
+      {
+        "href": "https://api.w3.org/users/1vok2c6vbyg0gowgsk0o44g4ww0ckcs",
+        "github": "lukewarlow"
+      },
+      {
+        "href": "https://api.w3.org/users/g460lxaqzb40cwg4c8g008kgwkcs8g0",
+        "github": "kbabbitt"
+      },
+      {
+        "href": "https://api.w3.org/users/ptsvqtxqkzk408owocok04w04kscwgo",
+        "github": "jwatt"
+      },
+      {
+        "href": "https://api.w3.org/users/3fiw58f0xygwokwwc4c4wgw4g8s8oc0",
+        "github": "dholbert"
+      },
+      {
+        "href": "https://api.w3.org/users/j29dw0wixo0so4ww0w8wwg4sk4ck0wg",
+        "github": "una"
       }
     ],
     "ies": [
@@ -2775,10 +3121,6 @@
               "date": "20170131"
             },
             {
-              "shortname": "css-ui-3",
-              "date": "20180621"
-            },
-            {
               "shortname": "css-2018",
               "date": "20190122"
             },
@@ -2791,24 +3133,12 @@
               "date": "20201222"
             },
             {
-              "shortname": "css-ui-4",
-              "date": "20210316"
-            },
-            {
               "shortname": "css-scrollbars-1",
               "date": "20211209"
             },
             {
               "shortname": "css-highlight-api-1",
               "date": "20211215"
-            },
-            {
-              "shortname": "mediaqueries-5",
-              "date": "20211218"
-            },
-            {
-              "shortname": "mediaqueries-4",
-              "date": "20211225"
             },
             {
               "shortname": "css-2021",
@@ -2851,16 +3181,8 @@
               "date": "20240521"
             },
             {
-              "shortname": "css-text-4",
-              "date": "20240529"
-            },
-            {
               "shortname": "css-contain-1",
               "date": "20240625"
-            },
-            {
-              "shortname": "css-text-3",
-              "date": "20240930"
             },
             {
               "shortname": "css-overflow-5",
@@ -2881,6 +3203,38 @@
             {
               "shortname": "css-overflow-3",
               "date": "20251007"
+            },
+            {
+              "shortname": "css-ui-4",
+              "date": "20260120"
+            },
+            {
+              "shortname": "mediaqueries-4",
+              "date": "20260219"
+            },
+            {
+              "shortname": "mediaqueries-5",
+              "date": "20260219"
+            },
+            {
+              "shortname": "css-ui-3",
+              "date": "20260407"
+            },
+            {
+              "shortname": "css-image-animation-1",
+              "date": "20260409"
+            },
+            {
+              "shortname": "css-2026",
+              "date": "20260622"
+            },
+            {
+              "shortname": "css-text-3",
+              "date": "20260814"
+            },
+            {
+              "shortname": "css-text-4",
+              "date": "20260814"
             }
           ]
         },
@@ -2967,6 +3321,10 @@
             {
               "shortname": "css-borders-4",
               "date": "20251216"
+            },
+            {
+              "shortname": "css-2026",
+              "date": "20260622"
             }
           ]
         },
@@ -3021,8 +3379,8 @@
               "date": "20230606"
             },
             {
-              "shortname": "css-transitions-2",
-              "date": "20230905"
+              "shortname": "css-easing-2",
+              "date": "20240829"
             },
             {
               "shortname": "web-animations-2",
@@ -3031,6 +3389,10 @@
             {
               "shortname": "css-transitions-1",
               "date": "20260108"
+            },
+            {
+              "shortname": "css-transitions-2",
+              "date": "20260204"
             }
           ]
         },
@@ -3087,14 +3449,6 @@
               "date": "20231218"
             },
             {
-              "shortname": "css-color-5",
-              "date": "20250318"
-            },
-            {
-              "shortname": "css-color-4",
-              "date": "20250424"
-            },
-            {
               "shortname": "css-images-4",
               "date": "20250930"
             },
@@ -3109,6 +3463,14 @@
             {
               "shortname": "css-borders-4",
               "date": "20251216"
+            },
+            {
+              "shortname": "css-color-5",
+              "date": "20260913"
+            },
+            {
+              "shortname": "css-color-4",
+              "date": "20260926"
             }
           ]
         },
@@ -3199,16 +3561,71 @@
         },
         "github": "castastrophe",
         "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/rzncrk7nd2os4cskc4kws40ccc84o44",
+        "name": "Chris Coyier",
+        "created": "2026-04-08 21:28:07",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "chriscoyier",
+        "affiliations": [
+          {
+            "name": "CodePen",
+            "homepage": "https://codepen.io",
+            "href": "https://api.w3.org/affiliations/175963"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/kl41vbmdy2o4ksw0csgw8wkccsg48sc",
+        "name": "Cameron Theißen",
+        "created": "2026-06-16 18:33:14",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "Psychpsyo",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/g9wlbwafwn408g0s4c8sg04k404ws4s",
+        "name": "Estelle Weyl",
+        "created": "2026-06-30 14:28:31",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "estelle",
+        "affiliations": [
+          {
+            "name": "Standardista",
+            "href": "https://api.w3.org/affiliations/117677"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/qocw6me27yoccgswokw8888g888sswc",
+        "name": "Dave Letorey",
+        "created": "2026-09-01 09:30:22",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "dletorey",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 183,
+    "numberOfParticipants": 192,
     "numberOfChairs": 2,
-    "numberOfIE": 16,
+    "numberOfIE": 20,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 82,
+    "numberOfEditors": 85,
     "numberOfIEEditors": 8,
-    "numberOfSpecs": 157,
-    "numberOfSpecWithIEEditors": 53
+    "numberOfSpecs": 161,
+    "numberOfSpecWithIEEditors": 56
   },
   {
     "id": 109611,
@@ -3217,7 +3634,7 @@
     "fullshortname": "ig/chinese-web",
     "editors": [],
     "ies": [],
-    "numberOfParticipants": 63,
+    "numberOfParticipants": 64,
     "numberOfChairs": 3,
     "numberOfIE": 0,
     "numberOfIEChairs": 0,
@@ -3258,64 +3675,83 @@
         "github": "kcoyle"
       },
       {
-        "href": "https://api.w3.org/users/ez5whckagcg0cog0wg8occsgggoog8c",
-        "github": "afs"
-      },
-      {
-        "href": "https://api.w3.org/users/eilsk5mhj0o4o8oo044wo4okwokc0wc",
-        "github": "robert-david"
-      },
-      {
-        "href": "https://api.w3.org/users/8e1y97wnjbc4gw4kgg48wowkwc48g0s",
-        "github": "recalcitrantsupplant"
-      },
-      {
-        "href": "https://api.w3.org/users/9naqo2mvs4cgsw48o4so8s0ssco0ccg",
-        "github": "ashleysommer"
-      },
-      {
         "href": "https://api.w3.org/users/3t8ccdk4azi8wskgg0gkoowkw8ok4oc",
         "github": "bergos"
+      },
+      {
+        "href": "https://api.w3.org/users/h42ex2p81og0wk0csgcgk8g0c0wg8wc",
+        "github": "edmondchuc"
+      },
+      {
+        "href": "https://api.w3.org/users/6yy0kjhr618oogog0kkg4kw00sc048w",
+        "github": "smessie"
+      },
+      {
+        "href": "https://api.w3.org/users/o7eq0z2wz80cskcc4gw040sowo488wc",
+        "github": "danielbeeke"
+      },
+      {
+        "href": "https://api.w3.org/users/lwj5fvwak2og8w4s4swgs8cw8g8k880",
+        "github": "nicholascar"
+      },
+      {
+        "href": "https://api.w3.org/users/iv6n8vgql5c8gcg0gw4sosk48c4gkkc",
+        "github": "scotthenninger"
       },
       {
         "href": "https://api.w3.org/users/duq0xa55gk084kooc0k0wcckgokosg4",
         "github": "YoucTagh"
       },
       {
+        "href": "https://api.w3.org/users/aftbmr61sgwkww8w4o04k0cooc4k8s8",
+        "github": "ajnelson-nist"
+      },
+      {
+        "href": "https://api.w3.org/users/l5vnrmdy8j4og4gs444o0sogwwgsckc",
+        "github": "mgberg"
+      },
+      {
+        "href": "https://api.w3.org/users/eilsk5mhj0o4o8oo044wo4okwokc0wc",
+        "github": "robert-david"
+      },
+      {
+        "href": "https://api.w3.org/users/npovjod1g34ogwgwscw0840oksowwoo",
+        "github": "liviorobaldo"
+      },
+      {
         "href": "https://api.w3.org/users/b39dpa6cki88csg4ko0scgc0w8oc884",
         "github": "jeswr"
+      },
+      {
+        "href": "https://api.w3.org/users/8e1y97wnjbc4gw4kgg48wowkwc48g0s",
+        "github": "recalcitrantsupplant"
+      },
+      {
+        "href": "https://api.w3.org/users/ez5whckagcg0cog0wg8occsgggoog8c",
+        "github": "afs"
       }
     ],
     "ies": [
-      {
-        "href": "https://api.w3.org/users/9naqo2mvs4cgsw48o4so8s0ssco0ccg",
-        "name": "Ashley Sommer",
-        "created": "2025-01-06 10:33:30",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "shacl12-sparql",
-              "date": "20251218"
-            }
-          ]
-        },
-        "github": "ashleysommer",
-        "affiliations": [
-          {
-            "name": "CSIRO",
-            "homepage": "http://www.csiro.au",
-            "href": "https://api.w3.org/affiliations/9923"
-          }
-        ]
-      },
       {
         "href": "https://api.w3.org/users/iv6n8vgql5c8gcg0gw4sosk48c4gkkc",
         "name": "Scott Henninger",
         "created": "2025-02-08 17:31:50",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "shacl12-profiling",
+              "date": "20260702"
+            },
+            {
+              "shortname": "shacl12-inference-rules",
+              "date": "20260917"
+            },
+            {
+              "shortname": "shacl12-sparql",
+              "date": "20260918"
+            }
+          ]
         },
         "github": "scotthenninger",
         "affiliations": [
@@ -3331,7 +3767,20 @@
         "created": "2025-05-05 13:45:25",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "shacl12-profiling",
+              "date": "20260702"
+            },
+            {
+              "shortname": "shacl12-inference-rules",
+              "date": "20260917"
+            },
+            {
+              "shortname": "shacl12-sparql",
+              "date": "20260918"
+            }
+          ]
         },
         "github": "mgberg",
         "affiliations": [
@@ -3359,7 +3808,16 @@
         "created": "2025-09-05 09:07:30",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "shacl12-inference-rules",
+              "date": "20260917"
+            },
+            {
+              "shortname": "shacl12-sparql",
+              "date": "20260918"
+            }
+          ]
         },
         "github": "liviorobaldo",
         "affiliations": [
@@ -3392,7 +3850,12 @@
         "created": "2025-10-11 16:00:34",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "shacl12-ui",
+              "date": "20260526"
+            }
+          ]
         },
         "github": "danielbeeke",
         "affiliations": [
@@ -3403,14 +3866,14 @@
         ]
       }
     ],
-    "numberOfParticipants": 32,
+    "numberOfParticipants": 31,
     "numberOfChairs": 2,
-    "numberOfIE": 7,
+    "numberOfIE": 6,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 14,
-    "numberOfIEEditors": 1,
-    "numberOfSpecs": 9,
-    "numberOfSpecWithIEEditors": 1
+    "numberOfEditors": 21,
+    "numberOfIEEditors": 4,
+    "numberOfSpecs": 12,
+    "numberOfSpecWithIEEditors": 4
   },
   {
     "id": 99375,
@@ -3438,10 +3901,6 @@
         "github": "nicholascar"
       },
       {
-        "href": "https://api.w3.org/users/np9xwc0pnmswcgkkg8gkg4cw8ogcwgw",
-        "github": "larsgsvensson"
-      },
-      {
         "href": "https://api.w3.org/users/cap5ldtrosg0cg08kg4444wg44c8o00",
         "github": "dr-shorthair"
       },
@@ -3464,29 +3923,69 @@
       {
         "href": "https://api.w3.org/users/fqhzwbpvxp4c0o0gcgoowwkw8kg8c4c",
         "github": "davebrowning"
+      },
+      {
+        "href": "https://api.w3.org/users/il82qd8o2kg0s8gokssgcsocck4o4s8",
+        "github": "leskneebone"
+      },
+      {
+        "href": "https://api.w3.org/users/duq0xa55gk084kooc0k0wcckgokosg4",
+        "github": "YoucTagh"
+      },
+      {
+        "href": "https://api.w3.org/users/np9xwc0pnmswcgkkg8gkg4cw8ogcwgw",
+        "github": "larsgsvensson"
       }
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/losx2h8y38gk0wokko8kgkgs4kkcok4",
-        "name": "Andrea Perego",
-        "created": "2022-07-13 13:19:45",
+        "href": "https://api.w3.org/users/d3sh0ism2z488wcoo4gs8g0g0s0ws8k",
+        "name": "Sarven Capadisli",
+        "created": "2026-05-09 09:49:22",
         "roles": {
           "chair": false,
-          "editors": [
-            {
-              "shortname": "vocab-dcat-3",
-              "date": "20240822"
-            }
-          ]
+          "editors": []
         },
-        "github": "andrea-perego",
+        "github": "csarven",
         "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/e4pidcyhkpkcggc4kg4cs84g0048swo",
+        "name": "Franck Cotton",
+        "created": "2026-05-11 10:11:00",
+        "roles": {
+          "chair": true,
+          "editors": []
+        },
+        "github": "FranckCo",
+        "affiliations": [
+          {
+            "name": "Making Sense",
+            "homepage": "https://making-sense.info/",
+            "href": "https://api.w3.org/affiliations/158947"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/jl71wmevs5k44gog4kg8wockk4kkksk",
+        "name": "Jakub Klímek",
+        "created": "2026-05-11 11:25:05",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "jakubklimek",
+        "affiliations": [
+          {
+            "name": "Charles University in Prague",
+            "href": "https://api.w3.org/affiliations/58418"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/5aednjp6r64oc48w8ccg84c40c4ccoo",
         "name": "Riccardo Albertoni",
-        "created": "2022-07-14 13:13:53",
+        "created": "2026-05-15 12:03:07",
         "roles": {
           "chair": false,
           "editors": [
@@ -3505,20 +4004,9 @@
         ]
       },
       {
-        "href": "https://api.w3.org/users/qkxdmplfkqsg48k0k04ckoccoowkgks",
-        "name": "Caroline Burle",
-        "created": "2022-07-14 13:39:22",
-        "roles": {
-          "chair": true,
-          "editors": []
-        },
-        "github": "cburle",
-        "affiliations": []
-      },
-      {
         "href": "https://api.w3.org/users/g1lvqrgzmpkwwkk00kgsowoko88888k",
         "name": "Alejandra Gonzalez Beltran",
-        "created": "2022-07-29 10:48:36",
+        "created": "2026-05-16 08:25:34",
         "roles": {
           "chair": false,
           "editors": [
@@ -3531,84 +4019,33 @@
         "github": "agbeltran",
         "affiliations": [
           {
-            "name": "Science and Technology Facilities Council",
-            "href": "https://api.w3.org/affiliations/117699"
+            "name": "UK Atomic Energy Authority",
+            "homepage": "https://www.ukaea.org/",
+            "href": "https://api.w3.org/affiliations/176811"
           }
         ]
       },
       {
-        "href": "https://api.w3.org/users/mis1bdvs12sckksoc0wc8cckcc4g0sk",
-        "name": "Peter Winstanley",
-        "created": "2022-08-01 11:36:28",
-        "roles": {
-          "chair": true,
-          "editors": [
-            {
-              "shortname": "vocab-dcat-3",
-              "date": "20240822"
-            }
-          ]
-        },
-        "github": "pwin",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/fqhzwbpvxp4c0o0gcgoowwkw8kg8c4c",
-        "name": "David Browning",
-        "created": "2023-10-01 10:58:14",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "vocab-dcat-3",
-              "date": "20240822"
-            }
-          ]
-        },
-        "github": "davebrowning",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/pgge491bgk08g4gwggosc8cw4kggc4c",
-        "name": "FATMA Chamekh",
-        "created": "2024-03-21 14:36:27",
+        "href": "https://api.w3.org/users/1w1ynrqf8b2808488wo0c8kwkcg8c08",
+        "name": "Dan Gillman",
+        "created": "2026-05-17 01:31:49",
         "roles": {
           "chair": false,
           "editors": []
         },
-        "affiliations": [
-          {
-            "name": "BRGM",
-            "homepage": "https://www.brgm.fr/fr",
-            "href": "https://api.w3.org/affiliations/143335"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/dl653l4ur5cs4ws84g8sc0w48owgksg",
-        "name": "Pavlina Fragkou",
-        "created": "2024-12-17 10:11:19",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": [
-          {
-            "name": "European Commission",
-            "href": "https://api.w3.org/affiliations/53717"
-          }
-        ]
+        "github": "dgillman4909bs",
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/np9xwc0pnmswcgkkg8gkg4cw8ogcwgw",
         "name": "Lars G. Svensson",
-        "created": "2025-09-22 08:35:28",
+        "created": "2026-05-18 11:07:12",
         "roles": {
           "chair": false,
           "editors": [
             {
               "shortname": "dx-prof-conneg",
-              "date": "20231002"
+              "date": "20260921"
             }
           ]
         },
@@ -3620,15 +4057,80 @@
             "href": "https://api.w3.org/affiliations/42051"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/9c2v8jlhb58oso4cc4sk444scgscw4s",
+        "name": "Arofan Gregory",
+        "created": "2026-05-18 12:40:33",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "CODATA",
+            "homepage": "http://codata.org",
+            "href": "https://api.w3.org/affiliations/156804"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/38lkm2e57nwg4040cgks84c4kgwokko",
+        "name": "Stephen Richard",
+        "created": "2026-06-23 16:14:07",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "smrgeoinfo",
+        "affiliations": [
+          {
+            "name": "U. S. Geoscience Information Network",
+            "href": "https://api.w3.org/affiliations/111601"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/qacitakycmos0k00gkkkssgcg8ogw8s",
+        "name": "Bart Kleijngeld",
+        "created": "2026-07-07 07:50:18",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "bartkl",
+        "affiliations": [
+          {
+            "name": "Alliander N.V.",
+            "homepage": "https://www.alliander.com",
+            "href": "https://api.w3.org/affiliations/177657"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/mis1bdvs12sckksoc0wc8cckcc4g0sk",
+        "name": "Peter Winstanley",
+        "created": "2026-07-07 17:26:36",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "vocab-dcat-3",
+              "date": "20240822"
+            }
+          ]
+        },
+        "github": "pwin",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 29,
-    "numberOfChairs": 2,
-    "numberOfIE": 9,
-    "numberOfIEChairs": 2,
-    "numberOfEditors": 12,
-    "numberOfIEEditors": 6,
-    "numberOfSpecs": 4,
+    "numberOfParticipants": 28,
+    "numberOfChairs": 3,
+    "numberOfIE": 11,
+    "numberOfIEChairs": 1,
+    "numberOfEditors": 14,
+    "numberOfIEEditors": 4,
+    "numberOfSpecs": 5,
     "numberOfSpecWithIEEditors": 2
   },
   {
@@ -3646,8 +4148,7 @@
         "github": "philarcher"
       },
       {
-        "href": "https://api.w3.org/users/l3csqk7qrpc40ccsgw0gkoc0cscgkws",
-        "github": "kimdhamilton"
+        "href": "https://api.w3.org/users/l3csqk7qrpc40ccsgw0gkoc0cscgkws"
       },
       {
         "href": "https://api.w3.org/users/d8d7k0eoki88kg8ckck80gk80ockcks"
@@ -3676,16 +4177,20 @@
         "github": "peacekeeper"
       },
       {
-        "href": "https://api.w3.org/users/7qp9fzgi8wgss480kgk4k0os4c8s4kk",
-        "github": "dhh1128"
-      },
-      {
         "href": "https://api.w3.org/users/rrnxaq3jdo0sokw08o0os80soccsgww",
         "github": "rhiaro"
       },
       {
         "href": "https://api.w3.org/users/i5y21d0k17kg00ck8c80o0c48cg8okk",
         "github": "dmitrizagidulin"
+      },
+      {
+        "href": "https://api.w3.org/users/6yd2b1ox988wg4sgc0oookcw48gc40s",
+        "github": "swcurran"
+      },
+      {
+        "href": "https://api.w3.org/users/mbzdtq5kyes84oo4kscs04go44wkcgk",
+        "github": "wip-abramson"
       }
     ],
     "ies": [
@@ -3702,7 +4207,6 @@
             }
           ]
         },
-        "github": "kimdhamilton",
         "affiliations": []
       },
       {
@@ -3744,12 +4248,7 @@
         "created": "2024-06-14 10:05:12",
         "roles": {
           "chair": false,
-          "editors": [
-            {
-              "shortname": "did-rubric",
-              "date": "20211119"
-            }
-          ]
+          "editors": []
         },
         "github": "dhh1128",
         "affiliations": []
@@ -3771,7 +4270,12 @@
         "created": "2024-09-04 22:39:43",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "did-resolution-1.0",
+              "date": "20260828"
+            }
+          ]
         },
         "github": "swcurran",
         "affiliations": [
@@ -3790,11 +4294,7 @@
           "editors": [
             {
               "shortname": "did-1.1",
-              "date": "20250918"
-            },
-            {
-              "shortname": "did-resolution",
-              "date": "20260107"
+              "date": "20260305"
             }
           ]
         },
@@ -3828,23 +4328,6 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/61kki22dw0w0coww8s040oksc8wsogs",
-        "name": "Otto Mora",
-        "created": "2025-02-19 23:18:53",
-        "roles": {
-          "chair": true,
-          "editors": []
-        },
-        "github": "ottomorac",
-        "affiliations": [
-          {
-            "name": "Privado ID",
-            "homepage": "https://www.privado.id/",
-            "href": "https://api.w3.org/affiliations/164517"
-          }
-        ]
-      },
-      {
         "href": "https://api.w3.org/users/3l06p756yq040g0goko0wws4gwkoco4",
         "name": "Benjamin Goering",
         "created": "2025-06-05 22:54:44",
@@ -3854,16 +4337,80 @@
         },
         "github": "gobengo",
         "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/d9uql4ab314cokwgs88wkkkkw0cs4cs",
+        "name": "Markus Sabadello",
+        "created": "2026-02-20 16:21:45",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "did-imp-guide",
+              "date": "20211012"
+            },
+            {
+              "shortname": "did-1.0",
+              "date": "20220719"
+            },
+            {
+              "shortname": "did-extensions-resolution",
+              "date": "20241119"
+            },
+            {
+              "shortname": "did-extensions",
+              "date": "20251211"
+            },
+            {
+              "shortname": "did-extensions-properties",
+              "date": "20251211"
+            },
+            {
+              "shortname": "did-extensions-methods",
+              "date": "20260926"
+            }
+          ]
+        },
+        "github": "peacekeeper",
+        "affiliations": [
+          {
+            "name": "Danube Tech GmbH",
+            "homepage": "https://danubetech.com/",
+            "href": "https://api.w3.org/affiliations/117162"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/krnxmu03l8gw0wsssk8kgkg04k0ccw0",
+        "name": "Darius Kazemi",
+        "created": "2026-04-22 17:07:54",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "dariusk",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/61kki22dw0w0coww8s040oksc8wsogs",
+        "name": "Otto Mora",
+        "created": "2026-06-23 15:43:28",
+        "roles": {
+          "chair": true,
+          "editors": []
+        },
+        "github": "ottomorac",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 99,
+    "numberOfParticipants": 95,
     "numberOfChairs": 2,
-    "numberOfIE": 11,
+    "numberOfIE": 13,
     "numberOfIEChairs": 1,
-    "numberOfEditors": 13,
-    "numberOfIEEditors": 4,
+    "numberOfEditors": 14,
+    "numberOfIEEditors": 5,
     "numberOfSpecs": 11,
-    "numberOfSpecWithIEEditors": 6
+    "numberOfSpecWithIEEditors": 10
   },
   {
     "id": 43696,
@@ -3983,6 +4530,17 @@
         "github": "anssiko"
       },
       {
+        "href": "https://api.w3.org/users/rox8cuklvdw0k044s0kwsggosggccsk"
+      },
+      {
+        "href": "https://api.w3.org/users/jt1cdbkgur4o8c0okkkw4kksosskwg4",
+        "github": "reillyeon"
+      },
+      {
+        "href": "https://api.w3.org/users/9u10vobj018ocgk0s8448kc0gc4ogcw",
+        "github": "marcoscaceres"
+      },
+      {
         "href": "https://api.w3.org/users/kyd7kj6ew5wocwskckg84k4c08gosco",
         "github": "tomayac"
       },
@@ -3991,23 +4549,7 @@
         "github": "mkruisselbrink"
       },
       {
-        "href": "https://api.w3.org/users/rox8cuklvdw0k044s0kwsggosggccsk"
-      },
-      {
-        "href": "https://api.w3.org/users/9u10vobj018ocgk0s8448kc0gc4ogcw",
-        "github": "marcoscaceres"
-      },
-      {
-        "href": "https://api.w3.org/users/s040hiomo80g8g0c44g880w408gow0k",
-        "github": "darktears"
-      },
-      {
-        "href": "https://api.w3.org/users/5fmf9cd23rc4g4woggg8gkocgo4ckg0",
-        "github": "diekus"
-      },
-      {
-        "href": "https://api.w3.org/users/jt1cdbkgur4o8c0okkkw4kksosskwg4",
-        "github": "reillyeon"
+        "href": "https://api.w3.org/users/izyvr2ni8ug4okscosocwws4o88g4so"
       },
       {
         "href": "https://api.w3.org/users/isssevod2zw4ogcsgso0gwoscwsckks",
@@ -4018,7 +4560,8 @@
         "github": "arskama"
       },
       {
-        "href": "https://api.w3.org/users/izyvr2ni8ug4okscosocwws4o88g4so"
+        "href": "https://api.w3.org/users/s040hiomo80g8g0c44g880w408gow0k",
+        "github": "darktears"
       }
     ],
     "ies": [
@@ -4030,17 +4573,6 @@
           "chair": false,
           "editors": []
         },
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/bnhurro14vks48kck0wocs8o0kg08w0",
-        "name": "Christine Perey",
-        "created": "2022-12-17 08:53:26",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "cperey",
         "affiliations": []
       },
       {
@@ -4077,7 +4609,7 @@
           "editors": [
             {
               "shortname": "generic-sensor",
-              "date": "20251211"
+              "date": "20260514"
             }
           ]
         },
@@ -4086,9 +4618,9 @@
     ],
     "numberOfParticipants": 36,
     "numberOfChairs": 2,
-    "numberOfIE": 5,
+    "numberOfIE": 4,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 44,
+    "numberOfEditors": 43,
     "numberOfIEEditors": 1,
     "numberOfSpecs": 36,
     "numberOfSpecWithIEEditors": 1
@@ -4163,7 +4695,7 @@
         ]
       }
     ],
-    "numberOfParticipants": 21,
+    "numberOfParticipants": 23,
     "numberOfChairs": 1,
     "numberOfIE": 1,
     "numberOfIEChairs": 0,
@@ -4191,7 +4723,7 @@
         "affiliations": []
       }
     ],
-    "numberOfParticipants": 31,
+    "numberOfParticipants": 30,
     "numberOfChairs": 2,
     "numberOfIE": 1,
     "numberOfIEChairs": 0,
@@ -4331,11 +4863,56 @@
             "href": "https://api.w3.org/affiliations/116289"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/tczh7ootgmos8cckws84gossc4gogkc",
+        "name": "Emelia Smith",
+        "created": "2026-02-16 18:58:13",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "ThisIsMissEm",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/i5y21d0k17kg00ck8c80o0c48cg8okk",
+        "name": "Dmitri Zagidulin",
+        "created": "2026-03-20 15:10:06",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "dmitrizagidulin",
+        "affiliations": [
+          {
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "homepage": "https://web.mit.edu",
+            "href": "https://api.w3.org/affiliations/106237"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/futusl28wrcc40oscgkkk8ww8wo00gc",
+        "name": "Jarek Sygitowicz",
+        "created": "2026-07-06 13:59:51",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "JarekSyg",
+        "affiliations": [
+          {
+            "name": "Authologic",
+            "homepage": "https://authologic.com",
+            "href": "https://api.w3.org/affiliations/177313"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 103,
+    "numberOfParticipants": 114,
     "numberOfChairs": 2,
-    "numberOfIE": 8,
+    "numberOfIE": 11,
     "numberOfIEChairs": 1,
     "numberOfEditors": 4,
     "numberOfIEEditors": 0,
@@ -4349,18 +4926,6 @@
     "fullshortname": "wg/gpu",
     "editors": [
       {
-        "href": "https://api.w3.org/users/wuit4femyeoos4s8gs40g04gcoksos",
-        "github": "alan-baker"
-      },
-      {
-        "href": "https://api.w3.org/users/thvfbtikzmsw84g0os8swk40wwg4owc",
-        "github": "mehmetoguzderin"
-      },
-      {
-        "href": "https://api.w3.org/users/re4zqfdrpqo844coc8os4cwg84wss4o",
-        "github": "dneto0"
-      },
-      {
         "href": "https://api.w3.org/users/nsf3dmc1l2scwwoocco0o804wg8kggw",
         "github": "kainino0x"
       },
@@ -4371,6 +4936,18 @@
       {
         "href": "https://api.w3.org/users/ls8vvfolbpc0ogkc4ok4wgkkwowg04o",
         "github": "jimblandy"
+      },
+      {
+        "href": "https://api.w3.org/users/wuit4femyeoos4s8gs40g04gcoksos",
+        "github": "alan-baker"
+      },
+      {
+        "href": "https://api.w3.org/users/thvfbtikzmsw84g0os8swk40wwg4owc",
+        "github": "mehmetoguzderin"
+      },
+      {
+        "href": "https://api.w3.org/users/re4zqfdrpqo844coc8os4cwg84wss4o",
+        "github": "dneto0"
       }
     ],
     "ies": [
@@ -4383,7 +4960,7 @@
           "editors": [
             {
               "shortname": "WGSL",
-              "date": "20260106"
+              "date": "20260921"
             }
           ]
         },
@@ -4400,23 +4977,6 @@
         },
         "github": "cwfitzgerald",
         "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/5qwi04qltao80884c0440ggogssw4sk",
-        "name": "Xiaoshen X",
-        "created": "2024-07-22 05:50:39",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "l-xiaoshen",
-        "affiliations": [
-          {
-            "name": "Endoqa",
-            "homepage": "https://endoqa.io/",
-            "href": "https://api.w3.org/affiliations/157467"
-          }
-        ]
       },
       {
         "href": "https://api.w3.org/users/rpw00wq5hpckkoso808kggcw488gcg8",
@@ -4468,9 +5028,9 @@
         ]
       }
     ],
-    "numberOfParticipants": 65,
+    "numberOfParticipants": 73,
     "numberOfChairs": 2,
-    "numberOfIE": 7,
+    "numberOfIE": 6,
     "numberOfIEChairs": 0,
     "numberOfEditors": 6,
     "numberOfIEEditors": 1,
@@ -4549,10 +5109,6 @@
       {
         "href": "https://api.w3.org/users/md3wpp7t7z4gcwk84ggcss4ws4gk0oc",
         "github": "scottaohara"
-      },
-      {
-        "href": "https://api.w3.org/users/mjmlptdvqz4cgccksosw4gok4oowckk",
-        "github": "frivoal"
       }
     ],
     "ies": [
@@ -4562,25 +5118,20 @@
         "created": "2022-06-27 00:03:30",
         "roles": {
           "chair": false,
-          "editors": [
-            {
-              "shortname": "html-ruby-extensions",
-              "date": "20240627"
-            }
-          ]
+          "editors": []
         },
         "github": "frivoal",
         "affiliations": []
       }
     ],
-    "numberOfParticipants": 31,
+    "numberOfParticipants": 30,
     "numberOfChairs": 2,
     "numberOfIE": 1,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 19,
-    "numberOfIEEditors": 1,
-    "numberOfSpecs": 13,
-    "numberOfSpecWithIEEditors": 1
+    "numberOfEditors": 18,
+    "numberOfIEEditors": 0,
+    "numberOfSpecs": 12,
+    "numberOfSpecWithIEEditors": 0
   },
   {
     "id": 109735,
@@ -4611,17 +5162,6 @@
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/bnhurro14vks48kck0wocs8o0kg08w0",
-        "name": "Christine Perey",
-        "created": "2024-10-02 15:29:06",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "cperey",
-        "affiliations": []
-      },
-      {
         "href": "https://api.w3.org/users/f1wrfcrgyb4skkw0kw4swwocggcs8co",
         "name": "Leonard Daly",
         "created": "2024-10-15 19:03:38",
@@ -4644,20 +5184,25 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/rhqjqlvsbwgw08ck4ksk00000c088cc",
-        "name": "Kieran Farr",
-        "created": "2024-10-28 15:59:36",
+        "href": "https://api.w3.org/users/ha2idrsq0gocw0gc4888gw4o0o0so40",
+        "name": "Blair MacIntyre",
+        "created": "2026-02-17 15:24:23",
         "roles": {
           "chair": false,
           "editors": []
         },
-        "github": "kfarr",
-        "affiliations": []
+        "github": "blairmacintyre",
+        "affiliations": [
+          {
+            "name": "Northeastern University",
+            "href": "https://api.w3.org/affiliations/59673"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 84,
-    "numberOfChairs": 3,
-    "numberOfIE": 4,
+    "numberOfParticipants": 87,
+    "numberOfChairs": 2,
+    "numberOfIE": 3,
     "numberOfIEChairs": 1,
     "numberOfEditors": 5,
     "numberOfIEEditors": 0,
@@ -4788,165 +5333,17 @@
       {
         "href": "https://api.w3.org/users/rn71t045hu88gwwsg044s8c8w484gk",
         "github": "bert-github"
+      },
+      {
+        "href": "https://api.w3.org/users/45084px3wug4k048wscw8s0oksgwo4s",
+        "github": "murata2makoto"
       }
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/ot4x2xnfkyokgwg4skkocsoo84c0k4k",
-        "name": "Martin Dürst",
-        "created": "2021-10-04 12:20:25",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "ruby",
-              "date": "20010531"
-            },
-            {
-              "shortname": "ws-i18n-scenarios",
-              "date": "20040730"
-            },
-            {
-              "shortname": "charmod",
-              "date": "20050215"
-            },
-            {
-              "shortname": "charreq",
-              "date": "20090915"
-            }
-          ]
-        },
-        "github": "duerst",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/5ysc9281aa88gocsg8400cow0o4wgco",
-        "name": "David Clarke",
-        "created": "2021-10-08 07:12:04",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/1u31kc9qnlgkw4kgk0owoo0o08kwk8g",
-        "name": "Andrew Cunningham",
-        "created": "2021-10-08 10:54:31",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/qdkk81rtp344c44g0osoocgwwc8o4ss",
-        "name": "Bobby Tung",
-        "created": "2021-10-08 12:09:57",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": [
-          {
-            "name": "WANDERER Digital Publishing Inc.",
-            "href": "https://api.w3.org/affiliations/64436"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/mjmlptdvqz4cgccksosw4gok4oowckk",
-        "name": "Florian Rivoal",
-        "created": "2021-10-08 12:33:05",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "simple-ruby",
-              "date": "20200609"
-            }
-          ]
-        },
-        "github": "frivoal",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/jfn85ueixpkoosgc80oc8gc44s4k80w",
-        "name": "John Klensin",
-        "created": "2021-10-08 16:03:51",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/rmtx3kktmxwws8wsko40cgww40s4080",
-        "name": "Tatsuo KOBAYASHI",
-        "created": "2021-10-08 22:56:03",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "jlreq",
-              "date": "20200811"
-            }
-          ]
-        },
-        "github": "tlk714",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/b6tdzgef9l444skc40048kkcowk8gsw",
-        "name": "Toshi Kobayashi",
-        "created": "2021-10-09 00:22:58",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "jlreq",
-              "date": "20200811"
-            }
-          ]
-        },
-        "github": "KobayashiToshi",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/a3ublydd7g0sww4s048c84gcg40wgcg",
-        "name": "Matitiahu Allouche",
-        "created": "2021-10-15 09:04:11",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": [
-          {
-            "name": "Israel Internet Association (isoc-il)",
-            "homepage": "http://www.isoc.org.il/index_eng.html",
-            "href": "https://api.w3.org/affiliations/42318"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/ks2w0mzaikg0w8c8o8o0gc0888ow804",
-        "name": "François Yergeau",
-        "created": "2021-11-09 13:45:15",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "charmod",
-              "date": "20050215"
-            }
-          ]
-        },
-        "affiliations": []
-      },
-      {
         "href": "https://api.w3.org/users/ogx22j4ra00kooos004s8oso4wgkkg0",
         "name": "Addison Phillips",
-        "created": "2022-06-03 20:22:31",
+        "created": "2026-03-19 13:26:25",
         "roles": {
           "chair": true,
           "editors": [
@@ -4975,20 +5372,8 @@
               "date": "20201007"
             },
             {
-              "shortname": "charmod-norm",
-              "date": "20210811"
-            },
-            {
               "shortname": "i18n-glossary",
               "date": "20241017"
-            },
-            {
-              "shortname": "string-meta",
-              "date": "20241017"
-            },
-            {
-              "shortname": "string-search",
-              "date": "20250107"
             },
             {
               "shortname": "localizable-manifests",
@@ -4999,8 +5384,20 @@
               "date": "20250726"
             },
             {
+              "shortname": "string-meta",
+              "date": "20260716"
+            },
+            {
+              "shortname": "charmod-norm",
+              "date": "20260716"
+            },
+            {
               "shortname": "international-specs",
-              "date": "20250808"
+              "date": "20260807"
+            },
+            {
+              "shortname": "string-search",
+              "date": "20260930"
             }
           ]
         },
@@ -5008,20 +5405,9 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/q3a2e31zqfk8kg4cc4gw040ock00cks",
-        "name": "Yasuo Kida",
-        "created": "2025-02-10 03:45:18",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "kidayasuo",
-        "affiliations": []
-      },
-      {
         "href": "https://api.w3.org/users/l3uw56euxq8wkscsow8ssos8c8gg44s",
         "name": "Joel Sahleen",
-        "created": "2025-08-25 02:01:10",
+        "created": "2026-03-25 01:41:38",
         "roles": {
           "chair": true,
           "editors": []
@@ -5030,19 +5416,9 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/23ov8n1hnwlc4sc4gg8cgcow84g0w8c",
-        "name": "Andy Manea",
-        "created": "2025-09-24 11:48:15",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": []
-      },
-      {
         "href": "https://api.w3.org/users/i1ywku0ffjwcs8kscgok4s0k0g8084g",
         "name": "Zhaoyi Shen",
-        "created": "2025-10-24 02:20:48",
+        "created": "2026-03-25 02:17:58",
         "roles": {
           "chair": false,
           "editors": []
@@ -5055,16 +5431,153 @@
             "href": "https://api.w3.org/affiliations/172318"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/ot4x2xnfkyokgwg4skkocsoo84c0k4k",
+        "name": "Martin Dürst",
+        "created": "2026-03-25 03:02:21",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "ruby",
+              "date": "20010531"
+            },
+            {
+              "shortname": "ws-i18n-scenarios",
+              "date": "20040730"
+            },
+            {
+              "shortname": "charmod",
+              "date": "20050215"
+            },
+            {
+              "shortname": "charreq",
+              "date": "20090915"
+            }
+          ]
+        },
+        "github": "duerst",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/b6tdzgef9l444skc40048kkcowk8gsw",
+        "name": "Toshi Kobayashi",
+        "created": "2026-03-25 05:09:09",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "jlreq",
+              "date": "20200811"
+            }
+          ]
+        },
+        "github": "KobayashiToshi",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/jfn85ueixpkoosgc80oc8gc44s4k80w",
+        "name": "John Klensin",
+        "created": "2026-03-26 15:42:18",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/mjmlptdvqz4cgccksosw4gok4oowckk",
+        "name": "Florian Rivoal",
+        "created": "2026-03-27 07:11:34",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "simple-ruby",
+              "date": "20200609"
+            },
+            {
+              "shortname": "html-ruby-extensions",
+              "date": "20260604"
+            }
+          ]
+        },
+        "github": "frivoal",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/1u31kc9qnlgkw4kgk0owoo0o08kwk8g",
+        "name": "Andrew Cunningham",
+        "created": "2026-03-27 10:02:34",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/5ysc9281aa88gocsg8400cow0o4wgco",
+        "name": "David Clarke",
+        "created": "2026-03-27 22:15:40",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/q3a2e31zqfk8kg4cc4gw040ock00cks",
+        "name": "Yasuo Kida",
+        "created": "2026-03-28 00:52:39",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "kidayasuo",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/qdkk81rtp344c44g0osoocgwwc8o4ss",
+        "name": "Bobby Tung",
+        "created": "2026-04-04 07:32:34",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "WANDERER Digital Publishing Inc.",
+            "href": "https://api.w3.org/affiliations/64436"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/a3ublydd7g0sww4s048c84gcg40wgcg",
+        "name": "Matitiahu Allouche",
+        "created": "2026-04-19 08:16:47",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "matial",
+        "affiliations": [
+          {
+            "name": "Israel Internet Association (isoc-il)",
+            "homepage": "http://www.isoc.org.il/index_eng.html",
+            "href": "https://api.w3.org/affiliations/42318"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 37,
+    "numberOfParticipants": 33,
     "numberOfChairs": 2,
-    "numberOfIE": 15,
+    "numberOfIE": 12,
     "numberOfIEChairs": 2,
-    "numberOfEditors": 35,
-    "numberOfIEEditors": 6,
-    "numberOfSpecs": 100,
-    "numberOfSpecWithIEEditors": 18
+    "numberOfEditors": 36,
+    "numberOfIEEditors": 4,
+    "numberOfSpecs": 102,
+    "numberOfSpecWithIEEditors": 19
   },
   {
     "id": 107714,
@@ -5085,6 +5598,18 @@
       {
         "href": "https://api.w3.org/users/nicp0p3yeq88oo844c0wc4s0wgkwgwc",
         "github": "dlongley"
+      },
+      {
+        "href": "https://api.w3.org/users/dsy02f7hpzc4s00kkw40k4c8c8ccwc4",
+        "github": "anatoly-scherbakov"
+      },
+      {
+        "href": "https://api.w3.org/users/hhvask30a7co0gs0gcsgosgkowws0k4",
+        "github": "msporny"
+      },
+      {
+        "href": "https://api.w3.org/users/knymro1aa28sk44ckwwco4o08g88oco",
+        "github": "wes-smith"
       }
     ],
     "ies": [
@@ -5105,20 +5630,53 @@
         "created": "2026-01-06 18:05:29",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "yaml-ld-10",
+              "date": "20260928"
+            }
+          ]
         },
         "github": "anatoly-scherbakov",
         "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/krnxmu03l8gw0wsssk8kgkg04k0ccw0",
+        "name": "Darius Kazemi",
+        "created": "2026-04-22 17:09:03",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "dariusk",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/jmakvtm6bo08s4c4ok4so4so40sgsoo",
+        "name": "Daniele Sluijters",
+        "created": "2026-09-03 05:49:21",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "daenney",
+        "affiliations": [
+          {
+            "name": "Avinode",
+            "homepage": "https://avinode.com/",
+            "href": "https://api.w3.org/affiliations/179201"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 29,
+    "numberOfParticipants": 20,
     "numberOfChairs": 2,
-    "numberOfIE": 2,
+    "numberOfIE": 4,
     "numberOfIEChairs": 1,
-    "numberOfEditors": 4,
-    "numberOfIEEditors": 0,
-    "numberOfSpecs": 4,
-    "numberOfSpecWithIEEditors": 0
+    "numberOfEditors": 7,
+    "numberOfIEEditors": 1,
+    "numberOfSpecs": 6,
+    "numberOfSpecWithIEEditors": 1
   },
   {
     "id": 159634,
@@ -5129,6 +5687,14 @@
       {
         "href": "https://api.w3.org/users/mum0w0bwgnkcg8gg0cko0scwogsw4co",
         "github": "hzbarcea"
+      },
+      {
+        "href": "https://api.w3.org/users/1xl67nr2zk9ww8cwo0g0wg0k0ggs0wg",
+        "github": "ebremer"
+      },
+      {
+        "href": "https://api.w3.org/users/b39dpa6cki88csg4ko0scgc0w8oc884",
+        "github": "jeswr"
       }
     ],
     "ies": [
@@ -5208,28 +5774,12 @@
           "editors": [
             {
               "shortname": "lws-ucs",
-              "date": "20251117"
+              "date": "20260210"
             }
           ]
         },
         "github": "hzbarcea",
         "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/1kpp1lgp5i80s0ccgc4sk0w40g0sc8w",
-        "name": "Chris Johnson",
-        "created": "2025-09-05 21:02:14",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": [
-          {
-            "name": "Sync",
-            "homepage": "http://sync.com",
-            "href": "https://api.w3.org/affiliations/169523"
-          }
-        ]
       },
       {
         "href": "https://api.w3.org/users/8bwewkojcdgk4ggo008gww0ogos0o4w",
@@ -5252,15 +5802,48 @@
         },
         "github": "gobengo",
         "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/1e2yqn4gfao04ggwow8c8s440k00owk",
+        "name": "Pavlik elf",
+        "created": "2026-05-22 15:18:23",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "elf-pavlik",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/3jfg47ywvlmocggss0cogo4wk84gskk",
+        "name": "Jeremy Caine",
+        "created": "2026-07-06 17:54:35",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "jeremycaine",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/1z17voq0ro9w88w844cs4k08kkckc44",
+        "name": "Laurens Debackere",
+        "created": "2026-09-23 14:32:54",
+        "roles": {
+          "chair": true,
+          "editors": []
+        },
+        "github": "laurensdeb",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 41,
+    "numberOfParticipants": 44,
     "numberOfChairs": 3,
-    "numberOfIE": 9,
-    "numberOfIEChairs": 1,
-    "numberOfEditors": 1,
+    "numberOfIE": 11,
+    "numberOfIEChairs": 2,
+    "numberOfEditors": 3,
     "numberOfIEEditors": 1,
-    "numberOfSpecs": 1,
+    "numberOfSpecs": 7,
     "numberOfSpecWithIEEditors": 1
   },
   {
@@ -5330,8 +5913,9 @@
         "github": "davidfarmer",
         "affiliations": [
           {
-            "name": "American Institute of Mathematics",
-            "href": "https://api.w3.org/affiliations/112740"
+            "name": "PreTeXT Plus",
+            "homepage": "pretext.plus",
+            "href": "https://api.w3.org/affiliations/179745"
           }
         ]
       },
@@ -5413,7 +5997,7 @@
             },
             {
               "shortname": "mathml4",
-              "date": "20251218"
+              "date": "20260604"
             }
           ]
         },
@@ -5533,11 +6117,21 @@
             "href": "https://api.w3.org/affiliations/158861"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/9485huzvk4cgwk4wwosg4c0c4ggo8c0",
+        "name": "Milena Risi",
+        "created": "2026-01-14 15:34:41",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 23,
+    "numberOfParticipants": 25,
     "numberOfChairs": 2,
-    "numberOfIE": 11,
+    "numberOfIE": 12,
     "numberOfIEChairs": 1,
     "numberOfEditors": 14,
     "numberOfIEEditors": 3,
@@ -5566,20 +6160,9 @@
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/1rnjw3vyq5q8s8wgo848g0484kwkog0",
-        "name": "Mark Vickers",
-        "created": "2019-08-23 03:27:20",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "mavgit",
-        "affiliations": []
-      },
-      {
         "href": "https://api.w3.org/users/4wtlcol5y0owk8o44wsgo84owsowwsg",
         "name": "John Simmons",
-        "created": "2020-04-15 06:37:36",
+        "created": "2026-02-09 02:31:12",
         "roles": {
           "chair": false,
           "editors": []
@@ -5588,25 +6171,9 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/e807e11kxv4s800sgk4kcow8sw008gc",
-        "name": "Andreas Tai",
-        "created": "2021-02-01 07:35:01",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "andreastai",
-        "affiliations": [
-          {
-            "name": "andreastai.com",
-            "href": "https://api.w3.org/affiliations/130352"
-          }
-        ]
-      },
-      {
         "href": "https://api.w3.org/users/bpsxrlnv3xw88gw84owwgkww4g0c040",
         "name": "Christopher Lorenzo",
-        "created": "2024-09-18 11:47:24",
+        "created": "2026-02-09 02:40:44",
         "roles": {
           "chair": false,
           "editors": []
@@ -5623,7 +6190,7 @@
       {
         "href": "https://api.w3.org/users/81b749io48w0wow0s8o44goosgs0k8g",
         "name": "Kazuyuki Ashimura",
-        "created": "2025-11-25 04:07:05",
+        "created": "2026-02-09 02:53:28",
         "roles": {
           "chair": false,
           "editors": []
@@ -5638,9 +6205,9 @@
         ]
       }
     ],
-    "numberOfParticipants": 124,
+    "numberOfParticipants": 119,
     "numberOfChairs": 3,
-    "numberOfIE": 5,
+    "numberOfIE": 3,
     "numberOfIEChairs": 0,
     "numberOfEditors": 4,
     "numberOfIEEditors": 0,
@@ -5692,6 +6259,10 @@
         "github": "Djuffin"
       },
       {
+        "href": "https://api.w3.org/users/j4u8lnc0od4ck0scwswswoocsk84og4",
+        "github": "xhwang-chromium"
+      },
+      {
         "href": "https://api.w3.org/users/4vwlxiuf550k8os0o444cck8scooso0",
         "github": "steimelchrome"
       },
@@ -5706,101 +6277,20 @@
       {
         "href": "https://api.w3.org/users/g6hpoaxb91c0wkosgkg4c8oooscw0cc",
         "github": "beaufortfrancois"
+      },
+      {
+        "href": "https://api.w3.org/users/m4q4ojfk45s8c0w00wos8088kso4wck",
+        "github": "theIDinside"
       }
     ],
     "ies": [],
-    "numberOfParticipants": 82,
-    "numberOfChairs": 2,
+    "numberOfParticipants": 85,
+    "numberOfChairs": 3,
     "numberOfIE": 0,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 14,
+    "numberOfEditors": 16,
     "numberOfIEEditors": 0,
     "numberOfSpecs": 36,
-    "numberOfSpecWithIEEditors": 0
-  },
-  {
-    "id": 128558,
-    "name": "MiniApps Working Group",
-    "type": "wg",
-    "fullshortname": "wg/miniapps",
-    "editors": [
-      {
-        "href": "https://api.w3.org/users/gqq0mgdxyjw4kg0gooog8ggg484g88g"
-      },
-      {
-        "href": "https://api.w3.org/users/bna4s3f9go0g4w0wowgwggk4ko0oook"
-      },
-      {
-        "href": "https://api.w3.org/users/ry5fnjt943k0kwgo0004o040gssgo0o"
-      },
-      {
-        "href": "https://api.w3.org/users/no062ihljq8g8w0444w0sk8gwcg8goo"
-      },
-      {
-        "href": "https://api.w3.org/users/a9zh37vbdzc4o0wowsgog0g0gwcocks",
-        "github": "QingAn"
-      },
-      {
-        "href": "https://api.w3.org/users/fmypjmod6w0kc8gwcc4840gwc0k8o8"
-      },
-      {
-        "href": "https://api.w3.org/users/tgecmwnj0gg84k804kc40g4kwkoso0w",
-        "github": "espinr"
-      },
-      {
-        "href": "https://api.w3.org/users/saihuudonms0ogowkoww08gks8400o0"
-      },
-      {
-        "href": "https://api.w3.org/users/6l3b5qp62ps0k0ccgccg0wwgwwg0oo4",
-        "github": "Honry"
-      },
-      {
-        "href": "https://api.w3.org/users/nzeoka24ow008ss0o8w4owggks8cc0g"
-      },
-      {
-        "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk",
-        "github": "lianqi"
-      },
-      {
-        "href": "https://api.w3.org/users/2bhyv8h6u2ckc4wwsko88o4s040okok",
-        "github": "xfq"
-      },
-      {
-        "href": "https://api.w3.org/users/fdl2phh8rz4gwc04ckw0kg8k408c8c"
-      },
-      {
-        "href": "https://api.w3.org/users/dsckxzbop3k840gcsk4os80g4gw4k8g"
-      },
-      {
-        "href": "https://api.w3.org/users/9heax70f6p8o800k4048s8s0go4g8o4"
-      },
-      {
-        "href": "https://api.w3.org/users/fx0ejfyurg0s0wgoowg448kowkgkk84"
-      },
-      {
-        "href": "https://api.w3.org/users/6ec43xg53k84wgwo848o0c00c08woo4",
-        "github": "zhangyongjing"
-      }
-    ],
-    "ies": [
-      {
-        "href": "https://api.w3.org/users/lrtw1c4uaf44oowkkosc8gkk0ckso4g",
-        "name": "Yuqing Yang",
-        "created": "2024-11-01 14:36:57",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": []
-      }
-    ],
-    "numberOfParticipants": 32,
-    "numberOfChairs": 2,
-    "numberOfIE": 1,
-    "numberOfIEChairs": 0,
-    "numberOfEditors": 17,
-    "numberOfIEEditors": 0,
-    "numberOfSpecs": 6,
     "numberOfSpecWithIEEditors": 0
   },
   {
@@ -5822,7 +6312,7 @@
         "affiliations": []
       }
     ],
-    "numberOfParticipants": 26,
+    "numberOfParticipants": 27,
     "numberOfChairs": 3,
     "numberOfIE": 1,
     "numberOfIEChairs": 0,
@@ -5838,31 +6328,31 @@
     "fullshortname": "wg/pointer-events",
     "editors": [
       {
-        "href": "https://api.w3.org/users/rea1spx8n284kg48cgo80s40o80gsoo"
+        "href": "https://api.w3.org/users/osgl30im7s0kkgco04o4o00s8g08sgc",
+        "github": "jacobrossi"
       },
       {
-        "href": "https://api.w3.org/users/iw5yf27vasgkow4gcg0c8s0404ccwwg",
-        "github": "RByers"
+        "href": "https://api.w3.org/users/rea1spx8n284kg48cgo80s40o80gsoo"
       },
       {
         "href": "https://api.w3.org/users/8rixh672or8cwgsswso8ksc4cgcw84k",
         "github": "patrickhlauke"
       },
       {
-        "href": "https://api.w3.org/users/g0sfhzhpsdss4cgscg044k40occ8ksg",
-        "github": "NavidZ"
-      },
-      {
-        "href": "https://api.w3.org/users/osgl30im7s0kkgco04o4o00s8g08sgc",
-        "github": "jacobrossi"
-      },
-      {
         "href": "https://api.w3.org/users/fdxr57up3c0g004kc4kogcoo8480kgw",
         "github": "flackr"
+      },
+      {
+        "href": "https://api.w3.org/users/iw5yf27vasgkow4gcg0c8s0404ccwwg",
+        "github": "RByers"
+      },
+      {
+        "href": "https://api.w3.org/users/g0sfhzhpsdss4cgscg044k40occ8ksg",
+        "github": "NavidZ"
       }
     ],
     "ies": [],
-    "numberOfParticipants": 9,
+    "numberOfParticipants": 10,
     "numberOfChairs": 1,
     "numberOfIE": 0,
     "numberOfIEChairs": 0,
@@ -6001,6 +6491,7 @@
           "chair": true,
           "editors": []
         },
+        "github": "sandandsnow",
         "affiliations": []
       },
       {
@@ -6051,7 +6542,7 @@
           "editors": [
             {
               "shortname": "gpc",
-              "date": "20251217"
+              "date": "20260924"
             }
           ]
         },
@@ -6072,7 +6563,7 @@
           "editors": [
             {
               "shortname": "gpc",
-              "date": "20251217"
+              "date": "20260924"
             }
           ]
         },
@@ -6179,15 +6670,65 @@
           "editors": []
         },
         "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/an8azrearvkkow08ggooww0w0sg8cos",
+        "name": "Will Bamberg",
+        "created": "2026-02-19 01:26:46",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "wbamberg",
+        "affiliations": [
+          {
+            "name": "Open Web Docs",
+            "homepage": "https://openwebdocs.org",
+            "href": "https://api.w3.org/affiliations/145435"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/4dx952zoiykg80sk00sogcgkk8kgc4o",
+        "name": "Shreya Kochar",
+        "created": "2026-04-27 17:32:31",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "skochar1",
+        "affiliations": [
+          {
+            "name": "Carnegie Mellon University",
+            "href": "https://api.w3.org/affiliations/48883"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/t0mrzlc2e0gsswwwgo0cg0o48k0os00",
+        "name": "Beckett LeClair",
+        "created": "2026-07-16 08:05:05",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "5rbeckett",
+        "affiliations": [
+          {
+            "name": "5Rights Foundation",
+            "homepage": "http://5rightsfoundation.com",
+            "href": "https://api.w3.org/affiliations/159860"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 52,
+    "numberOfParticipants": 58,
     "numberOfChairs": 3,
-    "numberOfIE": 14,
+    "numberOfIE": 17,
     "numberOfIEChairs": 1,
     "numberOfEditors": 8,
     "numberOfIEEditors": 2,
-    "numberOfSpecs": 3,
+    "numberOfSpecs": 4,
     "numberOfSpecWithIEEditors": 1
   },
   {
@@ -6361,6 +6902,10 @@
       {
         "href": "https://api.w3.org/users/fj8c92794p44cs0cskkwokok0k8cow8",
         "github": "reidmore-online"
+      },
+      {
+        "href": "https://api.w3.org/users/dlxlg10h2cgkcc8g80s88o4ckkos8c8",
+        "github": "llemeurfr"
       }
     ],
     "ies": [
@@ -6458,7 +7003,7 @@
           "editors": [
             {
               "shortname": "epub-fxl-a11y",
-              "date": "20250925"
+              "date": "20260402"
             }
           ]
         },
@@ -6486,9 +7031,9 @@
     "numberOfChairs": 3,
     "numberOfIE": 9,
     "numberOfIEChairs": 2,
-    "numberOfEditors": 9,
+    "numberOfEditors": 10,
     "numberOfIEEditors": 1,
-    "numberOfSpecs": 16,
+    "numberOfSpecs": 20,
     "numberOfSpecWithIEEditors": 1
   },
   {
@@ -6498,14 +7043,6 @@
     "fullshortname": "wg/rdf-star",
     "editors": [
       {
-        "href": "https://api.w3.org/users/ez5whckagcg0cog0wg8occsgggoog8c",
-        "github": "afs"
-      },
-      {
-        "href": "https://api.w3.org/users/5l351hvf6kw848c0ooo884c8kcgoggk",
-        "github": "Tpt"
-      },
-      {
         "href": "https://api.w3.org/users/ocafw9i2a348g8okg0c0oog8kck4s4w",
         "github": "rubensworks"
       },
@@ -6514,20 +7051,12 @@
         "github": "domel"
       },
       {
-        "href": "https://api.w3.org/users/j1abbgdrjtc8o0oksokos4840c0okgo",
-        "github": "niklasl"
+        "href": "https://api.w3.org/users/5l351hvf6kw848c0ooo884c8kcgoggk",
+        "github": "Tpt"
       },
       {
-        "href": "https://api.w3.org/users/t891ludoisggsccsw44o8goccc0s0ks",
-        "github": "pchampin"
-      },
-      {
-        "href": "https://api.w3.org/users/4l7bci6vxq4gcwc448kwwogw48ocw0k",
-        "github": "kasei"
-      },
-      {
-        "href": "https://api.w3.org/users/51kr2s2vw9c8wgssc8ookg88488s8ks",
-        "github": "pfps"
+        "href": "https://api.w3.org/users/ez5whckagcg0cog0wg8occsgggoog8c",
+        "github": "afs"
       },
       {
         "href": "https://api.w3.org/users/8nomt3nm1n8cw4s44koggo4wcoo8w4s"
@@ -6537,12 +7066,36 @@
         "github": "hartig"
       },
       {
+        "href": "https://api.w3.org/users/t891ludoisggsccsw44o8goccc0s0ks",
+        "github": "pchampin"
+      },
+      {
+        "href": "https://api.w3.org/users/51kr2s2vw9c8wgssc8ookg88488s8ks",
+        "github": "pfps"
+      },
+      {
+        "href": "https://api.w3.org/users/4l7bci6vxq4gcwc448kwwogw48ocw0k",
+        "github": "kasei"
+      },
+      {
+        "href": "https://api.w3.org/users/tkgxmc97wpw448k844kwwogsk0cwckw",
+        "github": "rdfguy"
+      },
+      {
+        "href": "https://api.w3.org/users/j1abbgdrjtc8o0oksokos4840c0okgo",
+        "github": "niklasl"
+      },
+      {
         "href": "https://api.w3.org/users/jwtjh0djnaoos00c00cw4kg4kgwsw0k",
         "github": "doerthe"
       },
       {
         "href": "https://api.w3.org/users/s5qsla39msggw4occg484g0o04sk4kw",
         "github": "franconi"
+      },
+      {
+        "href": "https://api.w3.org/users/knigo694rv48wgw4wscccs4ow8w4gkg",
+        "github": "JervenBolleman"
       }
     ],
     "ies": [
@@ -6555,11 +7108,11 @@
           "editors": [
             {
               "shortname": "rdf12-concepts",
-              "date": "20251205"
+              "date": "20260407"
             },
             {
               "shortname": "sparql12-query",
-              "date": "20251228"
+              "date": "20260921"
             }
           ]
         },
@@ -6583,24 +7136,24 @@
               "date": "20241227"
             },
             {
-              "shortname": "rdf12-trig",
-              "date": "20251113"
-            },
-            {
-              "shortname": "rdf12-turtle",
-              "date": "20251219"
+              "shortname": "rdf12-schema",
+              "date": "20260328"
             },
             {
               "shortname": "rdf12-n-quads",
-              "date": "20251222"
+              "date": "20260723"
+            },
+            {
+              "shortname": "rdf12-turtle",
+              "date": "20260914"
+            },
+            {
+              "shortname": "rdf12-trig",
+              "date": "20260915"
             },
             {
               "shortname": "rdf12-n-triples",
-              "date": "20251222"
-            },
-            {
-              "shortname": "rdf12-schema",
-              "date": "20251226"
+              "date": "20260924"
             }
           ]
         },
@@ -6621,7 +7174,7 @@
           "editors": [
             {
               "shortname": "rdf12-semantics",
-              "date": "20251218"
+              "date": "20260924"
             }
           ]
         },
@@ -6643,15 +7196,16 @@
           "editors": [
             {
               "shortname": "rdf12-semantics",
-              "date": "20251218"
+              "date": "20260924"
             }
           ]
         },
         "github": "doerthe",
         "affiliations": [
           {
-            "name": "Technische Universität Dresden",
-            "href": "https://api.w3.org/affiliations/55694"
+            "name": "ScaDS.AI Dresden Leipzig",
+            "homepage": "https://scads.ai/",
+            "href": "https://api.w3.org/affiliations/177694"
           }
         ]
       },
@@ -6664,11 +7218,11 @@
           "editors": [
             {
               "shortname": "sparql12-entailment",
-              "date": "20250814"
+              "date": "20260409"
             },
             {
               "shortname": "rdf12-semantics",
-              "date": "20251218"
+              "date": "20260924"
             }
           ]
         },
@@ -6683,32 +7237,32 @@
           "chair": false,
           "editors": [
             {
-              "shortname": "sparql12-graph-store-protocol",
-              "date": "20241219"
-            },
-            {
               "shortname": "sparql12-results-xml",
               "date": "20241227"
             },
             {
               "shortname": "sparql12-update",
-              "date": "20250814"
-            },
-            {
-              "shortname": "sparql12-results-json",
-              "date": "20250814"
+              "date": "20260612"
             },
             {
               "shortname": "sparql12-results-csv-tsv",
-              "date": "20250814"
+              "date": "20260723"
             },
             {
               "shortname": "sparql12-protocol",
-              "date": "20250814"
+              "date": "20260723"
+            },
+            {
+              "shortname": "sparql12-results-json",
+              "date": "20260813"
             },
             {
               "shortname": "sparql12-query",
-              "date": "20251228"
+              "date": "20260921"
+            },
+            {
+              "shortname": "sparql12-graph-store-protocol",
+              "date": "20260924"
             }
           ]
         },
@@ -6765,7 +7319,12 @@
         "created": "2025-11-20 12:43:34",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "rdf12-xml",
+              "date": "20260924"
+            }
+          ]
         },
         "github": "JervenBolleman",
         "affiliations": [
@@ -6774,16 +7333,36 @@
             "href": "https://api.w3.org/affiliations/58538"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/tkgxmc97wpw448k844kwwogsk0cwckw",
+        "name": "Ora Lassila",
+        "created": "2026-03-25 10:04:42",
+        "roles": {
+          "chair": true,
+          "editors": [
+            {
+              "shortname": "rdf12-new",
+              "date": "20260714"
+            },
+            {
+              "shortname": "sparql12-new",
+              "date": "20260714"
+            }
+          ]
+        },
+        "github": "rdfguy",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 45,
+    "numberOfParticipants": 42,
     "numberOfChairs": 2,
-    "numberOfIE": 10,
-    "numberOfIEChairs": 0,
-    "numberOfEditors": 12,
-    "numberOfIEEditors": 6,
-    "numberOfSpecs": 20,
-    "numberOfSpecWithIEEditors": 15
+    "numberOfIE": 11,
+    "numberOfIEChairs": 1,
+    "numberOfEditors": 14,
+    "numberOfIEEditors": 8,
+    "numberOfSpecs": 22,
+    "numberOfSpecWithIEEditors": 18
   },
   {
     "id": 138751,
@@ -6856,7 +7435,7 @@
         "affiliations": []
       }
     ],
-    "numberOfParticipants": 28,
+    "numberOfParticipants": 24,
     "numberOfChairs": 1,
     "numberOfIE": 3,
     "numberOfIEChairs": 0,
@@ -6874,10 +7453,6 @@
       {
         "href": "https://api.w3.org/users/m0nmxf2r99w8kckwcw4oksg8ckwckcs",
         "github": "markafoltz"
-      },
-      {
-        "href": "https://api.w3.org/users/eucki5y575cs8gk88ks8o4g48gsoo88",
-        "github": "inexorabletash"
       },
       {
         "href": "https://api.w3.org/users/gcpqs4dcco0kcc0o08gcw848kckw0c4",
@@ -6914,11 +7489,11 @@
         ]
       }
     ],
-    "numberOfParticipants": 27,
+    "numberOfParticipants": 24,
     "numberOfChairs": 2,
     "numberOfIE": 2,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 3,
+    "numberOfEditors": 2,
     "numberOfIEEditors": 0,
     "numberOfSpecs": 5,
     "numberOfSpecWithIEEditors": 0
@@ -6940,6 +7515,29 @@
       {
         "href": "https://api.w3.org/users/alzrokq1rd44so8owk84888gogkk8cg",
         "github": "simoneonofri"
+      },
+      {
+        "href": "https://api.w3.org/users/jne3q1vioug4ww0s08kk00sw408808o",
+        "github": "verocri"
+      },
+      {
+        "href": "https://api.w3.org/users/tvk80x93kr4cwgs0o8wkkccw0swwwkg",
+        "github": "jandrieu"
+      },
+      {
+        "href": "https://api.w3.org/users/l2g7j930nwg008wwoswkc44o8o4soss",
+        "github": "llum0"
+      },
+      {
+        "href": "https://api.w3.org/users/3umc0oi7q9kw0g44kgg8k4o8sk48goo",
+        "github": "Sh-Amir"
+      },
+      {
+        "href": "https://api.w3.org/users/49uf65nnevokokk40os0kw0gw4wo80s",
+        "github": "BDADAD-stack"
+      },
+      {
+        "href": "https://api.w3.org/users/cg57vb8bxwggcso804ccgc4sw4wokss"
       }
     ],
     "ies": [
@@ -6949,7 +7547,12 @@
         "created": "2024-11-25 09:26:20",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "security-guidelines-cryptography",
+              "date": "20260129"
+            }
+          ]
         },
         "github": "verocri",
         "affiliations": [
@@ -6972,101 +7575,6 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/lk8juav998g0ggc8ow8w8swo4ckswck",
-        "name": "Thomas Jones",
-        "created": "2024-12-17 18:04:49",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "TomCJones",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/mlbvhudut7kkwko0g4scg4skkwgkc44",
-        "name": "Sebastian Crane",
-        "created": "2024-12-17 18:21:44",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "seabass-labrax",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/f9gvhiykfa8kwkggwoowcsk4ks8kggs",
-        "name": "Greg Bernstein",
-        "created": "2024-12-17 19:43:24",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "Wind4Greg",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/3umc0oi7q9kw0g44kgg8k4o8sk48goo",
-        "name": "Amir Sharif",
-        "created": "2024-12-17 21:50:14",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "Sh-Amir",
-        "affiliations": [
-          {
-            "name": "Fondazione Bruno Kessler",
-            "homepage": "https://www.fbk.eu",
-            "href": "https://api.w3.org/affiliations/41603"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/nrywastbhvkwk8kc0wkkscwckcg8wg4",
-        "name": "Xu Lin",
-        "created": "2024-12-18 22:02:55",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "xlin29",
-        "affiliations": [
-          {
-            "name": "Washington State University",
-            "homepage": "https://school.eecs.wsu.edu/",
-            "href": "https://api.w3.org/affiliations/162145"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/2j7xccbh5caosk88ggw4wgoggosswg0",
-        "name": "Alberto Fernandez-de-Retana",
-        "created": "2025-07-10 14:41:54",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "AlbertoFDR",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/4wuksksmv94ww8w44w8gkcgos848kos",
-        "name": "Zahra Ebadi Ansaroudi",
-        "created": "2025-08-05 11:40:18",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "ZAnsaroudi",
-        "affiliations": [
-          {
-            "name": "Fondazione Bruno Kessler",
-            "homepage": "https://www.fbk.eu",
-            "href": "https://api.w3.org/affiliations/41603"
-          }
-        ]
-      },
-      {
         "href": "https://api.w3.org/users/qx84ndknjuowksw0wkss8s0gkkw88kw",
         "name": "Michele Orru",
         "created": "2025-08-17 01:55:36",
@@ -7084,26 +7592,42 @@
         ]
       },
       {
-        "href": "https://api.w3.org/users/49uf65nnevokokk40os0kw0gw4wo80s",
-        "name": "Giovanni Corti",
-        "created": "2025-10-30 11:41:30",
+        "href": "https://api.w3.org/users/l2g7j930nwg008wwoswkc44o8o4soss",
+        "name": "Luca Lumini",
+        "created": "2026-02-16 10:26:10",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "security-disclosure",
+              "date": "20260824"
+            }
+          ]
+        },
+        "github": "llum0",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/2cygfhilsyzokwowwoo0swgk8g0cokc",
+        "name": "Chaals Nevile",
+        "created": "2026-05-14 08:13:10",
         "roles": {
           "chair": false,
           "editors": []
         },
-        "github": "BDADAD-stack",
+        "github": "chaals",
         "affiliations": [
           {
-            "name": "Fondazione Bruno Kessler",
-            "homepage": "https://www.fbk.eu",
-            "href": "https://api.w3.org/affiliations/41603"
+            "name": "Blockchain Security Standards Council Inc.",
+            "homepage": "https://www.blockchainssc.org",
+            "href": "https://api.w3.org/affiliations/176476"
           }
         ]
       },
       {
         "href": "https://api.w3.org/users/h6hq6o0qq680swkkw0ogc4g0kok0oo8",
         "name": "Nishant Jain",
-        "created": "2025-12-08 04:54:55",
+        "created": "2026-06-09 05:27:38",
         "roles": {
           "chair": false,
           "editors": []
@@ -7115,16 +7639,216 @@
             "href": "https://api.w3.org/affiliations/50155"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/5rv2mcnvl24gk0wg4occsc4sk48cgow",
+        "name": "Gabriel Corona",
+        "created": "2026-07-02 22:43:04",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "randomstuff",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/lk8juav998g0ggc8ow8w8swo4ckswck",
+        "name": "Thomas Jones",
+        "created": "2026-07-12 14:54:07",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "TomCJones",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/1e2yqn4gfao04ggwow8c8s440k00owk",
+        "name": "Pavlik elf",
+        "created": "2026-08-03 21:30:50",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "elf-pavlik",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 45,
+    "numberOfParticipants": 51,
     "numberOfChairs": 3,
-    "numberOfIE": 12,
+    "numberOfIE": 9,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 3,
-    "numberOfIEEditors": 0,
-    "numberOfSpecs": 1,
-    "numberOfSpecWithIEEditors": 0
+    "numberOfEditors": 9,
+    "numberOfIEEditors": 2,
+    "numberOfSpecs": 6,
+    "numberOfSpecWithIEEditors": 2
+  },
+  {
+    "id": 72531,
+    "name": "Social Web Working Group",
+    "type": "wg",
+    "fullshortname": "wg/social",
+    "editors": [
+      {
+        "href": "https://api.w3.org/users/l0j2aotjkg0w8ow8sgo4s0c4wsco4wk"
+      },
+      {
+        "href": "https://api.w3.org/users/d3sh0ism2z488wcoo4gs8g0g0s0ws8k",
+        "github": "csarven"
+      },
+      {
+        "href": "https://api.w3.org/users/rrnxaq3jdo0sokw08o0os80soccsgww",
+        "github": "rhiaro"
+      },
+      {
+        "href": "https://api.w3.org/users/5m3qrc054co4wkgocggk4s4kc8cw4wk",
+        "github": "jasnell"
+      },
+      {
+        "href": "https://api.w3.org/users/nnd90wuf7esgkosg004gosk4o4k84gc",
+        "github": "evanp"
+      },
+      {
+        "href": "https://api.w3.org/users/8xsqnfy4efocockog840g8cwsos4sc0"
+      },
+      {
+        "href": "https://api.w3.org/users/2iiqijs7crggkwg8wccs0g8kok8gssc",
+        "github": "tantek"
+      },
+      {
+        "href": "https://api.w3.org/users/hqgatuspqg8owk488o8wsw444s8c4o8"
+      },
+      {
+        "href": "https://api.w3.org/users/gwdyy0kocxs0wkksoss4sc08wskcwwg"
+      },
+      {
+        "href": "https://api.w3.org/users/its6vuc0hy0ccsg0oo4cgcwgcgg0kc4"
+      }
+    ],
+    "ies": [
+      {
+        "href": "https://api.w3.org/users/krnxmu03l8gw0wsssk8kgkg04k0ccw0",
+        "name": "Darius Kazemi",
+        "created": "2026-01-21 19:31:44",
+        "roles": {
+          "chair": true,
+          "editors": []
+        },
+        "github": "dariusk",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/d3sh0ism2z488wcoo4gs8g0g0s0ws8k",
+        "name": "Sarven Capadisli",
+        "created": "2026-02-17 17:23:28",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "ldn",
+              "date": "20170502"
+            }
+          ]
+        },
+        "github": "csarven",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/i5y21d0k17kg00ck8c80o0c48cg8okk",
+        "name": "Dmitri Zagidulin",
+        "created": "2026-03-06 17:11:36",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "dmitrizagidulin",
+        "affiliations": [
+          {
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "homepage": "https://web.mit.edu",
+            "href": "https://api.w3.org/affiliations/106237"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/4qyirzws09a8gc4cg8soskscsoc844o",
+        "name": "Abdullah Tarawneh",
+        "created": "2026-03-10 12:05:03",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "trwnh",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/2yarudt6romccoowks0go048k4gock8",
+        "name": "Manton Reece",
+        "created": "2026-03-18 14:54:22",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "Micro.blog",
+            "homepage": "https://micro.blog/",
+            "href": "https://api.w3.org/affiliations/143311"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/tczh7ootgmos8cckws84gossc4gogkc",
+        "name": "Emelia Smith",
+        "created": "2026-04-21 02:36:49",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "ThisIsMissEm",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/9efohqyxuhc8884g8wcscgwg44g80co",
+        "name": "Ryan Barrett",
+        "created": "2026-04-21 04:02:14",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "snarfed",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/qpxkhnslekg08c8w0cscc8soksooc4c",
+        "name": "Juan Caballero",
+        "created": "2026-05-23 14:17:56",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/h3zu2rme8f4g8owo0o0wsc0ws4oowck",
+        "name": "Daniel Supernault",
+        "created": "2026-08-20 23:10:20",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "dansup",
+        "affiliations": []
+      }
+    ],
+    "numberOfParticipants": 20,
+    "numberOfChairs": 1,
+    "numberOfIE": 9,
+    "numberOfIEChairs": 1,
+    "numberOfEditors": 10,
+    "numberOfIEEditors": 1,
+    "numberOfSpecs": 11,
+    "numberOfSpecWithIEEditors": 1
   },
   {
     "id": 75471,
@@ -7202,34 +7926,23 @@
         "github": "rjksmith"
       },
       {
-        "href": "https://api.w3.org/users/2oshicfoos004c0k8oog48k8os0cgk4",
-        "github": "KathiSchleidt"
-      },
-      {
-        "href": "https://api.w3.org/users/fanrn0rjxpckwgsg4cwkk04g4k4swg8",
-        "github": "sgrellet"
-      },
-      {
         "href": "https://api.w3.org/users/688sd23nsnwggwosgw40w8o04cwws08",
         "github": "oldskeptic"
       },
       {
         "href": "https://api.w3.org/users/6xmyt7xw9sco8ss8o8g0sw0ggk04408",
         "github": "ldesousa"
+      },
+      {
+        "href": "https://api.w3.org/users/2oshicfoos004c0k8oog48k8os0cgk4",
+        "github": "KathiSchleidt"
+      },
+      {
+        "href": "https://api.w3.org/users/fanrn0rjxpckwgsg4cwkk04g4k4swg8",
+        "github": "sgrellet"
       }
     ],
     "ies": [
-      {
-        "href": "https://api.w3.org/users/bnhurro14vks48kck0wocs8o0kg08w0",
-        "name": "Christine Perey",
-        "created": "2025-03-26 11:50:37",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "cperey",
-        "affiliations": []
-      },
       {
         "href": "https://api.w3.org/users/fanrn0rjxpckwgsg4cwkk04g4k4swg8",
         "name": "Sylvain Grellet",
@@ -7239,7 +7952,7 @@
           "editors": [
             {
               "shortname": "vocab-ssn-2023",
-              "date": "20250916"
+              "date": "20260929"
             }
           ]
         },
@@ -7282,7 +7995,7 @@
           "editors": [
             {
               "shortname": "vocab-ssn-2023",
-              "date": "20250916"
+              "date": "20260929"
             }
           ]
         },
@@ -7304,7 +8017,7 @@
           "editors": [
             {
               "shortname": "vocab-ssn-2023",
-              "date": "20250916"
+              "date": "20260929"
             }
           ]
         },
@@ -7322,11 +8035,11 @@
         "name": "Luís de Sousa",
         "created": "2025-04-09 06:51:01",
         "roles": {
-          "chair": false,
+          "chair": true,
           "editors": [
             {
               "shortname": "vocab-ssn-2023",
-              "date": "20250916"
+              "date": "20260929"
             }
           ]
         },
@@ -7338,16 +8051,36 @@
             "href": "https://api.w3.org/affiliations/166070"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/f1roa7ee19w8kwso4cwc0sswo40kskc",
+        "name": "Krzysztof Janowicz",
+        "created": "2026-08-11 05:53:51",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "vocab-ssn-2017",
+              "date": "20171019"
+            },
+            {
+              "shortname": "vocab-ssn-2023",
+              "date": "20260929"
+            }
+          ]
+        },
+        "github": "kjano",
+        "affiliations": []
       }
     ],
-    "numberOfParticipants": 19,
-    "numberOfChairs": 1,
+    "numberOfParticipants": 20,
+    "numberOfChairs": 2,
     "numberOfIE": 6,
-    "numberOfIEChairs": 0,
+    "numberOfIEChairs": 1,
     "numberOfEditors": 24,
-    "numberOfIEEditors": 5,
+    "numberOfIEEditors": 6,
     "numberOfSpecs": 9,
-    "numberOfSpecWithIEEditors": 2
+    "numberOfSpecWithIEEditors": 3
   },
   {
     "id": 161076,
@@ -7355,6 +8088,14 @@
     "type": "ig",
     "fullshortname": "ig/sustainableweb",
     "editors": [
+      {
+        "href": "https://api.w3.org/users/5s4803o63oo4c0oo0osso8w0wggoscw",
+        "github": "AlexDawsonUK"
+      },
+      {
+        "href": "https://api.w3.org/users/9fc2walkt6gwww08gw8gs4cc4gs4wsg",
+        "github": "fershad"
+      },
       {
         "href": "https://api.w3.org/users/b55n8qh2ht4osc444occc8s00sog8ck",
         "github": "codewordcreative"
@@ -7367,7 +8108,16 @@
         "created": "2024-10-30 15:11:01",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "wsg-ir",
+              "date": "20260820"
+            },
+            {
+              "shortname": "web-sustainability-guidelines",
+              "date": "20260924"
+            }
+          ]
         },
         "github": "AlexDawsonUK",
         "affiliations": []
@@ -7583,7 +8333,12 @@
         "created": "2024-12-17 04:57:08",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "wsg-ir",
+              "date": "20260820"
+            }
+          ]
         },
         "github": "fershad",
         "affiliations": [
@@ -7636,13 +8391,7 @@
           "editors": []
         },
         "github": "airbr",
-        "affiliations": [
-          {
-            "name": "CG Life",
-            "homepage": "https://cglife.com/",
-            "href": "https://api.w3.org/affiliations/156351"
-          }
-        ]
+        "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/3a1rvjzpxvwgooogwog44wkwk0w4csg",
@@ -7663,6 +8412,7 @@
           "chair": false,
           "editors": []
         },
+        "github": "thorstenjonas",
         "affiliations": []
       },
       {
@@ -7693,8 +8443,12 @@
           "chair": false,
           "editors": [
             {
+              "shortname": "wsg-ir",
+              "date": "20260820"
+            },
+            {
               "shortname": "web-sustainability-guidelines",
-              "date": "20260107"
+              "date": "20260924"
             }
           ]
         },
@@ -7849,40 +8603,35 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/c6pfe3p78vco8skwsos800cw0osgk0w",
-        "name": "Sorca Duffy",
-        "created": "2025-11-07 18:07:57",
+        "href": "https://api.w3.org/users/n1iiqf2ex80osk0kk88gkgwk0o08ss0",
+        "name": "Eloisa Guerrero",
+        "created": "2026-01-29 15:33:43",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "mylonelycomputer",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/3auvf6wypnok0cgwgoggwoc0cok04k4",
+        "name": "Emma Horrell",
+        "created": "2026-03-06 12:01:46",
         "roles": {
           "chair": false,
           "editors": []
         },
         "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/myhhai0ll5ww0wwwksowgc8c8wokscc",
-        "name": "Chris Butterworth",
-        "created": "2026-01-06 19:27:51",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "ChrisButterworth",
-        "affiliations": [
-          {
-            "name": "Studio 24",
-            "href": "https://api.w3.org/affiliations/115242"
-          }
-        ]
       }
     ],
-    "numberOfParticipants": 60,
+    "numberOfParticipants": 59,
     "numberOfChairs": 3,
     "numberOfIE": 37,
     "numberOfIEChairs": 3,
-    "numberOfEditors": 1,
-    "numberOfIEEditors": 1,
-    "numberOfSpecs": 1,
-    "numberOfSpecWithIEEditors": 1
+    "numberOfEditors": 3,
+    "numberOfIEEditors": 3,
+    "numberOfSpecs": 2,
+    "numberOfSpecWithIEEditors": 2
   },
   {
     "id": 19480,
@@ -8004,10 +8753,6 @@
         "github": "AmeliaBR"
       },
       {
-        "href": "https://api.w3.org/users/6jnzltrz22w44sk4ckwswos8s044ok8",
-        "github": "IanPouncey"
-      },
-      {
         "href": "https://api.w3.org/users/9zeia4f1o60ck8sgggswsoo4c4wos8o",
         "github": "boggydigital"
       },
@@ -8053,13 +8798,13 @@
         ]
       }
     ],
-    "numberOfParticipants": 29,
+    "numberOfParticipants": 30,
     "numberOfChairs": 1,
     "numberOfIE": 2,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 39,
+    "numberOfEditors": 38,
     "numberOfIEEditors": 0,
-    "numberOfSpecs": 31,
+    "numberOfSpecs": 30,
     "numberOfSpecWithIEEditors": 0
   },
   {
@@ -8087,16 +8832,16 @@
         "github": "cconcolato"
       },
       {
-        "href": "https://api.w3.org/users/8tfh2eebqvwgg4sg84gckcoc8ko8w4s",
-        "github": "silviapfeiffer"
+        "href": "https://api.w3.org/users/obnus47eozk08go8kswckc0ckkogcks",
+        "github": "nigelmegitt"
+      },
+      {
+        "href": "https://api.w3.org/users/fadkg57sknc4ogo48owskw4owgc8coc",
+        "github": "gkatsev"
       },
       {
         "href": "https://api.w3.org/users/496ybn4ztdq844004s00ww4kkss04wc",
         "github": "mikedo"
-      },
-      {
-        "href": "https://api.w3.org/users/obnus47eozk08go8kswckc0ckkogcks",
-        "github": "nigelmegitt"
       }
     ],
     "ies": [
@@ -8119,7 +8864,7 @@
           "editors": [
             {
               "shortname": "ttml-profile-registry",
-              "date": "20201119"
+              "date": "20260702"
             }
           ]
         },
@@ -8132,12 +8877,7 @@
         "created": "2020-12-18 19:02:49",
         "roles": {
           "chair": false,
-          "editors": [
-            {
-              "shortname": "webvtt1",
-              "date": "20190404"
-            }
-          ]
+          "editors": []
         },
         "github": "silviapfeiffer",
         "affiliations": []
@@ -8180,10 +8920,6 @@
             {
               "shortname": "ttml2",
               "date": "20210309"
-            },
-            {
-              "shortname": "ttml-profile-registry",
-              "date": "20201119"
             }
           ]
         },
@@ -8202,7 +8938,12 @@
         "created": "2023-07-25 03:26:12",
         "roles": {
           "chair": true,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "webvtt1",
+              "date": "20260520"
+            }
+          ]
         },
         "github": "gkatsev",
         "affiliations": []
@@ -8222,16 +8963,70 @@
             "href": "https://api.w3.org/affiliations/111725"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/3l1q0ejxl62okc8g48kk8s048wk4ko0",
+        "name": "Pierre-Anthony Lemieux",
+        "created": "2026-01-19 05:52:57",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "ttml-imsc1.0.1",
+              "date": "20180424"
+            },
+            {
+              "shortname": "ttml-imsc1",
+              "date": "20180626"
+            },
+            {
+              "shortname": "imsc-1.1-reqs",
+              "date": "20180925"
+            },
+            {
+              "shortname": "ttml1",
+              "date": "20181108"
+            },
+            {
+              "shortname": "ttml-imsc1.1",
+              "date": "20181108"
+            },
+            {
+              "shortname": "ttml-imsc1.2",
+              "date": "20200804"
+            },
+            {
+              "shortname": "imsc-hrm",
+              "date": "20240425"
+            },
+            {
+              "shortname": "png-hdr-pq",
+              "date": "20250518"
+            },
+            {
+              "shortname": "ttml-imsc1.3",
+              "date": "20260521"
+            }
+          ]
+        },
+        "github": "palemieux",
+        "affiliations": [
+          {
+            "name": "Sandflow Consulting LLC",
+            "homepage": "https://www.sandflow.com/",
+            "href": "https://api.w3.org/affiliations/173870"
+          }
+        ]
       }
     ],
     "numberOfParticipants": 24,
     "numberOfChairs": 2,
-    "numberOfIE": 7,
+    "numberOfIE": 8,
     "numberOfIEChairs": 1,
     "numberOfEditors": 8,
-    "numberOfIEEditors": 3,
+    "numberOfIEEditors": 4,
     "numberOfSpecs": 16,
-    "numberOfSpecWithIEEditors": 6
+    "numberOfSpecWithIEEditors": 14
   },
   {
     "id": 98922,
@@ -8241,28 +9036,6 @@
     "editors": [
       {
         "href": "https://api.w3.org/users/n2k7uocwyog800sw4084440c4gsows0"
-      },
-      {
-        "href": "https://api.w3.org/users/11juricvpj2so8gg8w44sgssggc0gkw"
-      },
-      {
-        "href": "https://api.w3.org/users/tvk80x93kr4cwgs0o8wkkccw0swwwkg",
-        "github": "jandrieu"
-      },
-      {
-        "href": "https://api.w3.org/users/94xjqqxgtg084cwswgs808gog4k0scs",
-        "github": "stonematt"
-      },
-      {
-        "href": "https://api.w3.org/users/jhywkkw0080gg4g8w4gw8ckgcoco40w",
-        "github": "TzviyaSiegman"
-      },
-      {
-        "href": "https://api.w3.org/users/8nomt3nm1n8cw4s44koggo4wcoo8w4s"
-      },
-      {
-        "href": "https://api.w3.org/users/ox8xc2908xcowo8wwkog0cgokcw0o8o",
-        "github": "TallTed"
       },
       {
         "href": "https://api.w3.org/users/hhvask30a7co0gs0gcsgosgkowws0k4",
@@ -8298,7 +9071,7 @@
       },
       {
         "href": "https://api.w3.org/users/neq89s97s9cco4ssok88o800k0ccsck",
-        "github": "decentralgabe"
+        "github": "thereisnogabe"
       },
       {
         "href": "https://api.w3.org/users/drzwc7k3oxwk0448c880o8wsk4sk88o",
@@ -8309,69 +9082,81 @@
         "github": "mkhraisha"
       },
       {
+        "href": "https://api.w3.org/users/kq9yrybkzpcwos8o4wcwswws4oks08g",
+        "github": "iherman"
+      },
+      {
+        "href": "https://api.w3.org/users/ox8xc2908xcowo8wwkog0cgokcw0o8o",
+        "github": "TallTed"
+      },
+      {
         "href": "https://api.w3.org/users/f9gvhiykfa8kwkggwoowcsk4ks8kggs",
         "github": "Wind4Greg"
       },
       {
-        "href": "https://api.w3.org/users/kq9yrybkzpcwos8o4wcwswws4oks08g",
-        "github": "iherman"
+        "href": "https://api.w3.org/users/tvk80x93kr4cwgs0o8wkkccw0swwwkg",
+        "github": "jandrieu"
+      },
+      {
+        "href": "https://api.w3.org/users/jp87h494p3408skscwgcwgkg40owo0k",
+        "github": "KDean-Dolphin"
+      },
+      {
+        "href": "https://api.w3.org/users/8ytejjrzqds8g0wcw8o4o00g00k8oc8",
+        "github": "PatStLouis"
+      },
+      {
+        "href": "https://api.w3.org/users/3f8jhytue86cos4sg8o0s0gkgwcoo0s",
+        "github": "kezike"
+      },
+      {
+        "href": "https://api.w3.org/users/knymro1aa28sk44ckwwco4o08g88oco",
+        "github": "wes-smith"
+      },
+      {
+        "href": "https://api.w3.org/users/k7768krsz80cs4w4808c0kskw48c44s",
+        "github": "ewoogit"
+      },
+      {
+        "href": "https://api.w3.org/users/7rwlf59t8pc8g4wo004s8k4g0o4k0oo",
+        "github": "denkeni"
       },
       {
         "href": "https://api.w3.org/users/i5y21d0k17kg00ck8c80o0c48cg8okk",
         "github": "dmitrizagidulin"
       },
       {
-        "href": "https://api.w3.org/users/8ytejjrzqds8g0wcw8o4o00g00k8oc8"
-      },
-      {
-        "href": "https://api.w3.org/users/7rwlf59t8pc8g4wo004s8k4g0o4k0oo",
-        "github": "denkeni"
+        "href": "https://api.w3.org/users/hjczhumo9cocgow0os8gswok8wsgcw4"
       }
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/sxbarvfzu2sk8c0soc4g0wkc8s0kwcs",
-        "name": "Christopher Allen",
-        "created": "2022-06-29 22:05:59",
+        "href": "https://api.w3.org/users/5m6637eprs008w000wkoc884gso8kg8",
+        "name": "Amir Hameed Mir",
+        "created": "2026-03-20 15:09:02",
         "roles": {
           "chair": false,
           "editors": []
         },
-        "github": "ChristopherA",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/mlnn8df7geoc4k0g4ogs4ckwwo0sw44",
-        "name": "Kaliya Young",
-        "created": "2022-07-03 23:47:17",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "Identitywoman",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/kvq933ofggg8c4kkks4s04s0k0ss804",
-        "name": "Samuel Smith",
-        "created": "2022-07-13 17:53:04",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "SmithSamuelM",
-        "affiliations": []
+        "github": "amir-hameed-mir",
+        "affiliations": [
+          {
+            "name": "Sirraya Labs",
+            "homepage": "http://www.sirraya.org",
+            "href": "https://api.w3.org/affiliations/170439"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/i5y21d0k17kg00ck8c80o0c48cg8okk",
         "name": "Dmitri Zagidulin",
-        "created": "2022-09-07 15:16:51",
+        "created": "2026-03-20 15:09:38",
         "roles": {
           "chair": false,
           "editors": [
             {
               "shortname": "vc-render-method",
-              "date": "20251030"
+              "date": "20260929"
             }
           ]
         },
@@ -8385,42 +9170,170 @@
         ]
       },
       {
-        "href": "https://api.w3.org/users/78o77f3p24kks4sckwc8wcccokcgkw8",
-        "name": "Brian Richter",
-        "created": "2022-11-30 22:09:10",
+        "href": "https://api.w3.org/users/f9gvhiykfa8kwkggwoowcsk4ks8kggs",
+        "name": "Greg Bernstein",
+        "created": "2026-03-20 15:57:50",
         "roles": {
           "chair": false,
-          "editors": []
+          "editors": [
+            {
+              "shortname": "vc-data-integrity",
+              "date": "20250515"
+            },
+            {
+              "shortname": "vc-di-eddsa",
+              "date": "20250515"
+            },
+            {
+              "shortname": "vc-di-ecdsa",
+              "date": "20250515"
+            },
+            {
+              "shortname": "vc-di-eddsa-1.1",
+              "date": "20260416"
+            },
+            {
+              "shortname": "vc-di-quantum-resistant-1.0",
+              "date": "20260616"
+            },
+            {
+              "shortname": "vc-di-bbs",
+              "date": "20260910"
+            },
+            {
+              "shortname": "vc-di-ecdsa-1.1",
+              "date": "20260916"
+            },
+            {
+              "shortname": "vc-data-integrity-1.1",
+              "date": "20260919"
+            }
+          ]
         },
-        "github": "brianorwhatever",
+        "github": "Wind4Greg",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/8ytejjrzqds8g0wcw8o4o00g00k8oc8",
+        "name": "Patrick St-Louis",
+        "created": "2026-03-20 16:38:36",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "vcalm-1.0",
+              "date": "20260821"
+            },
+            {
+              "shortname": "vc-render-method",
+              "date": "20260929"
+            }
+          ]
+        },
+        "github": "PatStLouis",
         "affiliations": [
           {
-            "name": "Aviary Technologies Inc.",
-            "href": "https://api.w3.org/affiliations/117989"
+            "name": "Open Security and Identity inc.",
+            "homepage": "https://opsecid.ca",
+            "href": "https://api.w3.org/affiliations/162335"
           }
         ]
       },
       {
-        "href": "https://api.w3.org/users/2wf56edyvwu80kowg8cgwggw84w4s88",
-        "name": "David Chadwick",
-        "created": "2023-03-18 10:17:41",
+        "href": "https://api.w3.org/users/k7768krsz80cs4w4808c0kskw48c44s",
+        "name": "Elaine Wooton",
+        "created": "2026-03-20 18:02:47",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "vc-barcodes-1.0",
+              "date": "20260822"
+            },
+            {
+              "shortname": "vc-forgery-defense-1.0",
+              "date": "20260825"
+            }
+          ]
+        },
+        "github": "ewoogit",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/9jll8xg95vs4kg0kgok8484ckssw40o",
+        "name": "Paolo De Rosa",
+        "created": "2026-03-21 22:05:25",
         "roles": {
           "chair": false,
           "editors": []
         },
-        "github": "David-Chadwick",
+        "github": "paolo-de-rosa",
         "affiliations": [
           {
-            "name": "University of Kent",
-            "homepage": "http://www.kent.ac.uk/",
-            "href": "https://api.w3.org/affiliations/11912"
+            "name": "European Commission",
+            "href": "https://api.w3.org/affiliations/53717"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/nuwqwh2vswg8o88cg4cwwkwwook0ogs",
+        "name": "Susanne Guth-Orlowski",
+        "created": "2026-03-24 07:12:42",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "susanne-guth-orlowski",
+        "affiliations": [
+          {
+            "name": "4TheRecord GmbH",
+            "homepage": "http://4TheRecord.io",
+            "href": "https://api.w3.org/affiliations/175567"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/lgmcwg0lalwcwowo0k0c0c0s484gksw",
+        "name": "Eva Blomqvist",
+        "created": "2026-03-25 14:33:50",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "evabl444",
+        "affiliations": [
+          {
+            "name": "Linköping University",
+            "href": "https://api.w3.org/affiliations/63413"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/3f8jhytue86cos4sg8o0s0gkgwcoo0s",
+        "name": "Kayode Ezike",
+        "created": "2026-03-25 19:43:18",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "vcalm-1.0",
+              "date": "20260821"
+            }
+          ]
+        },
+        "github": "kezike",
+        "affiliations": [
+          {
+            "name": "Gobekli Inc",
+            "homepage": "http://gobekli.io",
+            "href": "https://api.w3.org/affiliations/144766"
           }
         ]
       },
       {
         "href": "https://api.w3.org/users/m438uly12m80c88ww4okccokg8g8o8",
         "name": "Michael Jones",
-        "created": "2023-04-11 21:37:05",
+        "created": "2026-03-27 03:23:37",
         "roles": {
           "chair": false,
           "editors": [
@@ -8446,42 +9359,199 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/f9gvhiykfa8kwkggwoowcsk4ks8kggs",
-        "name": "Greg Bernstein",
-        "created": "2023-05-02 17:21:10",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "vc-di-bbs",
-              "date": "20250403"
-            },
-            {
-              "shortname": "vc-data-integrity",
-              "date": "20250515"
-            },
-            {
-              "shortname": "vc-di-eddsa",
-              "date": "20250515"
-            },
-            {
-              "shortname": "vc-di-ecdsa",
-              "date": "20250515"
-            }
-          ]
-        },
-        "github": "Wind4Greg",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/9jll8xg95vs4kg0kgok8484ckssw40o",
-        "name": "Paolo De Rosa",
-        "created": "2023-06-25 13:32:13",
+        "href": "https://api.w3.org/users/sxbarvfzu2sk8c0soc4g0wkc8s0kwcs",
+        "name": "Christopher Allen",
+        "created": "2026-03-27 06:25:44",
         "roles": {
           "chair": false,
           "editors": []
         },
-        "github": "paolo-de-rosa",
+        "github": "ChristopherA",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/4mujr1w09reog4wcs8ksokok44wcg88",
+        "name": "Sebastian Schmittner",
+        "created": "2026-03-27 08:58:48",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "Echsecutor",
+        "affiliations": [
+          {
+            "name": "European EPC Competence Center GmbH",
+            "homepage": "https://eecc.de/",
+            "href": "https://api.w3.org/affiliations/174797"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/hjczhumo9cocgow0os8gswok8wsgcw4",
+        "name": "Isaac Koh",
+        "created": "2026-03-30 03:04:54",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "vc-render-method",
+              "date": "20260929"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Infocomm Media Development Authority",
+            "homepage": "http://www.imda.gov.sg",
+            "href": "https://api.w3.org/affiliations/147493"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/766522hl0zwoow0oc80gc0kowwkgkkw",
+        "name": "Scott Jones",
+        "created": "2026-04-02 01:26:08",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "ScottJeezey",
+        "affiliations": [
+          {
+            "name": "Realeyes",
+            "homepage": "http://www.realeyesit.com",
+            "href": "https://api.w3.org/affiliations/169983"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/oews9s289q8ws44okskcw8ck84g4cc0",
+        "name": "Elnar Hajiyev",
+        "created": "2026-04-07 13:10:28",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "Realeyes",
+            "homepage": "http://www.realeyesit.com",
+            "href": "https://api.w3.org/affiliations/169983"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/rcs1ey8fo3k4gko048cscock0ksgo88",
+        "name": "Sin Yong Loh",
+        "created": "2026-04-08 10:54:31",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/sp5011bmlxc0w84ok0gsck8s8080ks0",
+        "name": "Wajih Rehman",
+        "created": "2026-04-16 20:02:48",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "Fabacus",
+            "homepage": "http://www.fabacus.com",
+            "href": "https://api.w3.org/affiliations/148866"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/sal7puj3g4gko0owsgo04ckssss88ws",
+        "name": "Carolynn Bernier",
+        "created": "2026-04-20 12:30:42",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "carolynnbernier",
+        "affiliations": [
+          {
+            "name": "Commissariat a L’Énergie Atomique (CEA)",
+            "homepage": "http://www.cea.fr",
+            "href": "https://api.w3.org/affiliations/1216"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/2nzco2otefc40ggo0sgkgw8sg8044o4",
+        "name": "Punith Durga Prasad Arumilli",
+        "created": "2026-05-04 10:04:06",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "Bundesanstalt für Materialforschung und -prüfung (BAM)",
+            "homepage": "http://www.bam.de",
+            "href": "https://api.w3.org/affiliations/163923"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/7g95wwhayrokow884c8cc4s0skg0ww8",
+        "name": "Ted Guild",
+        "created": "2026-05-04 18:09:54",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "tguild",
+        "affiliations": [
+          {
+            "name": "Geotab",
+            "homepage": "https://www.geotab.com/",
+            "href": "https://api.w3.org/affiliations/103879"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/552qt24gp3ocg8osssgwgw4osogcko4",
+        "name": "Priyanka Dubbaka",
+        "created": "2026-05-12 12:30:41",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "PriyankaDubbaka",
+        "affiliations": [
+          {
+            "name": "Bundesanstalt für Materialforschung und -prüfung (BAM)",
+            "homepage": "http://www.bam.de",
+            "href": "https://api.w3.org/affiliations/163923"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/h7jigmpewug48o8ko44wg0c0sgs4okw",
+        "name": "Michael Shea",
+        "created": "2026-06-03 07:08:45",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "mxshea",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/87tjngfp9b8kwo4kk08s484ogsw4",
+        "name": "Seth van Hooland",
+        "created": "2026-06-17 09:06:49",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
         "affiliations": [
           {
             "name": "European Commission",
@@ -8490,109 +9560,85 @@
         ]
       },
       {
-        "href": "https://api.w3.org/users/mlbvhudut7kkwko0g4scg4skkwgkc44",
-        "name": "Sebastian Crane",
-        "created": "2023-07-19 18:52:15",
+        "href": "https://api.w3.org/users/ejo0ggwp55444gs8s4wo0k00wc8w0sw",
+        "name": "Marc-Andree Wolf",
+        "created": "2026-06-22 16:40:23",
         "roles": {
           "chair": false,
           "editors": []
         },
-        "github": "seabass-labrax",
-        "affiliations": []
+        "github": "marcandreewolf",
+        "affiliations": [
+          {
+            "name": "maki Consulting GmbH",
+            "homepage": "http://www.maki-consulting.com",
+            "href": "https://api.w3.org/affiliations/177619"
+          }
+        ]
       },
       {
-        "href": "https://api.w3.org/users/dp9f7v7isn404gskkwgks4sk888w4gg",
-        "name": "Savita Farooqui",
-        "created": "2024-10-22 05:46:50",
+        "href": "https://api.w3.org/users/9ga74dxq6q04gkc4408wc8c8gwg48wk",
+        "name": "Tony Choi",
+        "created": "2026-06-25 01:20:10",
         "roles": {
           "chair": false,
           "editors": []
         },
         "affiliations": [
           {
-            "name": "SymSoft Solutions LLC",
-            "href": "https://api.w3.org/affiliations/82229"
+            "name": "Yune Inc.",
+            "homepage": "https://careid.center/",
+            "href": "https://api.w3.org/affiliations/176970"
           }
         ]
       },
       {
-        "href": "https://api.w3.org/users/rp0iahgncfko04oggo8k080csgc4o0o",
-        "name": "Bruno Vavala",
-        "created": "2024-11-25 17:06:00",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "bvavala",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/8ytejjrzqds8g0wcw8o4o00g00k8oc8",
-        "name": "Patrick St-Louis",
-        "created": "2025-10-16 14:54:36",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "vc-render-method",
-              "date": "20251030"
-            }
-          ]
-        },
-        "affiliations": [
-          {
-            "name": "Open Security and Identity inc.",
-            "homepage": "https://opsecid.ca",
-            "href": "https://api.w3.org/affiliations/162335"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/k7768krsz80cs4w4808c0kskw48c44s",
-        "name": "Elaine Wooton",
-        "created": "2025-10-27 14:42:49",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "ewoogit",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/hvb5bszzzsgsos0cwwkks4o4k8kskso",
-        "name": "Poh Hendry",
-        "created": "2025-10-28 23:52:15",
+        "href": "https://api.w3.org/users/3dpj6ch4cbggkwso400w4wsw40os4w8",
+        "name": "James Richards",
+        "created": "2026-08-18 11:21:31",
         "roles": {
           "chair": false,
           "editors": []
         },
         "affiliations": [
           {
-            "name": "InfoComm Development Authority of Singapore (iDA Singapore)",
-            "homepage": "http://www.ida.gov.sg",
-            "href": "https://api.w3.org/affiliations/11564"
+            "name": "One Proof",
+            "homepage": "https://oneproof.com",
+            "href": "https://api.w3.org/affiliations/177738"
           }
         ]
       },
       {
-        "href": "https://api.w3.org/users/ktsbi5zzsw000cwcos4coss8coc00c8",
-        "name": "Christine Runnegar",
-        "created": "2025-12-22 19:29:42",
+        "href": "https://api.w3.org/users/d2o5umxcwzcwo4cw8cw48so0sk4cwgs",
+        "name": "Antony Mott",
+        "created": "2026-08-20 18:32:40",
         "roles": {
           "chair": false,
           "editors": []
         },
+        "github": "antonymott",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/986vg7qpr0g0sgk84cs8cg0s04044wg",
+        "name": "Lucy (Qixue) Yang",
+        "created": "2026-09-29 14:48:00",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "LucyY1122",
         "affiliations": []
       }
     ],
-    "numberOfParticipants": 128,
+    "numberOfParticipants": 110,
     "numberOfChairs": 2,
-    "numberOfIE": 16,
+    "numberOfIE": 28,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 23,
-    "numberOfIEEditors": 4,
-    "numberOfSpecs": 17,
-    "numberOfSpecWithIEEditors": 9
+    "numberOfEditors": 24,
+    "numberOfIEEditors": 7,
+    "numberOfSpecs": 29,
+    "numberOfSpecWithIEEditors": 16
   },
   {
     "id": 172982,
@@ -8601,41 +9647,13 @@
     "fullshortname": "ig/webai",
     "editors": [],
     "ies": [],
-    "numberOfParticipants": 26,
-    "numberOfChairs": 3,
+    "numberOfParticipants": 45,
+    "numberOfChairs": 2,
     "numberOfIE": 0,
     "numberOfIEChairs": 0,
     "numberOfEditors": 0,
     "numberOfIEEditors": 0,
     "numberOfSpecs": 0,
-    "numberOfSpecWithIEEditors": 0
-  },
-  {
-    "id": 115035,
-    "name": "Web & Networks Interest Group",
-    "type": "ig",
-    "fullshortname": "ig/web-networks",
-    "editors": [
-      {
-        "href": "https://api.w3.org/users/lkq6xtc0osg0ck48ooooo0cwoccwsws"
-      },
-      {
-        "href": "https://api.w3.org/users/mzj20lk8sm8kkc8swwgow4cockww48k",
-        "github": "mmccool"
-      },
-      {
-        "href": "https://api.w3.org/users/nfaebkmghm8o480s4gk04s8gs48wccw",
-        "github": "gsimcard"
-      }
-    ],
-    "ies": [],
-    "numberOfParticipants": 38,
-    "numberOfChairs": 2,
-    "numberOfIE": 0,
-    "numberOfIEChairs": 0,
-    "numberOfEditors": 3,
-    "numberOfIEEditors": 0,
-    "numberOfSpecs": 1,
     "numberOfSpecWithIEEditors": 0
   },
   {
@@ -8716,10 +9734,6 @@
         "github": "thefrog-gh"
       },
       {
-        "href": "https://api.w3.org/users/gn0lltmbnw0scsks88k8kocgocgkcg0",
-        "github": "timcappalli"
-      },
-      {
         "href": "https://api.w3.org/users/9u10vobj018ocgk0s8448kc0gc4ogcw",
         "github": "marcoscaceres"
       },
@@ -8728,16 +9742,28 @@
         "github": "miketaylr"
       },
       {
-        "href": "https://api.w3.org/users/21mpny9cwj7oggo4ggkc4gwccoos8ow",
-        "github": "nsatragno"
+        "href": "https://api.w3.org/users/gn0lltmbnw0scsks88k8kocgocgkcg0",
+        "github": "timcappalli"
+      },
+      {
+        "href": "https://api.w3.org/users/j5kd4mcr6xskswkkk0gkgg8og4s0cgc",
+        "github": "MasterKale"
+      },
+      {
+        "href": "https://api.w3.org/users/iqus01ag6xsggocogowoow8w884g8",
+        "github": "antosart"
       },
       {
         "href": "https://api.w3.org/users/7hidoqq4xwso0gkso40wokk40kwo88g",
         "github": "koto"
       },
       {
-        "href": "https://api.w3.org/users/iqus01ag6xsggocogowoow8w884g8",
-        "github": "antosart"
+        "href": "https://api.w3.org/users/21mpny9cwj7oggo4ggkc4gwccoos8ow",
+        "github": "nsatragno"
+      },
+      {
+        "href": "https://api.w3.org/users/ghljwuv24pw0c0wgsok0c4k8k80w4k4",
+        "github": "arichiv"
       }
     ],
     "ies": [
@@ -8771,13 +9797,40 @@
           "editors": []
         },
         "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/q6qq2pve6v44wkwkkwk8cw4cgkwko4c",
+        "name": "Gianluca Altomani",
+        "created": "2026-03-17 10:56:40",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "devgianlu",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/946zx8pgj1gk4g0ockoc8oc4gg0s4cg",
+        "name": "Eli Grey",
+        "created": "2026-07-02 18:28:23",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "eligrey",
+        "affiliations": [
+          {
+            "name": "Transcend Inc.",
+            "href": "https://api.w3.org/affiliations/120450"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 159,
+    "numberOfParticipants": 160,
     "numberOfChairs": 2,
-    "numberOfIE": 3,
+    "numberOfIE": 5,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 26,
+    "numberOfEditors": 28,
     "numberOfIEEditors": 0,
     "numberOfSpecs": 27,
     "numberOfSpecWithIEEditors": 0
@@ -8799,6 +9852,10 @@
       {
         "href": "https://api.w3.org/users/9u10vobj018ocgk0s8448kc0gc4ogcw",
         "github": "marcoscaceres"
+      },
+      {
+        "href": "https://api.w3.org/users/p1yfz5si72ocs8w480ggs4wgok84cgk",
+        "github": "LJWatson"
       },
       {
         "href": "https://api.w3.org/users/2jdfaojiih4wc0cksgg08808w8ck4ks",
@@ -8828,20 +9885,16 @@
         "href": "https://api.w3.org/users/rox8cuklvdw0k044s0kwsggosggccsk"
       },
       {
-        "href": "https://api.w3.org/users/qz5a0186pc0wwgc84o4wo44k8k4sg4k",
-        "github": "garykac"
+        "href": "https://api.w3.org/users/jt1cdbkgur4o8c0okkkw4kksosskwg4",
+        "github": "reillyeon"
       },
       {
         "href": "https://api.w3.org/users/iwn8gwnpuw8o8kcwoscgcwos0c8s8c8",
         "github": "travisleithead"
       },
       {
-        "href": "https://api.w3.org/users/1z0zd309cbgg0kw000k4so0ogw48gcs",
-        "github": "kenchris"
-      },
-      {
-        "href": "https://api.w3.org/users/jt1cdbkgur4o8c0okkkw4kksosskwg4",
-        "github": "reillyeon"
+        "href": "https://api.w3.org/users/qz5a0186pc0wwgc84o4wo44k8k4sg4k",
+        "github": "garykac"
       },
       {
         "href": "https://api.w3.org/users/p2ka24w1bg0ocookggg0w8soo4c840c",
@@ -8852,20 +9905,16 @@
         "github": "nondebug"
       },
       {
-        "href": "https://api.w3.org/users/md3wpp7t7z4gcwk84ggcss4ws4gk0oc",
-        "github": "scottaohara"
-      },
-      {
-        "href": "https://api.w3.org/users/8rixh672or8cwgsswso8ksc4cgcw84k",
-        "github": "patrickhlauke"
-      },
-      {
         "href": "https://api.w3.org/users/6o6r3x0ptckcw0kk84sskkcswo4sckk",
         "github": "SteveBeckerMSFT"
       },
       {
         "href": "https://api.w3.org/users/jjfvkr96u800wok0o0ccg4s844owcgc",
         "github": "saschanaz"
+      },
+      {
+        "href": "https://api.w3.org/users/eu2fc67zs60c8sck8gok4ccs444wo4o",
+        "github": "siusin"
       },
       {
         "href": "https://api.w3.org/users/elgqc4e7szcwkso8o4s0g844ggkocs8",
@@ -8880,8 +9929,12 @@
         "github": "fallaciousreasoning"
       },
       {
-        "href": "https://api.w3.org/users/5fmf9cd23rc4g4woggg8gkocgo4ckg0",
-        "github": "diekus"
+        "href": "https://api.w3.org/users/1q45vy64a1r4ckss0488c8g4oowcos8",
+        "github": "dmurph"
+      },
+      {
+        "href": "https://api.w3.org/users/lfz7y1tzkqo4sckog84w4wwcks0000w",
+        "github": "christianliebel"
       },
       {
         "href": "https://api.w3.org/users/n0esd6kti2sgcow4kg0ckkkk8044cg8",
@@ -8896,43 +9949,15 @@
         "github": "yoshisatoyanagisawa"
       },
       {
-        "href": "https://api.w3.org/users/1q45vy64a1r4ckss0488c8g4oowcos8",
-        "github": "dmurph"
-      },
-      {
-        "href": "https://api.w3.org/users/lfz7y1tzkqo4sckog84w4wwcks0000w",
-        "github": "christianliebel"
+        "href": "https://api.w3.org/users/1z0zd309cbgg0kw000k4so0ogw48gcs",
+        "github": "kenchris"
       }
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/iwn8gwnpuw8o8kcwoscgcwos0c8s8c8",
-        "name": "Travis Leithead",
-        "created": "2024-02-22 05:29:22",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "uievents",
-              "date": "20240907"
-            },
-            {
-              "shortname": "uievents-key",
-              "date": "20250422"
-            },
-            {
-              "shortname": "uievents-code",
-              "date": "20250422"
-            }
-          ]
-        },
-        "github": "travisleithead",
-        "affiliations": []
-      },
-      {
         "href": "https://api.w3.org/users/9uigxfepltkw48socgg4k0goo8ogsss",
         "name": "Ben Francis",
-        "created": "2024-02-26 14:12:20",
+        "created": "2026-03-10 10:44:39",
         "roles": {
           "chair": false,
           "editors": []
@@ -8948,7 +9973,7 @@
       {
         "href": "https://api.w3.org/users/4l5w4q7kerk0gogogwo0ok8sgogwko4",
         "name": "Steffen Larssen",
-        "created": "2025-05-15 05:02:56",
+        "created": "2026-03-16 06:53:55",
         "roles": {
           "chair": false,
           "editors": []
@@ -8965,7 +9990,7 @@
       {
         "href": "https://api.w3.org/users/kvddbekh19sog8044ko8wkco8kwg0o0",
         "name": "Nolan Lawson",
-        "created": "2025-08-15 13:34:31",
+        "created": "2026-05-16 16:26:07",
         "roles": {
           "chair": false,
           "editors": []
@@ -8980,9 +10005,36 @@
         ]
       },
       {
+        "href": "https://api.w3.org/users/8pqy5e9vl1wc04ccswckgcc048gws0w",
+        "name": "Jeremy Keith",
+        "created": "2026-06-15 07:46:20",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "adactio",
+        "affiliations": [
+          {
+            "name": "Clearleft",
+            "href": "https://api.w3.org/affiliations/53802"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/5fmf9cd23rc4g4woggg8gkocgo4ckg0",
+        "name": "Diego Gonzalez-Zuniga",
+        "created": "2026-08-10 14:00:03",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "diekus",
+        "affiliations": []
+      },
+      {
         "href": "https://api.w3.org/users/jko8il0lq5ko88ss484g0w0w880kg08",
         "name": "Mikhail Barash",
-        "created": "2025-09-11 19:36:37",
+        "created": "2026-08-10 22:39:43",
         "roles": {
           "chair": false,
           "editors": []
@@ -8996,14 +10048,14 @@
         ]
       }
     ],
-    "numberOfParticipants": 117,
-    "numberOfChairs": 4,
-    "numberOfIE": 5,
+    "numberOfParticipants": 120,
+    "numberOfChairs": 3,
+    "numberOfIE": 6,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 30,
-    "numberOfIEEditors": 1,
-    "numberOfSpecs": 23,
-    "numberOfSpecWithIEEditors": 3
+    "numberOfEditors": 29,
+    "numberOfIEEditors": 0,
+    "numberOfSpecs": 22,
+    "numberOfSpecWithIEEditors": 0
   },
   {
     "id": 87227,
@@ -9049,80 +10101,27 @@
         "github": "timcappalli"
       },
       {
+        "href": "https://api.w3.org/users/21mpny9cwj7oggo4ggkc4gwccoos8ow",
+        "github": "nsatragno"
+      },
+      {
         "href": "https://api.w3.org/users/j5kd4mcr6xskswkkk0gkgg8og4s0cgc",
         "github": "MasterKale"
+      },
+      {
+        "href": "https://api.w3.org/users/opk2csmzg7kcckk0oogkwccs0wkkgkc",
+        "github": "pascoej"
+      },
+      {
+        "href": "https://api.w3.org/users/r270bxdlr5wgo0gk408c880okg8o4g8",
+        "github": "dwaite"
       }
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/7lz9sv0y9d8okw0ws4wskkw4o0ck08k",
-        "name": "William Brown",
-        "created": "2022-05-03 00:43:27",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "Firstyear",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/4uemvjp6uko4wg0sc8w4c0kgkgkkgoo",
-        "name": "Andre Büttner",
-        "created": "2022-05-03 07:11:11",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "abuettner",
-        "affiliations": [
-          {
-            "name": "University of Oslo",
-            "href": "https://api.w3.org/affiliations/57497"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/c07i3sqpb74s4o000s400kkgkss4440",
-        "name": "Anthony Nadalin",
-        "created": "2022-05-15 07:39:09",
-        "roles": {
-          "chair": true,
-          "editors": []
-        },
-        "github": "nadalin",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/3guz9m7c394wk04osoksk0gks8ws4sw",
-        "name": "James Barclay",
-        "created": "2022-05-16 04:02:37",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "futureimperfect",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/d48aa2xma7wcogcg8oo4ckoss48o4c8",
-        "name": "Yuriy Ackermann",
-        "created": "2022-06-10 10:03:38",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "yackermann",
-        "affiliations": [
-          {
-            "name": "FIDO Alliance",
-            "href": "https://api.w3.org/affiliations/88277"
-          }
-        ]
-      },
-      {
         "href": "https://api.w3.org/users/m438uly12m80c88ww4okccokg8g8o8",
         "name": "Michael Jones",
-        "created": "2023-09-20 15:01:20",
+        "created": "2026-09-13 12:34:55",
         "roles": {
           "chair": false,
           "editors": [
@@ -9133,10 +10132,6 @@
             {
               "shortname": "webauthn-2",
               "date": "20210408"
-            },
-            {
-              "shortname": "webauthn-3",
-              "date": "20250127"
             }
           ]
         },
@@ -9144,19 +10139,20 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/52hkbvezopogg4wkok4008swoc4osg0",
-        "name": "Monty Wiseman",
-        "created": "2024-10-30 11:13:43",
+        "href": "https://api.w3.org/users/c07i3sqpb74s4o000s400kkgkss4440",
+        "name": "Anthony Nadalin",
+        "created": "2026-09-23 17:56:08",
         "roles": {
-          "chair": false,
+          "chair": true,
           "editors": []
         },
+        "github": "nadalin",
         "affiliations": []
       },
       {
         "href": "https://api.w3.org/users/stqd2mqiaio4k4400csk00woswc8coo",
         "name": "Nishant Kaushik",
-        "created": "2025-10-20 14:40:31",
+        "created": "2026-09-24 03:43:02",
         "roles": {
           "chair": false,
           "editors": []
@@ -9168,33 +10164,16 @@
             "href": "https://api.w3.org/affiliations/88277"
           }
         ]
-      },
-      {
-        "href": "https://api.w3.org/users/a96562m78dcgs8sks0wgosgw88wk8sw",
-        "name": "Ki-Eun Shin",
-        "created": "2025-10-25 11:45:54",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "Kieun",
-        "affiliations": [
-          {
-            "name": "SK Telecom",
-            "homepage": "http://www.sktelecom.com/",
-            "href": "https://api.w3.org/affiliations/39024"
-          }
-        ]
       }
     ],
-    "numberOfParticipants": 127,
+    "numberOfParticipants": 129,
     "numberOfChairs": 1,
-    "numberOfIE": 9,
+    "numberOfIE": 3,
     "numberOfIEChairs": 1,
-    "numberOfEditors": 11,
+    "numberOfEditors": 14,
     "numberOfIEEditors": 1,
-    "numberOfSpecs": 3,
-    "numberOfSpecWithIEEditors": 3
+    "numberOfSpecs": 4,
+    "numberOfSpecWithIEEditors": 2
   },
   {
     "id": 131776,
@@ -9215,16 +10194,16 @@
         "github": "rniwa"
       },
       {
-        "href": "https://api.w3.org/users/gsohbr0370o44w0g80gwkwsk8kw8os8",
-        "github": "dandclark"
-      },
-      {
         "href": "https://api.w3.org/users/541mxfkw5bc4so8wkw4scg0ckkc4cg8",
         "github": "ragoulik"
       },
       {
         "href": "https://api.w3.org/users/nh5oha1ljn4o8c00k40osok0w0wscsc",
         "github": "roraja"
+      },
+      {
+        "href": "https://api.w3.org/users/gsohbr0370o44w0g80gwkwsk8kw8os8",
+        "github": "dandclark"
       }
     ],
     "ies": [
@@ -9245,7 +10224,7 @@
             },
             {
               "shortname": "input-events-2",
-              "date": "20250814"
+              "date": "20260501"
             }
           ]
         },
@@ -9301,11 +10280,27 @@
             "href": "https://api.w3.org/affiliations/172441"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/j4m70cr13sgs0wc8wsw8os8w8o0oosc",
+        "name": "Gaurang Tandon",
+        "created": "2026-09-08 13:57:54",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "GaurangTandon",
+        "affiliations": [
+          {
+            "name": "Blaze Today",
+            "href": "https://api.w3.org/affiliations/137833"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 44,
+    "numberOfParticipants": 49,
     "numberOfChairs": 1,
-    "numberOfIE": 4,
+    "numberOfIE": 5,
     "numberOfIEChairs": 1,
     "numberOfEditors": 6,
     "numberOfIEEditors": 1,
@@ -9397,16 +10392,32 @@
             "href": "https://api.w3.org/affiliations/94345"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/dbfy530e8eo84sc4ko4cosgwswkgogg",
+        "name": "Skef Iterum",
+        "created": "2026-07-29 21:08:52",
+        "roles": {
+          "chair": false,
+          "editors": [
+            {
+              "shortname": "IFT",
+              "date": "20251118"
+            }
+          ]
+        },
+        "github": "skef",
+        "affiliations": []
       }
     ],
     "numberOfParticipants": 37,
     "numberOfChairs": 2,
-    "numberOfIE": 4,
+    "numberOfIE": 5,
     "numberOfIEChairs": 1,
     "numberOfEditors": 7,
-    "numberOfIEEditors": 1,
+    "numberOfIEEditors": 2,
     "numberOfSpecs": 7,
-    "numberOfSpecWithIEEditors": 1
+    "numberOfSpecWithIEEditors": 2
   },
   {
     "id": 130674,
@@ -9429,16 +10440,6 @@
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/1z4mgs6u37z4gog0wcco8oookckcog",
-        "name": "Wenhe Li",
-        "created": "2021-04-27 12:09:34",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": []
-      },
-      {
         "href": "https://api.w3.org/users/qno5gnvvkb48084s88sw8wcwk4004gk",
         "name": "Rachel Yager",
         "created": "2021-05-05 15:56:07",
@@ -9451,21 +10452,6 @@
           {
             "name": "FortuneTimes Group",
             "href": "https://api.w3.org/affiliations/115904"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/eww7umkxvm0440o84sgkcwogogw00sc",
-        "name": "Philip Laszkowicz",
-        "created": "2021-06-04 09:04:48",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": [
-          {
-            "name": "Omnijar",
-            "href": "https://api.w3.org/affiliations/79464"
           }
         ]
       },
@@ -9520,7 +10506,13 @@
           "editors": []
         },
         "github": "zolkis",
-        "affiliations": []
+        "affiliations": [
+          {
+            "name": "Nest AI",
+            "homepage": "http://www.nestai.com",
+            "href": "https://api.w3.org/affiliations/174266"
+          }
+        ]
       },
       {
         "href": "https://api.w3.org/users/kz6qw4e4jxckscw48scwkkc88kcksww",
@@ -9530,17 +10522,34 @@
           "chair": false,
           "editors": []
         },
+        "github": "shepazu",
         "affiliations": [
           {
             "name": "Fizz Studio",
             "href": "https://api.w3.org/affiliations/113057"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/31fk91tyqoqo4w844wsk0sg04s8o8kk",
+        "name": "Gregory Terzian",
+        "created": "2026-03-19 09:31:29",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "FOSS (Shanghai) Information Technology",
+            "homepage": "https://github.com/FOSS-Shanghai-Information-Technology",
+            "href": "https://api.w3.org/affiliations/166031"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 124,
+    "numberOfParticipants": 142,
     "numberOfChairs": 1,
-    "numberOfIE": 8,
+    "numberOfIE": 7,
     "numberOfIEChairs": 0,
     "numberOfEditors": 3,
     "numberOfIEEditors": 0,
@@ -9554,16 +10563,8 @@
     "fullshortname": "ig/wot",
     "editors": [
       {
-        "href": "https://api.w3.org/users/1ky2zigsd42s40gwks44k0ssgs08488",
-        "github": "mlagally"
-      },
-      {
         "href": "https://api.w3.org/users/mzj20lk8sm8kkc8swwgow4cockww48k",
         "github": "mmccool"
-      },
-      {
-        "href": "https://api.w3.org/users/4vgz5ub6l9yc8c8008w8gk88ggco8ck",
-        "github": "mryuichi"
       },
       {
         "href": "https://api.w3.org/users/j9bcaa3etwgk8ss8o4k8ccg0k88oosg",
@@ -9612,7 +10613,7 @@
           "editors": [
             {
               "shortname": "wot-usecases",
-              "date": "20220307"
+              "date": "20260205"
             }
           ]
         },
@@ -9637,11 +10638,11 @@
         ]
       }
     ],
-    "numberOfParticipants": 92,
+    "numberOfParticipants": 88,
     "numberOfChairs": 2,
     "numberOfIE": 4,
     "numberOfIEChairs": 1,
-    "numberOfEditors": 4,
+    "numberOfEditors": 2,
     "numberOfIEEditors": 1,
     "numberOfSpecs": 1,
     "numberOfSpecWithIEEditors": 1
@@ -9672,8 +10673,7 @@
         "github": "mlagally"
       },
       {
-        "href": "https://api.w3.org/users/9qac27th0o4kgo8ccggo40ow40ggw4k",
-        "github": "ToruKawaguchi"
+        "href": "https://api.w3.org/users/9qac27th0o4kgo8ccggo40ow40ggw4k"
       },
       {
         "href": "https://api.w3.org/users/58oc10skemo844s8sowkgowoc8kccow",
@@ -9737,226 +10737,15 @@
         "github": "mjkoster"
       }
     ],
-    "ies": [
-      {
-        "href": "https://api.w3.org/users/e2vaqa8xm5w8ocowkg8wg4gwwoc0o8w",
-        "name": "Farshid Tavakolizadeh",
-        "created": "2022-08-01 14:13:21",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "wot-discovery",
-              "date": "20231205"
-            }
-          ]
-        },
-        "github": "farshidtz",
-        "affiliations": [
-          {
-            "name": "Canonical Group Limited",
-            "href": "https://api.w3.org/affiliations/54876"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/lw5hs8msbk00wwgsc8wk0g0k4ocssg0",
-        "name": "Jan Romann",
-        "created": "2022-08-02 05:08:10",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "JKRhb",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/9uigxfepltkw48socgg4k0goo8ogsss",
-        "name": "Ben Francis",
-        "created": "2022-08-02 10:50:46",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "wot-profile",
-              "date": "20251104"
-            }
-          ]
-        },
-        "github": "benfrancis",
-        "affiliations": [
-          {
-            "name": "Krellian",
-            "href": "https://api.w3.org/affiliations/122954"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/t4szqtsr1r4goc04gwo48g0c4s4w4gk",
-        "name": "Cristiano Aguzzi",
-        "created": "2022-08-03 09:50:53",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "wot-scripting-api",
-              "date": "20231003"
-            }
-          ]
-        },
-        "github": "relu91",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/8k2xjrhl9nokkgc008s404wk088wkcs",
-        "name": "Konstantinos Kotis",
-        "created": "2022-08-13 13:55:19",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "KotisK",
-        "affiliations": [
-          {
-            "name": "University of the Aegean",
-            "href": "https://api.w3.org/affiliations/59030"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/cfin9pyx1ag4so4w8c840k844w4sk4c",
-        "name": "Philipp-Alexander Blum",
-        "created": "2022-08-15 20:19:19",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "Citrullin",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/bnhurro14vks48kck0wocs8o0kg08w0",
-        "name": "Christine Perey",
-        "created": "2022-08-16 01:32:17",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "cperey",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/ew373cxqzt44sws0848wc8oo4k8osg8",
-        "name": "Michael Koster",
-        "created": "2023-01-25 20:59:56",
-        "roles": {
-          "chair": true,
-          "editors": [
-            {
-              "shortname": "wot-binding-templates",
-              "date": "20251104"
-            }
-          ]
-        },
-        "github": "mjkoster",
-        "affiliations": [
-          {
-            "name": "Dogtiger Labs",
-            "href": "https://api.w3.org/affiliations/130649"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/mcv98h02cv4gocwogcw8ss8s044s40w",
-        "name": "Charith Perera",
-        "created": "2024-11-28 19:55:16",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "ngcharithperera",
-        "affiliations": [
-          {
-            "name": "Cardiff University",
-            "href": "https://api.w3.org/affiliations/62598"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/nuht5r3rfy8048cs08wos4c044c0gg0",
-        "name": "Luca Barbato",
-        "created": "2025-03-13 18:39:27",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "lu-zero",
-        "affiliations": [
-          {
-            "name": "Luminem",
-            "homepage": "http://luminem.org/",
-            "href": "https://api.w3.org/affiliations/141809"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/mzj20lk8sm8kkc8swwgow4cockww48k",
-        "name": "Michael McCool",
-        "created": "2025-09-22 20:05:02",
-        "roles": {
-          "chair": false,
-          "editors": [
-            {
-              "shortname": "wot-security",
-              "date": "20191106"
-            },
-            {
-              "shortname": "wot-thing-description10",
-              "date": "20200409"
-            },
-            {
-              "shortname": "wot-discovery",
-              "date": "20231205"
-            },
-            {
-              "shortname": "wot-thing-description11",
-              "date": "20231205"
-            },
-            {
-              "shortname": "wot-architecture11",
-              "date": "20231205"
-            }
-          ]
-        },
-        "github": "mmccool",
-        "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/81b749io48w0wow0s8o44goosgs0k8g",
-        "name": "Kazuyuki Ashimura",
-        "created": "2025-12-08 01:00:30",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "ashimura",
-        "affiliations": [
-          {
-            "name": "Nagasaki University",
-            "homepage": "https://en.nagasaki-u.ac.jp",
-            "href": "https://api.w3.org/affiliations/172031"
-          }
-        ]
-      }
-    ],
-    "numberOfParticipants": 66,
+    "ies": [],
+    "numberOfParticipants": 64,
     "numberOfChairs": 2,
-    "numberOfIE": 12,
-    "numberOfIEChairs": 1,
+    "numberOfIE": 0,
+    "numberOfIEChairs": 0,
     "numberOfEditors": 22,
-    "numberOfIEEditors": 5,
+    "numberOfIEEditors": 0,
     "numberOfSpecs": 11,
-    "numberOfSpecWithIEEditors": 8
+    "numberOfSpecWithIEEditors": 0
   },
   {
     "id": 113649,
@@ -9971,22 +10760,6 @@
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/3fdavt8na76s4ssocg4okosswcowg0g",
-        "name": "Adrian Hope-Bailie",
-        "created": "2021-08-06 08:38:03",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "adrianhopebailie",
-        "affiliations": [
-          {
-            "name": "Fynbos",
-            "href": "https://api.w3.org/affiliations/132838"
-          }
-        ]
-      },
-      {
         "href": "https://api.w3.org/users/alguvay7lywwosgwck8s0kkccc4g8co",
         "name": "Nick Telford-Reed",
         "created": "2022-09-30 14:33:06",
@@ -9998,9 +10771,9 @@
         "affiliations": []
       }
     ],
-    "numberOfParticipants": 82,
+    "numberOfParticipants": 77,
     "numberOfChairs": 1,
-    "numberOfIE": 2,
+    "numberOfIE": 1,
     "numberOfIEChairs": 0,
     "numberOfEditors": 1,
     "numberOfIEEditors": 0,
@@ -10073,8 +10846,8 @@
           "chair": false,
           "editors": [
             {
-              "shortname": "payment-handler",
-              "date": "20250927"
+              "shortname": "web-based-payment-handler",
+              "date": "20260423"
             }
           ]
         },
@@ -10119,19 +10892,42 @@
         "affiliations": []
       },
       {
-        "href": "https://api.w3.org/users/t7r86oh2z6og4sso0wk4os4wgckcocg",
-        "name": "Lukasz Olejnik",
-        "created": "2025-08-31 05:13:50",
+        "href": "https://api.w3.org/users/1nqk84hbfbnoock488sc8occos4skgo",
+        "name": "Olvis Enrique Gil Ríos",
+        "created": "2026-08-17 18:05:15",
         "roles": {
           "chair": false,
           "editors": []
         },
-        "affiliations": []
+        "github": "Olvisgil",
+        "affiliations": [
+          {
+            "name": "OG Technologies EU",
+            "homepage": "https://www.ogtechnologies.co/",
+            "href": "https://api.w3.org/affiliations/162143"
+          }
+        ]
+      },
+      {
+        "href": "https://api.w3.org/users/qdk0sw7rf40wgg8cgock8ooo8cokwkw",
+        "name": "Divyarani Raghupatruni",
+        "created": "2026-09-29 17:52:05",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "affiliations": [
+          {
+            "name": "Alacriti",
+            "homepage": "https://www.alacriti.com/",
+            "href": "https://api.w3.org/affiliations/179785"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 129,
+    "numberOfParticipants": 136,
     "numberOfChairs": 2,
-    "numberOfIE": 5,
+    "numberOfIE": 6,
     "numberOfIEChairs": 1,
     "numberOfEditors": 14,
     "numberOfIEEditors": 1,
@@ -10197,13 +10993,6 @@
         "github": "AloisReitbauer"
       },
       {
-        "href": "https://api.w3.org/users/bafh146390oogwgsowkkcc0k8ckowsg"
-      },
-      {
-        "href": "https://api.w3.org/users/3qpx7pzskzqc48c4oskgscw8swkoc8o",
-        "github": "noamr"
-      },
-      {
         "href": "https://api.w3.org/users/k3ouyjpkzy800wgcgw40800ksggk8oc"
       },
       {
@@ -10223,88 +11012,34 @@
         "github": "mmocny"
       },
       {
+        "href": "https://api.w3.org/users/3qpx7pzskzqc48c4oskgscw8swkoc8o",
+        "github": "noamr"
+      },
+      {
         "href": "https://api.w3.org/users/prgkkymvs9ccc0sg8o8c4gwc4w44k4g",
         "github": "tunetheweb"
+      },
+      {
+        "href": "https://api.w3.org/users/k6radw7kvr4woss00ww0gk888kws8k0",
+        "github": "guohuideng2024"
       }
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/n4aba7ylbio804ksckkwgwo4sc8sww4",
-        "name": "Peter Perlepes",
-        "created": "2021-02-14 22:28:52",
+        "href": "https://api.w3.org/users/sz74bjxu56o48s40k4wcoskwcook8ko",
+        "name": "Nic Jansma",
+        "created": "2026-04-25 20:30:05",
         "roles": {
-          "chair": false,
+          "chair": true,
           "editors": []
         },
-        "github": "igneel64",
-        "affiliations": [
-          {
-            "name": "trivago GmbH",
-            "href": "https://api.w3.org/affiliations/98209"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/38vwvfhrpm6888sk4gw4w8gkscs0oc8",
-        "name": "Michelle Vu",
-        "created": "2021-03-01 18:59:22",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "valiantvu",
-        "affiliations": [
-          {
-            "name": "Pinterest",
-            "href": "https://api.w3.org/affiliations/80285"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/r9cac8iu10ggwk04ckcg0s84844og04",
-        "name": "Dan Shappir",
-        "created": "2021-10-14 18:06:29",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": [
-          {
-            "name": "Wix",
-            "href": "https://api.w3.org/affiliations/105995"
-          }
-        ]
-      },
-      {
-        "href": "https://api.w3.org/users/5ezujzutznk0g00kww8ogssw0okc40g",
-        "name": "Abin Paul",
-        "created": "2022-09-02 12:45:37",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "abinpaul1",
+        "github": "nicjansma",
         "affiliations": []
-      },
-      {
-        "href": "https://api.w3.org/users/t5hkdc8iu8g8ks8804o84k00c0wsskc",
-        "name": "Tim Kadlec",
-        "created": "2024-08-07 14:50:07",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": [
-          {
-            "name": "SpeedCurve",
-            "href": "https://api.w3.org/affiliations/126119"
-          }
-        ]
       },
       {
         "href": "https://api.w3.org/users/f1ovb5rydm8s0go04oco0cgk0sow44w",
         "name": "Jennifer Strickland",
-        "created": "2025-12-02 15:52:23",
+        "created": "2026-09-28 12:12:32",
         "roles": {
           "chair": false,
           "editors": []
@@ -10313,13 +11048,13 @@
         "affiliations": []
       }
     ],
-    "numberOfParticipants": 122,
+    "numberOfParticipants": 121,
     "numberOfChairs": 2,
-    "numberOfIE": 6,
-    "numberOfIEChairs": 0,
+    "numberOfIE": 2,
+    "numberOfIEChairs": 1,
     "numberOfEditors": 23,
     "numberOfIEEditors": 0,
-    "numberOfSpecs": 28,
+    "numberOfSpecs": 29,
     "numberOfSpecWithIEEditors": 0
   },
   {
@@ -10388,33 +11123,21 @@
         "github": "Orphis"
       },
       {
-        "href": "https://api.w3.org/users/3wprkytayoow8oswko4gwogg0k004w4"
-      },
-      {
         "href": "https://api.w3.org/users/rhlfvt8a95w4swscs4os4kss0co8gck",
         "github": "vr000m"
       },
       {
         "href": "https://api.w3.org/users/6rmdl71gitk448kgk448cckws4kosw8",
         "github": "youennf"
-      }
-    ],
-    "ies": [
+      },
       {
-        "href": "https://api.w3.org/users/6c37ah5fwb4s8kw0c8o0wcwg40k8g8s",
-        "name": "Lennart Grahl",
-        "created": "2020-10-09 10:39:59",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "github": "lgrahl",
-        "affiliations": []
+        "href": "https://api.w3.org/users/3wprkytayoow8oswko4gwogg0k004w4"
       }
     ],
-    "numberOfParticipants": 92,
+    "ies": [],
+    "numberOfParticipants": 83,
     "numberOfChairs": 3,
-    "numberOfIE": 1,
+    "numberOfIE": 0,
     "numberOfIEChairs": 0,
     "numberOfEditors": 19,
     "numberOfIEEditors": 0,
@@ -10475,11 +11198,28 @@
             "href": "https://api.w3.org/affiliations/172031"
           }
         ]
+      },
+      {
+        "href": "https://api.w3.org/users/sdbgzlw4zb44k0kcwgsk8k80cscs8g4",
+        "name": "Linda van den Brink",
+        "created": "2026-03-05 12:31:38",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "lvdbrink",
+        "affiliations": [
+          {
+            "name": "Geonovum",
+            "homepage": "https://www.geonovum.nl",
+            "href": "https://api.w3.org/affiliations/75919"
+          }
+        ]
       }
     ],
-    "numberOfParticipants": 22,
+    "numberOfParticipants": 24,
     "numberOfChairs": 2,
-    "numberOfIE": 3,
+    "numberOfIE": 4,
     "numberOfIEChairs": 2,
     "numberOfEditors": 0,
     "numberOfIEEditors": 0,
@@ -10499,40 +11239,29 @@
         "href": "https://api.w3.org/users/q8ehx33omrk4o0kw840ws80ckc4k048"
       },
       {
-        "href": "https://api.w3.org/users/kzzpw4e5bb40os084og00co0wooggco",
-        "github": "rossberg"
-      },
-      {
         "href": "https://api.w3.org/users/337lwihdws6c8wko8g48sk84kk4cwwk",
         "github": "Ms2ger"
+      },
+      {
+        "href": "https://api.w3.org/users/qfih5s98gs0swo48swwoosc4ocookco",
+        "github": "eqrion"
+      },
+      {
+        "href": "https://api.w3.org/users/kzzpw4e5bb40os084og00co0wooggco",
+        "github": "rossberg"
       }
     ],
     "ies": [
       {
-        "href": "https://api.w3.org/users/aym506pcofcos8oc0g8sc84soook48s",
-        "name": "Conrad Watt",
-        "created": "2023-12-02 12:51:35",
-        "roles": {
-          "chair": false,
-          "editors": []
-        },
-        "affiliations": [
-          {
-            "name": "Nanyang Technological University",
-            "href": "https://api.w3.org/affiliations/61171"
-          }
-        ]
-      },
-      {
         "href": "https://api.w3.org/users/kzzpw4e5bb40os084og00co0wooggco",
         "name": "Andreas Rossberg",
-        "created": "2024-01-09 08:53:06",
+        "created": "2026-09-03 10:57:40",
         "roles": {
           "chair": false,
           "editors": [
             {
               "shortname": "wasm-core-2",
-              "date": "20250616"
+              "date": "20260921"
             }
           ]
         },
@@ -10542,12 +11271,62 @@
     ],
     "numberOfParticipants": 48,
     "numberOfChairs": 2,
-    "numberOfIE": 2,
+    "numberOfIE": 1,
     "numberOfIEChairs": 0,
-    "numberOfEditors": 4,
+    "numberOfEditors": 5,
     "numberOfIEEditors": 1,
     "numberOfSpecs": 6,
     "numberOfSpecWithIEEditors": 1
+  },
+  {
+    "id": 176878,
+    "name": "WebExtensions Working Group",
+    "type": "wg",
+    "fullshortname": "wg/webextensions",
+    "editors": [],
+    "ies": [
+      {
+        "href": "https://api.w3.org/users/altvlozr0sg0gg0og8cc48cgwssk04o",
+        "name": "Simeon Vincent",
+        "created": "2026-05-16 02:01:33",
+        "roles": {
+          "chair": true,
+          "editors": []
+        },
+        "github": "dotproto",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/q1vwsd5bzogkc044k8wosoog0k04cgk",
+        "name": "Carlos Jeurissen",
+        "created": "2026-05-22 23:23:31",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "carlosjeurissen",
+        "affiliations": []
+      },
+      {
+        "href": "https://api.w3.org/users/d3sh0ism2z488wcoo4gs8g0g0s0ws8k",
+        "name": "Sarven Capadisli",
+        "created": "2026-05-27 08:07:50",
+        "roles": {
+          "chair": false,
+          "editors": []
+        },
+        "github": "csarven",
+        "affiliations": []
+      }
+    ],
+    "numberOfParticipants": 27,
+    "numberOfChairs": 2,
+    "numberOfIE": 3,
+    "numberOfIEChairs": 1,
+    "numberOfEditors": 0,
+    "numberOfIEEditors": 0,
+    "numberOfSpecs": 0,
+    "numberOfSpecWithIEEditors": 0
   },
   {
     "id": 125908,
@@ -10556,16 +11335,16 @@
     "fullshortname": "wg/webtransport",
     "editors": [
       {
-        "href": "https://api.w3.org/users/8zglws0xhios4skgw0gskk8080wo84o",
-        "github": "nidhijaju"
+        "href": "https://api.w3.org/users/f521yr1m6g0kks880s8ocwsgwskgss4",
+        "github": "jan-ivar"
       },
       {
         "href": "https://api.w3.org/users/7dn4mxjjc0004sw8w0s84sg0ckgscs0",
         "github": "vasilvv"
       },
       {
-        "href": "https://api.w3.org/users/f521yr1m6g0kks880s8ocwsgwskgss4",
-        "github": "jan-ivar"
+        "href": "https://api.w3.org/users/8zglws0xhios4skgw0gskk8080wo84o",
+        "github": "nidhijaju"
       }
     ],
     "ies": [],
